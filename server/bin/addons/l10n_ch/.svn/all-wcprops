@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch
+END
+account_move_line.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/account_move_line.py
+END
+invoice.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/invoice.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/__init__.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/__openerp__.py
+END
+company.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/company.py
+END
+wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/wizard.xml
+END
+company_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/company_view.xml
+END
+dta.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/dta.py
+END
+dta_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/dta_data.xml
+END
+dta_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/dta_view.xml
+END
+partner.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/partner.py
+END
+bank.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/bank.py
+END
+journal_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/journal_data.xml
+END
+account_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/account_wizard.py
+END
+payment.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/payment.py
+END
+bank_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/bank_view.xml
+END
+account_invoice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/account_invoice.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_ch/readme.txt
+END

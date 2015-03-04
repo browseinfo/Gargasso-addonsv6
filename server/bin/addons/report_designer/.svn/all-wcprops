@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_designer
+END
+installer.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_designer/installer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_designer/__init__.py
+END
+report_designer_installer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_designer/report_designer_installer.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_designer/__openerp__.py
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be
+END
+account_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/account_demo.xml
+END
+l10n_be_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/l10n_be_wizard.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/__init__.py
+END
+l10n_be_sequence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/l10n_be_sequence.xml
+END
+pcmn.csv
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/pcmn.csv
+END
+pcmn3.csv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/pcmn3.csv
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/__openerp__.py
+END
+account_pcmn_belgium.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/account_pcmn_belgium.xml
+END
+company.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/company.py
+END
+fiscal_templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/fiscal_templates.xml
+END

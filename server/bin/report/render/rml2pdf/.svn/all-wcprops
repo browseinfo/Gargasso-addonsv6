@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/rml2pdf
+END
+trml2pdf.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/rml2pdf/trml2pdf.py
+END
+color.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/rml2pdf/color.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/rml2pdf/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/rml2pdf/utils.py
+END
+customfonts.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/rml2pdf/customfonts.py
+END

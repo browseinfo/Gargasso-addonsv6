@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project
+END
+project_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/project_view.xml
+END
+board_project_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/board_project_demo.xml
+END
+board_project_manager_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/board_project_manager_view.xml
+END
+project_installer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/project_installer.xml
+END
+installer.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/installer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/__init__.py
+END
+board_project_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/board_project_view.xml
+END
+project_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/project_demo.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/__openerp__.py
+END
+res_partner.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/res_partner.py
+END
+project.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/project.py
+END
+company.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/company.py
+END
+res_partner_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/res_partner_view.xml
+END
+project_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project/project_data.xml
+END

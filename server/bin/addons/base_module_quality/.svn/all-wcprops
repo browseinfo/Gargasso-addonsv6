@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_quality
+END
+base_module_quality_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_quality/base_module_quality_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_quality/__init__.py
+END
+base_module_quality_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_quality/base_module_quality_wizard.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_quality/__openerp__.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_quality/README.txt
+END
+base_module_quality.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_quality/base_module_quality.py
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/test
+END
+test_crm_recurrent_meeting.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/test/test_crm_recurrent_meeting.yml
+END
+test_crm_lead.yml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/test/test_crm_lead.yml
+END
+test_crm_phonecall.yml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/test/test_crm_phonecall.yml
+END
+test_crm_meeting.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/test/test_crm_meeting.yml
+END
+test_crm_stage_changes.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/test/test_crm_stage_changes.yml
+END
+test_crm_opportunity.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/test/test_crm_opportunity.yml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_holidays/wizard
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_holidays/wizard/__init__.py
+END
+hr_holidays_summary_employees.py
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_holidays/wizard/hr_holidays_summary_employees.py
+END
+hr_holidays_summary_department.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_holidays/wizard/hr_holidays_summary_department.py
+END
+hr_holidays_summary_employees_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_holidays/wizard/hr_holidays_summary_employees_view.xml
+END
+hr_holidays_summary_department_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_holidays/wizard/hr_holidays_summary_department_view.xml
+END

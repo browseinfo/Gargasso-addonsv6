@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase/test
+END
+purchase_from_picking.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase/test/purchase_from_picking.yml
+END
+procurement_buy.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase/test/procurement_buy.yml
+END
+purchase_report.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase/test/purchase_report.yml
+END
+purchase_from_order.yml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase/test/purchase_from_order.yml
+END
+purchase_from_manual.yml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase/test/purchase_from_manual.yml
+END

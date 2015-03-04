@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/lib
+END
+functions.py
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/lib/functions.py
+END
+error.py
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/lib/error.py
+END
+tiny_socket.py
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/lib/tiny_socket.py
+END
+logreport.py
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/lib/logreport.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/lib/__init__.py
+END
+actions.py
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/lib/actions.py
+END
+tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/lib/tools.py
+END
+gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/lib/gui.py
+END
+rpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/lib/rpc.py
+END

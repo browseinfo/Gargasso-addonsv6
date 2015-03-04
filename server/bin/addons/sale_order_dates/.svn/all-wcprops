@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale_order_dates
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale_order_dates/__init__.py
+END
+sale_order_dates.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale_order_dates/sale_order_dates.py
+END
+sale_order_dates_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale_order_dates/sale_order_dates_view.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale_order_dates/__openerp__.py
+END

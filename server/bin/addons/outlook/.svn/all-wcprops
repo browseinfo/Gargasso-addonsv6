@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook
+END
+installer.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/installer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/__init__.py
+END
+outlook_installer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/outlook_installer.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/__openerp__.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/README
+END

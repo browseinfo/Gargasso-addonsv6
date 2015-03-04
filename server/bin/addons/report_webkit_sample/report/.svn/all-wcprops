@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_webkit_sample/report
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_webkit_sample/report/__init__.py
+END
+report_webkit_html.mako
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_webkit_sample/report/report_webkit_html.mako
+END
+report_webkit_html.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_webkit_sample/report/report_webkit_html.py
+END

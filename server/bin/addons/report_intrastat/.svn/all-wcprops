@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_intrastat
+END
+intrastat_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_intrastat/intrastat_report.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_intrastat/__init__.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_intrastat/__openerp__.py
+END
+report_intrastat.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_intrastat/report_intrastat.py
+END
+report_intrastat_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_intrastat/report_intrastat_data.xml
+END
+report_intrastat_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/report_intrastat/report_intrastat_view.xml
+END

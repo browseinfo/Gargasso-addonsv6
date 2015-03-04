@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_accountant
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_accountant/__init__.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_accountant/__openerp__.py
+END
+account_accountant_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_accountant/account_accountant_demo.xml
+END

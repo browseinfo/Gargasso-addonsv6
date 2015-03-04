@@ -1,0 +1,2411 @@
+<?xml version="1.0"?>
+<document filename="test.pdf">
+  <template pageSize="(595.0,842.0)" title="Test" author="Martin Simon" allowSplitting="20">
+    <pageTemplate id="first">
+      <frame id="first" x1="36.0" y1="39.0" width="520" height="786"/>
+    </pageTemplate>
+  </template>
+  <stylesheet>
+    <blockTableStyle id="Standard_Outline">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table1">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table2">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="0,0" stop="0,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table4">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="0,0" stop="0,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table3">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="1,0" stop="1,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table5">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="1,0" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,1" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="1,1" stop="1,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table6">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table7">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="1,0" stop="1,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table8">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="1,0" stop="1,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table9">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="1,0" stop="1,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table10">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="1,0" stop="1,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table11">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="1,0" stop="1,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table12">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="1,0" stop="1,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table13">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="1,0" stop="1,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table21">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table14">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="1,0" stop="1,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table24">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table15">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="3,0" stop="3,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="3,0" stop="3,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="3,-1" stop="3,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table16">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table17">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table18">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="1,0" stop="1,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table19">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,1" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,1" stop="2,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,2" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,2" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table20">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="1,0" stop="1,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table23">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="1,0" stop="1,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table22">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,1" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,1" stop="2,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table25">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table26">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="1,0" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,1" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="1,1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,2" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="1,2" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,3" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="1,3" stop="1,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table27">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table28">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="0,0" stop="0,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table29">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="0,0" stop="0,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table30">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table31">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="0,0" stop="0,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table32">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="0,0" stop="0,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table33">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table34">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="0,0" stop="0,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table35">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="0,0" stop="0,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table36">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <initialize>
+      <paraStyle name="all" alignment="justify"/>
+    </initialize>
+    <paraStyle name="P1" fontName="Helvetica" fontSize="10.0" leading="13"/>
+    <paraStyle name="P2" fontName="Helvetica-Bold" fontSize="11.0" leading="14"/>
+    <paraStyle name="P3" fontName="Helvetica" fontSize="10.0" leading="13"/>
+    <paraStyle name="P4" fontName="Helvetica" fontSize="9.0" leading="13"/>
+    <paraStyle name="P5" fontName="Helvetica-Bold" fontSize="9.0" leading="11"/>
+    <paraStyle name="P6" fontName="Helvetica" fontSize="9.0" leading="11"/>
+    <paraStyle name="P7" fontName="Helvetica" fontSize="8.0" leading="10"/>
+    <paraStyle name="P8" fontName="Helvetica-Bold" fontSize="9.0" leading="11"/>
+    <paraStyle name="P9" fontName="Helvetica-Bold" fontSize="8.0" leading="10"/>
+    <paraStyle name="P10" fontName="Helvetica" fontSize="9.0" leading="11"/>
+    <paraStyle name="P11" fontName="Helvetica" fontSize="9.0" leading="11" alignment="RIGHT"/>
+    <paraStyle name="P12" fontName="Helvetica" fontSize="8.0" leading="10"/>
+    <paraStyle name="P13" fontName="Helvetica" fontSize="8.0" leading="10" alignment="JUSTIFY"/>
+    <paraStyle name="P14" fontName="Helvetica" fontSize="8.0" leading="10" alignment="CENTER"/>
+    <paraStyle name="P15" fontName="Helvetica" fontSize="8.0" leading="10"/>
+    <paraStyle name="P16" fontName="Helvetica" fontSize="8.0" leading="10" alignment="JUSTIFY"/>
+    <paraStyle name="P17" fontName="Helvetica" fontSize="8.0" leading="10" alignment="CENTER"/>
+    <paraStyle name="P18" fontName="Helvetica" fontSize="8.0" leading="10" alignment="LEFT"/>
+    <paraStyle name="P19" fontName="Helvetica" fontSize="8.0" leading="10" alignment="RIGHT"/>
+    <paraStyle name="P20" fontName="Helvetica-Oblique" fontSize="8.0" leading="10"/>
+    <paraStyle name="P21" fontName="Helvetica" fontSize="8.0" leading="10"/>
+    <paraStyle name="P22" fontName="Helvetica" fontSize="8.0" leading="13"/>
+    <paraStyle name="P23" fontName="Helvetica" fontSize="10.0" leading="13" alignment="JUSTIFY"/>
+    <paraStyle name="P24" fontName="Helvetica" fontSize="12.0" leading="13" alignment="CENTER"/>
+    <paraStyle name="P25" fontName="Helvetica" fontSize="7.0" leading="9"/>
+    <paraStyle name="P26" fontName="Helvetica" fontSize="8.0" leading="10" alignment="JUSTIFY"/>
+    <paraStyle name="P27" fontName="Helvetica" fontSize="12.0" leading="13" alignment="LEFT"/>
+    <paraStyle name="Standard" fontName="Helvetica"/>
+    <paraStyle name="Heading" fontName="Helvetica" fontSize="14.0" leading="17" spaceBefore="12.0" spaceAfter="6.0"/>
+    <paraStyle name="Text body" fontName="Helvetica" spaceBefore="0.0" spaceAfter="6.0"/>
+    <paraStyle name="List" fontName="Helvetica" spaceBefore="0.0" spaceAfter="6.0"/>
+    <paraStyle name="Caption" fontName="Helvetica" fontSize="12.0" leading="15" spaceBefore="6.0" spaceAfter="6.0"/>
+    <paraStyle name="Index" fontName="Helvetica"/>
+    <paraStyle name="Table Contents" fontName="Helvetica"/>
+    <paraStyle name="Header" fontName="Helvetica"/>
+    <paraStyle name="Table Heading" fontName="Helvetica" alignment="CENTER"/>
+    <images/>
+  </stylesheet>
+  <story>
+    <para style="P1">[[ repeatIn(objects,'invoice') ]]</para>
+    <section>
+      <para style="P4">
+        <font color="white"> </font>
+      </para>
+      <blockTable colWidths="307.0,144.0,69.0" style="Table1">
+        <tr>
+          <td>
+            <para style="P27"><font face="Helvetica-Bold">FORM A.R.E. - 1 No.</font> [[ invoice.are_form_number ]]</para>
+          </td>
+          <td>
+            <para style="P4"><font face="Helvetica-Bold">DATE: </font>[[ get_change_date_format(invoice.removal_date) ]]</para>
+          </td>
+          <td>
+            <para style="P4"><font face="Helvetica-Bold">ORIGINAL</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="520.0" style="Table2">
+        <tr>
+          <td>
+            <para style="P24"><font face="Helvetica-Bold">Application for Removal of Excisable goods</font></para>
+            <para style="P14"><font face="Helvetica-Bold">for export by (Air / Sea / Post / Land)*</font></para>
+            <para style="P14">(As per Notification No. 19/2004-CE (NT), dt. 6.9.2004)</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="260.0,260.0" style="Table3">
+        <tr>
+          <td>
+            <para style="P22">To,</para>
+            <para style="P22"><font face="Helvetica-Bold">The Superintendent of Central Excise,</font></para>
+            <para style="P22"><font face="Helvetica-Bold">RANGE 1, DIVISION 1 (Full Postal Address)</font></para>
+            <para style="P22"><font face="Helvetica-Bold">CGO COMPLEX, HAPUR ROAD, GHAZIABAD</font></para>
+          </td>
+          <td>
+            <para style="P22">Range <font face="Helvetica-Bold">I GZB</font><font color="white">DIVISIONDIVISION</font>Division<font face="Helvetica-Bold"> I GZB</font></para>
+            <para style="P22">Address </para>
+            <para style="P22"><font face="Helvetica-Bold">CGO COMPLEX, HAPUR ROAD, GHAZIABAD</font></para>
+            <para style="P22">
+              <font color="white"> </font>
+            </para>
+            <para style="P22">Commrte <font face="Helvetica-Bold">GHAZIABAD</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table5">
+        <tr>
+          <td>
+            <para style="P22">1.</para>
+          </td>
+          <td>
+            <para style="P23">Particulars of Assistant / Deputy Commissioner of Central Excise / Maritime Commissioner of Central Excise from whom rebate shall be clained / with whom Bond / Undertaking is executed and his complete postal address .......................................................................................................</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">2.</para>
+          </td>
+          <td>
+            <para style="P23">I / We <font face="Helvetica-Bold">GARG ASSOCIATES PRIVATE LIMITED, GHAZIABAD</font> Propose to export the under-mentioned consignment to <font face="Helvetica-Bold">[[ invoice.partner_id.name ]], [[ get_uppercase(invoice.final_destination_country) ]]</font> (country of destination)</para>
+            <para style="P23">By Air / Sea / Land / Parcel Post under claim .....................................................................for Rebate / Bond / Undertaking.*</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">1.</para>
+          </td>
+          <td>
+            <para style="P10">PARTICULARS OF MANUFACTURER OF GOODS AND HIS CENTRAL EXICE REGISTRATION NO.</para>
+          </td>
+          <td>
+            <para style="P10"><font face="Helvetica-Bold">GARG ASSOCIATES PRIVATE LIMITED</font></para>
+            <para style="P10"><font face="Helvetica-Bold">D-3, MEERUT ROAD INDL. AREA 3, GHAZIABAD 201 003, U.P.</font></para>
+            <para style="P10">
+              <font color="white"> </font>
+            </para>
+            <para style="P10"><font face="Helvetica-Bold">AAACG8772GXM001</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">2.</para>
+          </td>
+          <td>
+            <para style="P10">NO. AND DESCRIPTION OF PACKAGES</para>
+          </td>
+          <td>
+            <para style="P10">[[ amount_words(invoice.no_of_cartons,'') ]] CARD BOARD CARTONS</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">3.</para>
+          </td>
+          <td>
+            <para style="P10">GROSS WEIGHT / NET WEIGHT</para>
+          </td>
+          <td>
+            <para style="P10">NET WT (Kg) [[ invoice.weight ]] <font color="white">DIVISIONDIVISION</font>PKD WT (Kg) [[ invoice.packed ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">4.</para>
+          </td>
+          <td>
+            <para style="P10">MARKS AND NOS. ON PACKAGES</para>
+          </td>
+          <td>
+            <para style="P10">[[ invoice.lot_numbers ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">5.</para>
+          </td>
+          <td>
+            <para style="P10">QUANTITY OF GOODS</para>
+          </td>
+          <td>
+            <para style="P10">METER(S) [[ get_invoice_total(invoice,'quantity') ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">6.</para>
+          </td>
+          <td>
+            <para style="P10">DESCRIPTION OF GOODS</para>
+          </td>
+          <td>
+            <para style="P10"><font face="Helvetica-Bold">1. [[ invoice.excise_chapter ]]</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">7.</para>
+          </td>
+          <td>
+            <para style="P10">VALUE</para>
+          </td>
+          <td>
+            <para style="P10">(Rs.) [[ get_invoice_value(invoice).split('.')[0] ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">8.</para>
+          </td>
+          <td>
+            <para style="P10">RATE OF DUTY</para>
+          </td>
+          <td>
+            <blockTable colWidths="82.0,105.0,125.0" style="Table21">
+              <tr>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">Cenvat @ [[ get_duty_details(invoice,'rate','vat') ]] %</font></para>
+                </td>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">Education Cess @ [[ get_duty_details(invoice,'rate','edu') ]] %</font></para>
+                </td>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">S.H. Education Cess @ [[ get_duty_details(invoice,'rate','sedu') ]] %</font></para>
+                </td>
+              </tr>
+            </blockTable>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">9.</para>
+          </td>
+          <td>
+            <para style="P10">AMOUNT OF DUTY</para>
+          </td>
+          <td>
+            <blockTable colWidths="85.0,105.0,124.0" style="Table24">
+              <tr>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','vat') ]]</para>
+                </td>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','edu') ]]</para>
+                </td>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','sedu') ]]</para>
+                </td>
+              </tr>
+            </blockTable>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,211.0,103.0" style="Table15">
+        <tr>
+          <td>
+            <para style="P10">10.</para>
+          </td>
+          <td>
+            <para style="P10">No. AND DATE OF INVOICE UNDER WHICH DUTY WAS PAID/</para>
+            <para style="P10">No. AND DATE OF BOND/</para>
+            <para style="P10">UNDERTAKING EXECUTED UNDER RULE – 19.</para>
+          </td>
+          <td>
+            <para style="P10">INVOICE NO. <font color="white">ABI</font><font face="Helvetica-Bold">[[ invoice.name ]]</font></para>
+            <para style="P10">UNDERTAKING <font color="white">A</font><font face="Helvetica-Bold">[[ invoice.undertaking_bond ]]</font></para>
+            <para style="P10">B-1 BOND No.</para>
+          </td>
+          <td>
+            <para style="P11">DATE: [[ get_change_date_format(invoice.removal_date) ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,314.0" style="Table16">
+        <tr>
+          <td>
+            <para style="P10">11.</para>
+          </td>
+          <td>
+            <para style="P10">AMOUNT OF REBATE CLAIMED</para>
+          </td>
+          <td>
+            <para style="P10">It is certified that goods have been sealed in my presence, meant for export.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,314.0" style="Table17">
+        <tr>
+          <td>
+            <para style="P10">12.</para>
+          </td>
+          <td>
+            <para style="P10">REMARKS</para>
+          </td>
+          <td>
+            <para style="P10">1 [[ invoice.currency_id.name ]] = Rs. [[ invoice.currency_rate ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table18">
+        <tr>
+          <td>
+            <para style="P15">3.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby certify that the above – mentioned goods have been manufactured.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,24.0,482.0" style="Table19">
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(a)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility of CENVAT credit under CENVAT Credit Rules, 2002.</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(b)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility under Notification No. <font face="Helvetica-Bold">21/2004-CE (NT)</font>,</para>
+            <para style="P16">dated 6th Sept. 2004 issued under rule 18 of C.E. Rules, 2002.</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(c)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility under Notification No. <font face="Helvetica-Bold">43/2001-Central Excise (NT)</font></para>
+            <para style="P16">dated the 26th June, 2001 issued under rule 19 of C.E. (No. 2) Rules, 2001.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table20">
+        <tr>
+          <td>
+            <para style="P15">4.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby declare that the export is in discharge of the export obligation under a Quantity </para>
+            <para style="P16">Based Advance License / Under Claim of Duty Drawback under Customs &amp; Central Excise </para>
+            <para style="P16">Duty Drawback Rules, 1995.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table23">
+        <tr>
+          <td>
+            <para style="P15">5.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby declare that the above particulars are true and correctly stated.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="155.0,129.0,236.0" style="Table22">
+        <tr>
+          <td>
+            <para style="P15">Time of Removal ............................</para>
+          </td>
+          <td>
+            <para style="P15"><font face="Helvetica-Bold">Date: [[ get_change_date_format(invoice.removal_date) ]]</font></para>
+          </td>
+          <td>
+            <para style="P15">
+              <font color="white"> </font>
+            </para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P15">
+              <font color="white"> </font>
+            </para>
+          </td>
+          <td>
+            <para style="P15"><font face="Helvetica-Bold">Place: GHAZIABAD</font></para>
+          </td>
+          <td>
+            <para style="P19">Signature of owner or his Authorised agent with date</para>
+            <para style="P19">Name in Block Letters &amp; Designation (Seal)</para>
+          </td>
+        </tr>
+      </blockTable>
+      <para style="P4"><font face="Helvetica-Bold">Code No. 43389</font></para>
+    </section>
+    <pageBreak/>
+    <section>
+      <para style="P4">
+        <font color="white"> </font>
+      </para>
+      <blockTable colWidths="307.0,144.0,69.0" style="Table1">
+        <tr>
+          <td>
+            <para style="P27"><font face="Helvetica-Bold">FORM A.R.E. - 1 No.</font> [[ invoice.are_form_number ]]</para>
+          </td>
+          <td>
+            <para style="P4"><font face="Helvetica-Bold">DATE: </font>[[ get_change_date_format(invoice.removal_date) ]]</para>
+          </td>
+          <td>
+            <para style="P4"><font face="Helvetica-Bold">DUPLICATE</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="520.0" style="Table2">
+        <tr>
+          <td>
+            <para style="P24"><font face="Helvetica-Bold">Application for Removal of Excisable goods</font></para>
+            <para style="P14"><font face="Helvetica-Bold">for export by (Air / Sea / Post / Land)*</font></para>
+            <para style="P14">(As per Notification No. 19/2004-CE (NT), dt. 6.9.2004)</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="260.0,260.0" style="Table3">
+        <tr>
+          <td>
+            <para style="P22">To,</para>
+            <para style="P22"><font face="Helvetica-Bold">The Superintendent of Central Excise,</font></para>
+            <para style="P22"><font face="Helvetica-Bold">RANGE 1, DIVISION 1 (Full Postal Address)</font></para>
+            <para style="P22"><font face="Helvetica-Bold">CGO COMPLEX, HAPUR ROAD, GHAZIABAD</font></para>
+          </td>
+          <td>
+            <para style="P22">Range <font face="Helvetica-Bold">I GZB</font><font color="white">DIVISIONDIVISION</font>Division<font face="Helvetica-Bold"> I GZB</font></para>
+            <para style="P22">Address </para>
+            <para style="P22"><font face="Helvetica-Bold">CGO COMPLEX, HAPUR ROAD, GHAZIABAD</font></para>
+            <para style="P22">
+              <font color="white"> </font>
+            </para>
+            <para style="P22">Commrte <font face="Helvetica-Bold">GHAZIABAD</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table5">
+        <tr>
+          <td>
+            <para style="P22">1.</para>
+          </td>
+          <td>
+            <para style="P23">Particulars of Assistant / Deputy Commissioner of Central Excise / Maritime Commissioner of Central Excise from whom rebate shall be clained / with whom Bond / Undertaking is executed and his complete postal address .......................................................................................................</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">2.</para>
+          </td>
+          <td>
+            <para style="P23">I / We <font face="Helvetica-Bold">GARG ASSOCIATES PRIVATE LIMITED, GHAZIABAD</font> Propose to export the under-mentioned consignment to <font face="Helvetica-Bold">[[ invoice.partner_id.name ]], [[ get_uppercase(invoice.final_destination_country) ]]</font> (country of destination)</para>
+            <para style="P23">By Air / Sea / Land / Parcel Post under claim .....................................................................for Rebate / Bond / Undertaking.*</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">1.</para>
+          </td>
+          <td>
+            <para style="P10">PARTICULARS OF MANUFACTURER OF GOODS AND HIS CENTRAL EXICE REGISTRATION NO.</para>
+          </td>
+          <td>
+            <para style="P10"><font face="Helvetica-Bold">GARG ASSOCIATES PRIVATE LIMITED</font></para>
+            <para style="P10"><font face="Helvetica-Bold">D-3, MEERUT ROAD INDL. AREA 3, GHAZIABAD 201 003, U.P.</font></para>
+            <para style="P10">
+              <font color="white"> </font>
+            </para>
+            <para style="P10"><font face="Helvetica-Bold">AAACG8772GXM001</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">2.</para>
+          </td>
+          <td>
+            <para style="P10">NO. AND DESCRIPTION OF PACKAGES</para>
+          </td>
+          <td>
+            <para style="P10">[[ amount_words(invoice.no_of_cartons,'') ]] CARD BOARD CARTONS</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">3.</para>
+          </td>
+          <td>
+            <para style="P10">GROSS WEIGHT / NET WEIGHT</para>
+          </td>
+          <td>
+            <para style="P10">NET WT (Kg) [[ invoice.weight ]] <font color="white">DIVISIONDIVISION</font>PKD WT (Kg) [[ invoice.packed ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">4.</para>
+          </td>
+          <td>
+            <para style="P10">MARKS AND NOS. ON PACKAGES</para>
+          </td>
+          <td>
+            <para style="P10">[[ invoice.lot_numbers ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">5.</para>
+          </td>
+          <td>
+            <para style="P10">QUANTITY OF GOODS</para>
+          </td>
+          <td>
+            <para style="P10">METER(S) [[ get_invoice_total(invoice,'quantity') ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">6.</para>
+          </td>
+          <td>
+            <para style="P10">DESCRIPTION OF GOODS</para>
+          </td>
+          <td>
+            <para style="P10"><font face="Helvetica-Bold">1. [[ invoice.excise_chapter ]]</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">7.</para>
+          </td>
+          <td>
+            <para style="P10">VALUE</para>
+          </td>
+          <td>
+            <para style="P10">(Rs.) [[ get_invoice_value(invoice).split('.')[0] ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">8.</para>
+          </td>
+          <td>
+            <para style="P10">RATE OF DUTY</para>
+          </td>
+          <td>
+            <blockTable colWidths="82.0,105.0,125.0" style="Table21">
+              <tr>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">Cenvat @ [[ get_duty_details(invoice,'rate','vat') ]] %</font></para>
+                </td>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">Education Cess @ [[ get_duty_details(invoice,'rate','edu') ]] %</font></para>
+                </td>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">S.H. Education Cess @ [[ get_duty_details(invoice,'rate','sedu') ]] %</font></para>
+                </td>
+              </tr>
+            </blockTable>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">9.</para>
+          </td>
+          <td>
+            <para style="P10">AMOUNT OF DUTY</para>
+          </td>
+          <td>
+            <blockTable colWidths="85.0,105.0,124.0" style="Table24">
+              <tr>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','vat') ]]</para>
+                </td>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','edu') ]]</para>
+                </td>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','sedu') ]]</para>
+                </td>
+              </tr>
+            </blockTable>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,211.0,103.0" style="Table15">
+        <tr>
+          <td>
+            <para style="P10">10.</para>
+          </td>
+          <td>
+            <para style="P10">No. AND DATE OF INVOICE UNDER WHICH DUTY WAS PAID/</para>
+            <para style="P10">No. AND DATE OF BOND/</para>
+            <para style="P10">UNDERTAKING EXECUTED UNDER RULE – 19.</para>
+          </td>
+          <td>
+            <para style="P10">INVOICE NO. <font color="white">ABI</font><font face="Helvetica-Bold">[[ invoice.name ]]</font></para>
+            <para style="P10">UNDERTAKING <font color="white">A</font><font face="Helvetica-Bold">[[ invoice.undertaking_bond ]]</font></para>
+            <para style="P10">B-1 BOND No.</para>
+          </td>
+          <td>
+            <para style="P11">DATE: [[ get_change_date_format(invoice.removal_date) ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,314.0" style="Table16">
+        <tr>
+          <td>
+            <para style="P10">11.</para>
+          </td>
+          <td>
+            <para style="P10">AMOUNT OF REBATE CLAIMED</para>
+          </td>
+          <td>
+            <para style="P10">It is certified that goods have been sealed in my presence, meant for export.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,314.0" style="Table17">
+        <tr>
+          <td>
+            <para style="P10">12.</para>
+          </td>
+          <td>
+            <para style="P10">REMARKS</para>
+          </td>
+          <td>
+            <para style="P10">1 [[ invoice.currency_id.name ]] = Rs. [[ invoice.currency_rate ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table18">
+        <tr>
+          <td>
+            <para style="P15">3.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby certify that the above – mentioned goods have been manufactured.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,24.0,482.0" style="Table19">
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(a)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility of CENVAT credit under CENVAT Credit Rules, 2002.</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(b)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility under Notification No. <font face="Helvetica-Bold">21/2004-CE (NT)</font>,</para>
+            <para style="P16">dated 6th Sept. 2004 issued under rule 18 of C.E. Rules, 2002.</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(c)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility under Notification No. <font face="Helvetica-Bold">43/2001-Central Excise (NT)</font></para>
+            <para style="P16">dated the 26th June, 2001 issued under rule 19 of C.E. (No. 2) Rules, 2001.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table20">
+        <tr>
+          <td>
+            <para style="P15">4.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby declare that the export is in discharge of the export obligation under a Quantity </para>
+            <para style="P16">Based Advance License / Under Claim of Duty Drawback under Customs &amp; Central Excise </para>
+            <para style="P16">Duty Drawback Rules, 1995.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table23">
+        <tr>
+          <td>
+            <para style="P15">5.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby declare that the above particulars are true and correctly stated.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="155.0,129.0,236.0" style="Table22">
+        <tr>
+          <td>
+            <para style="P15">Time of Removal ............................</para>
+          </td>
+          <td>
+            <para style="P15"><font face="Helvetica-Bold">Date: [[ get_change_date_format(invoice.removal_date) ]]</font></para>
+          </td>
+          <td>
+            <para style="P15">
+              <font color="white"> </font>
+            </para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P15">
+              <font color="white"> </font>
+            </para>
+          </td>
+          <td>
+            <para style="P15"><font face="Helvetica-Bold">Place: GHAZIABAD</font></para>
+          </td>
+          <td>
+            <para style="P19">Signature of owner or his Authorised agent with date</para>
+            <para style="P19">Name in Block Letters &amp; Designation (Seal)</para>
+          </td>
+        </tr>
+      </blockTable>
+      <para style="P4"><font face="Helvetica-Bold">Code No. 43389</font></para>
+    </section>
+    <pageBreak/>
+    <section>
+      <para style="P4">
+        <font color="white"> </font>
+      </para>
+      <blockTable colWidths="307.0,144.0,69.0" style="Table1">
+        <tr>
+          <td>
+            <para style="P27"><font face="Helvetica-Bold">FORM A.R.E. - 1 No.</font> [[ invoice.are_form_number ]]</para>
+          </td>
+          <td>
+            <para style="P4"><font face="Helvetica-Bold">DATE: </font>[[ get_change_date_format(invoice.removal_date) ]]</para>
+          </td>
+          <td>
+            <para style="P4"><font face="Helvetica-Bold">TRIPLICATE</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="520.0" style="Table2">
+        <tr>
+          <td>
+            <para style="P24"><font face="Helvetica-Bold">Application for Removal of Excisable goods</font></para>
+            <para style="P14"><font face="Helvetica-Bold">for export by (Air / Sea / Post / Land)*</font></para>
+            <para style="P14">(As per Notification No. 19/2004-CE (NT), dt. 6.9.2004)</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="260.0,260.0" style="Table3">
+        <tr>
+          <td>
+            <para style="P22">To,</para>
+            <para style="P22"><font face="Helvetica-Bold">The Superintendent of Central Excise,</font></para>
+            <para style="P22"><font face="Helvetica-Bold">RANGE 1, DIVISION 1 (Full Postal Address)</font></para>
+            <para style="P22"><font face="Helvetica-Bold">CGO COMPLEX, HAPUR ROAD, GHAZIABAD</font></para>
+          </td>
+          <td>
+            <para style="P22">Range <font face="Helvetica-Bold">I GZB</font><font color="white">DIVISIONDIVISION</font>Division<font face="Helvetica-Bold"> I GZB</font></para>
+            <para style="P22">Address </para>
+            <para style="P22"><font face="Helvetica-Bold">CGO COMPLEX, HAPUR ROAD, GHAZIABAD</font></para>
+            <para style="P22">
+              <font color="white"> </font>
+            </para>
+            <para style="P22">Commrte <font face="Helvetica-Bold">GHAZIABAD</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table5">
+        <tr>
+          <td>
+            <para style="P22">1.</para>
+          </td>
+          <td>
+            <para style="P23">Particulars of Assistant / Deputy Commissioner of Central Excise / Maritime Commissioner of Central Excise from whom rebate shall be clained / with whom Bond / Undertaking is executed and his complete postal address .......................................................................................................</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">2.</para>
+          </td>
+          <td>
+            <para style="P23">I / We <font face="Helvetica-Bold">GARG ASSOCIATES PRIVATE LIMITED, GHAZIABAD</font> Propose to export the under-mentioned consignment to <font face="Helvetica-Bold">[[ invoice.partner_id.name ]], [[ get_uppercase(invoice.final_destination_country) ]]</font> (country of destination)</para>
+            <para style="P23">By Air / Sea / Land / Parcel Post under claim .....................................................................for Rebate / Bond / Undertaking.*</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">1.</para>
+          </td>
+          <td>
+            <para style="P10">PARTICULARS OF MANUFACTURER OF GOODS AND HIS CENTRAL EXICE REGISTRATION NO.</para>
+          </td>
+          <td>
+            <para style="P10"><font face="Helvetica-Bold">GARG ASSOCIATES PRIVATE LIMITED</font></para>
+            <para style="P10"><font face="Helvetica-Bold">D-3, MEERUT ROAD INDL. AREA 3, GHAZIABAD 201 003, U.P.</font></para>
+            <para style="P10">
+              <font color="white"> </font>
+            </para>
+            <para style="P10"><font face="Helvetica-Bold">AAACG8772GXM001</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">2.</para>
+          </td>
+          <td>
+            <para style="P10">NO. AND DESCRIPTION OF PACKAGES</para>
+          </td>
+          <td>
+            <para style="P10">[[ amount_words(invoice.no_of_cartons,'') ]] CARD BOARD CARTONS</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">3.</para>
+          </td>
+          <td>
+            <para style="P10">GROSS WEIGHT / NET WEIGHT</para>
+          </td>
+          <td>
+            <para style="P10">NET WT (Kg) [[ invoice.weight ]] <font color="white">DIVISIONDIVISION</font>PKD WT (Kg) [[ invoice.packed ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">4.</para>
+          </td>
+          <td>
+            <para style="P10">MARKS AND NOS. ON PACKAGES</para>
+          </td>
+          <td>
+            <para style="P10">[[ invoice.lot_numbers ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">5.</para>
+          </td>
+          <td>
+            <para style="P10">QUANTITY OF GOODS</para>
+          </td>
+          <td>
+            <para style="P10">METER(S) [[ get_invoice_total(invoice,'quantity') ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">6.</para>
+          </td>
+          <td>
+            <para style="P10">DESCRIPTION OF GOODS</para>
+          </td>
+          <td>
+            <para style="P10"><font face="Helvetica-Bold">1. [[ invoice.excise_chapter ]]</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">7.</para>
+          </td>
+          <td>
+            <para style="P10">VALUE</para>
+          </td>
+          <td>
+            <para style="P10">(Rs.) [[ get_invoice_value(invoice).split('.')[0] ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">8.</para>
+          </td>
+          <td>
+            <para style="P10">RATE OF DUTY</para>
+          </td>
+          <td>
+            <blockTable colWidths="82.0,105.0,125.0" style="Table21">
+              <tr>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">Cenvat @ [[ get_duty_details(invoice,'rate','vat') ]] %</font></para>
+                </td>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">Education Cess @ [[ get_duty_details(invoice,'rate','edu') ]] %</font></para>
+                </td>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">S.H. Education Cess @ [[ get_duty_details(invoice,'rate','sedu') ]] %</font></para>
+                </td>
+              </tr>
+            </blockTable>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">9.</para>
+          </td>
+          <td>
+            <para style="P10">AMOUNT OF DUTY</para>
+          </td>
+          <td>
+            <blockTable colWidths="85.0,105.0,124.0" style="Table24">
+              <tr>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','vat') ]]</para>
+                </td>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','edu') ]]</para>
+                </td>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','sedu') ]]</para>
+                </td>
+              </tr>
+            </blockTable>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,211.0,103.0" style="Table15">
+        <tr>
+          <td>
+            <para style="P10">10.</para>
+          </td>
+          <td>
+            <para style="P10">No. AND DATE OF INVOICE UNDER WHICH DUTY WAS PAID/</para>
+            <para style="P10">No. AND DATE OF BOND/</para>
+            <para style="P10">UNDERTAKING EXECUTED UNDER RULE – 19.</para>
+          </td>
+          <td>
+            <para style="P10">INVOICE NO. <font color="white">ABI</font><font face="Helvetica-Bold">[[ invoice.name ]]</font></para>
+            <para style="P10">UNDERTAKING <font color="white">A</font><font face="Helvetica-Bold">[[ invoice.undertaking_bond ]]</font></para>
+            <para style="P10">B-1 BOND No.</para>
+          </td>
+          <td>
+            <para style="P11">DATE: [[ get_change_date_format(invoice.removal_date) ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,314.0" style="Table16">
+        <tr>
+          <td>
+            <para style="P10">11.</para>
+          </td>
+          <td>
+            <para style="P10">AMOUNT OF REBATE CLAIMED</para>
+          </td>
+          <td>
+            <para style="P10">It is certified that goods have been sealed in my presence, meant for export.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,314.0" style="Table17">
+        <tr>
+          <td>
+            <para style="P10">12.</para>
+          </td>
+          <td>
+            <para style="P10">REMARKS</para>
+          </td>
+          <td>
+            <para style="P10">1 [[ invoice.currency_id.name ]] = Rs. [[ invoice.currency_rate ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table18">
+        <tr>
+          <td>
+            <para style="P15">3.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby certify that the above – mentioned goods have been manufactured.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,24.0,482.0" style="Table19">
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(a)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility of CENVAT credit under CENVAT Credit Rules, 2002.</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(b)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility under Notification No. <font face="Helvetica-Bold">21/2004-CE (NT)</font>,</para>
+            <para style="P16">dated 6th Sept. 2004 issued under rule 18 of C.E. Rules, 2002.</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(c)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility under Notification No. <font face="Helvetica-Bold">43/2001-Central Excise (NT)</font></para>
+            <para style="P16">dated the 26th June, 2001 issued under rule 19 of C.E. (No. 2) Rules, 2001.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table20">
+        <tr>
+          <td>
+            <para style="P15">4.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby declare that the export is in discharge of the export obligation under a Quantity </para>
+            <para style="P16">Based Advance License / Under Claim of Duty Drawback under Customs &amp; Central Excise </para>
+            <para style="P16">Duty Drawback Rules, 1995.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table23">
+        <tr>
+          <td>
+            <para style="P15">5.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby declare that the above particulars are true and correctly stated.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="155.0,129.0,236.0" style="Table22">
+        <tr>
+          <td>
+            <para style="P15">Time of Removal ............................</para>
+          </td>
+          <td>
+            <para style="P15"><font face="Helvetica-Bold">Date: [[ get_change_date_format(invoice.removal_date) ]]</font></para>
+          </td>
+          <td>
+            <para style="P15">
+              <font color="white"> </font>
+            </para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P15">
+              <font color="white"> </font>
+            </para>
+          </td>
+          <td>
+            <para style="P15"><font face="Helvetica-Bold">Place: GHAZIABAD</font></para>
+          </td>
+          <td>
+            <para style="P19">Signature of owner or his Authorised agent with date</para>
+            <para style="P19">Name in Block Letters &amp; Designation (Seal)</para>
+          </td>
+        </tr>
+      </blockTable>
+      <para style="P4"><font face="Helvetica-Bold">Code No. 43389</font></para>
+    </section>
+    <pageBreak/>
+    <section>
+      <para style="P4">
+        <font color="white"> </font>
+      </para>
+      <blockTable colWidths="307.0,123.0,90.0" style="Table1">
+        <tr>
+          <td>
+            <para style="P27"><font face="Helvetica-Bold">FORM A.R.E. - 1 No.</font> [[ invoice.are_form_number ]]</para>
+          </td>
+          <td>
+            <para style="P4"><font face="Helvetica-Bold">DATE: </font>[[ get_change_date_format(invoice.removal_date) ]]</para>
+          </td>
+          <td>
+            <para style="P4"><font face="Helvetica-Bold">QUADUPLICATE</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="520.0" style="Table2">
+        <tr>
+          <td>
+            <para style="P24"><font face="Helvetica-Bold">Application for Removal of Excisable goods</font></para>
+            <para style="P14"><font face="Helvetica-Bold">for export by (Air / Sea / Post / Land)*</font></para>
+            <para style="P14">(As per Notification No. 19/2004-CE (NT), dt. 6.9.2004)</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="260.0,260.0" style="Table3">
+        <tr>
+          <td>
+            <para style="P22">To,</para>
+            <para style="P22"><font face="Helvetica-Bold">The Superintendent of Central Excise,</font></para>
+            <para style="P22"><font face="Helvetica-Bold">RANGE 1, DIVISION 1 (Full Postal Address)</font></para>
+            <para style="P22"><font face="Helvetica-Bold">CGO COMPLEX, HAPUR ROAD, GHAZIABAD</font></para>
+          </td>
+          <td>
+            <para style="P22">Range <font face="Helvetica-Bold">I GZB</font><font color="white">DIVISIONDIVISION</font>Division<font face="Helvetica-Bold"> I GZB</font></para>
+            <para style="P22">Address </para>
+            <para style="P22"><font face="Helvetica-Bold">CGO COMPLEX, HAPUR ROAD, GHAZIABAD</font></para>
+            <para style="P22">
+              <font color="white"> </font>
+            </para>
+            <para style="P22">Commrte <font face="Helvetica-Bold">GHAZIABAD</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table5">
+        <tr>
+          <td>
+            <para style="P22">1.</para>
+          </td>
+          <td>
+            <para style="P23">Particulars of Assistant / Deputy Commissioner of Central Excise / Maritime Commissioner of Central Excise from whom rebate shall be clained / with whom Bond / Undertaking is executed and his complete postal address .......................................................................................................</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">2.</para>
+          </td>
+          <td>
+            <para style="P23">I / We <font face="Helvetica-Bold">GARG ASSOCIATES PRIVATE LIMITED, GHAZIABAD</font> Propose to export the under-mentioned consignment to <font face="Helvetica-Bold">[[ invoice.partner_id.name ]], [[ get_uppercase(invoice.final_destination_country) ]]</font> (country of destination)</para>
+            <para style="P23">By Air / Sea / Land / Parcel Post under claim .....................................................................for Rebate / Bond / Undertaking.*</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">1.</para>
+          </td>
+          <td>
+            <para style="P10">PARTICULARS OF MANUFACTURER OF GOODS AND HIS CENTRAL EXICE REGISTRATION NO.</para>
+          </td>
+          <td>
+            <para style="P10"><font face="Helvetica-Bold">GARG ASSOCIATES PRIVATE LIMITED</font></para>
+            <para style="P10"><font face="Helvetica-Bold">D-3, MEERUT ROAD INDL. AREA 3, GHAZIABAD 201 003, U.P.</font></para>
+            <para style="P10">
+              <font color="white"> </font>
+            </para>
+            <para style="P10"><font face="Helvetica-Bold">AAACG8772GXM001</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">2.</para>
+          </td>
+          <td>
+            <para style="P10">NO. AND DESCRIPTION OF PACKAGES</para>
+          </td>
+          <td>
+            <para style="P10">[[ amount_words(invoice.no_of_cartons,'') ]] CARD BOARD CARTONS</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">3.</para>
+          </td>
+          <td>
+            <para style="P10">GROSS WEIGHT / NET WEIGHT</para>
+          </td>
+          <td>
+            <para style="P10">NET WT (Kg) [[ invoice.weight ]] <font color="white">DIVISIONDIVISION</font>PKD WT (Kg) [[ invoice.packed ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">4.</para>
+          </td>
+          <td>
+            <para style="P10">MARKS AND NOS. ON PACKAGES</para>
+          </td>
+          <td>
+            <para style="P10">[[ invoice.lot_numbers ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">5.</para>
+          </td>
+          <td>
+            <para style="P10">QUANTITY OF GOODS</para>
+          </td>
+          <td>
+            <para style="P10">METER(S) [[ get_invoice_total(invoice,'quantity') ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">6.</para>
+          </td>
+          <td>
+            <para style="P10">DESCRIPTION OF GOODS</para>
+          </td>
+          <td>
+            <para style="P10"><font face="Helvetica-Bold">1. [[ invoice.excise_chapter ]]</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">7.</para>
+          </td>
+          <td>
+            <para style="P10">VALUE</para>
+          </td>
+          <td>
+            <para style="P10">(Rs.) [[ get_invoice_value(invoice).split('.')[0] ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">8.</para>
+          </td>
+          <td>
+            <para style="P10">RATE OF DUTY</para>
+          </td>
+          <td>
+            <blockTable colWidths="82.0,105.0,125.0" style="Table21">
+              <tr>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">Cenvat @ [[ get_duty_details(invoice,'rate','vat') ]] %</font></para>
+                </td>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">Education Cess @ [[ get_duty_details(invoice,'rate','edu') ]] %</font></para>
+                </td>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">S.H. Education Cess @ [[ get_duty_details(invoice,'rate','sedu') ]] %</font></para>
+                </td>
+              </tr>
+            </blockTable>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">9.</para>
+          </td>
+          <td>
+            <para style="P10">AMOUNT OF DUTY</para>
+          </td>
+          <td>
+            <blockTable colWidths="85.0,105.0,124.0" style="Table24">
+              <tr>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','vat') ]]</para>
+                </td>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','edu') ]]</para>
+                </td>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','sedu') ]]</para>
+                </td>
+              </tr>
+            </blockTable>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,211.0,103.0" style="Table15">
+        <tr>
+          <td>
+            <para style="P10">10.</para>
+          </td>
+          <td>
+            <para style="P10">No. AND DATE OF INVOICE UNDER WHICH DUTY WAS PAID/</para>
+            <para style="P10">No. AND DATE OF BOND/</para>
+            <para style="P10">UNDERTAKING EXECUTED UNDER RULE – 19.</para>
+          </td>
+          <td>
+            <para style="P10">INVOICE NO. <font color="white">ABI</font><font face="Helvetica-Bold">[[ invoice.name ]]</font></para>
+            <para style="P10">UNDERTAKING <font color="white">A</font><font face="Helvetica-Bold">[[ invoice.undertaking_bond ]]</font></para>
+            <para style="P10">B-1 BOND No.</para>
+          </td>
+          <td>
+            <para style="P11">DATE: [[ get_change_date_format(invoice.removal_date) ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,314.0" style="Table16">
+        <tr>
+          <td>
+            <para style="P10">11.</para>
+          </td>
+          <td>
+            <para style="P10">AMOUNT OF REBATE CLAIMED</para>
+          </td>
+          <td>
+            <para style="P10">It is certified that goods have been sealed in my presence, meant for export.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,314.0" style="Table17">
+        <tr>
+          <td>
+            <para style="P10">12.</para>
+          </td>
+          <td>
+            <para style="P10">REMARKS</para>
+          </td>
+          <td>
+            <para style="P10">1 [[ invoice.currency_id.name ]] = Rs. [[ invoice.currency_rate ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table18">
+        <tr>
+          <td>
+            <para style="P15">3.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby certify that the above – mentioned goods have been manufactured.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,24.0,482.0" style="Table19">
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(a)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility of CENVAT credit under CENVAT Credit Rules, 2002.</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(b)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility under Notification No. <font face="Helvetica-Bold">21/2004-CE (NT)</font>,</para>
+            <para style="P16">dated 6th Sept. 2004 issued under rule 18 of C.E. Rules, 2002.</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(c)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility under Notification No. <font face="Helvetica-Bold">43/2001-Central Excise (NT)</font></para>
+            <para style="P16">dated the 26th June, 2001 issued under rule 19 of C.E. (No. 2) Rules, 2001.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table20">
+        <tr>
+          <td>
+            <para style="P15">4.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby declare that the export is in discharge of the export obligation under a Quantity </para>
+            <para style="P16">Based Advance License / Under Claim of Duty Drawback under Customs &amp; Central Excise </para>
+            <para style="P16">Duty Drawback Rules, 1995.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table23">
+        <tr>
+          <td>
+            <para style="P15">5.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby declare that the above particulars are true and correctly stated.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="155.0,129.0,236.0" style="Table22">
+        <tr>
+          <td>
+            <para style="P15">Time of Removal ............................</para>
+          </td>
+          <td>
+            <para style="P15"><font face="Helvetica-Bold">Date: [[ get_change_date_format(invoice.removal_date) ]]</font></para>
+          </td>
+          <td>
+            <para style="P15">
+              <font color="white"> </font>
+            </para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P15">
+              <font color="white"> </font>
+            </para>
+          </td>
+          <td>
+            <para style="P15"><font face="Helvetica-Bold">Place: GHAZIABAD</font></para>
+          </td>
+          <td>
+            <para style="P19">Signature of owner or his Authorised agent with date</para>
+            <para style="P19">Name in Block Letters &amp; Designation (Seal)</para>
+          </td>
+        </tr>
+      </blockTable>
+      <para style="P4"><font face="Helvetica-Bold">Code No. 43389</font></para>
+    </section>
+    <pageBreak/>
+    <section>
+      <para style="P4">
+        <font color="white"> </font>
+      </para>
+      <blockTable colWidths="307.0,123.0,90.0" style="Table1">
+        <tr>
+          <td>
+            <para style="P27"><font face="Helvetica-Bold">FORM A.R.E. - 1 No.</font> [[ invoice.are_form_number ]]</para>
+          </td>
+          <td>
+            <para style="P4"><font face="Helvetica-Bold">DATE: </font>[[ get_change_date_format(invoice.removal_date) ]]</para>
+          </td>
+          <td>
+            <para style="P4"><font face="Helvetica-Bold">QUINTUPLICATE</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="520.0" style="Table2">
+        <tr>
+          <td>
+            <para style="P24"><font face="Helvetica-Bold">Application for Removal of Excisable goods</font></para>
+            <para style="P14"><font face="Helvetica-Bold">for export by (Air / Sea / Post / Land)*</font></para>
+            <para style="P14">(As per Notification No. 19/2004-CE (NT), dt. 6.9.2004)</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="260.0,260.0" style="Table3">
+        <tr>
+          <td>
+            <para style="P22">To,</para>
+            <para style="P22"><font face="Helvetica-Bold">The Superintendent of Central Excise,</font></para>
+            <para style="P22"><font face="Helvetica-Bold">RANGE 1, DIVISION 1 (Full Postal Address)</font></para>
+            <para style="P22"><font face="Helvetica-Bold">CGO COMPLEX, HAPUR ROAD, GHAZIABAD</font></para>
+          </td>
+          <td>
+            <para style="P22">Range <font face="Helvetica-Bold">I GZB</font><font color="white">DIVISIONDIVISION</font>Division<font face="Helvetica-Bold"> I GZB</font></para>
+            <para style="P22">Address </para>
+            <para style="P22"><font face="Helvetica-Bold">CGO COMPLEX, HAPUR ROAD, GHAZIABAD</font></para>
+            <para style="P22">
+              <font color="white"> </font>
+            </para>
+            <para style="P22">Commrte <font face="Helvetica-Bold">GHAZIABAD</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table5">
+        <tr>
+          <td>
+            <para style="P22">1.</para>
+          </td>
+          <td>
+            <para style="P23">Particulars of Assistant / Deputy Commissioner of Central Excise / Maritime Commissioner of Central Excise from whom rebate shall be clained / with whom Bond / Undertaking is executed and his complete postal address .......................................................................................................</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">2.</para>
+          </td>
+          <td>
+            <para style="P23">I / We <font face="Helvetica-Bold">GARG ASSOCIATES PRIVATE LIMITED, GHAZIABAD</font> Propose to export the under-mentioned consignment to <font face="Helvetica-Bold">[[ invoice.partner_id.name ]], [[ get_uppercase(invoice.final_destination_country) ]]</font> (country of destination)</para>
+            <para style="P23">By Air / Sea / Land / Parcel Post under claim .....................................................................for Rebate / Bond / Undertaking.*</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">1.</para>
+          </td>
+          <td>
+            <para style="P10">PARTICULARS OF MANUFACTURER OF GOODS AND HIS CENTRAL EXICE REGISTRATION NO.</para>
+          </td>
+          <td>
+            <para style="P10"><font face="Helvetica-Bold">GARG ASSOCIATES PRIVATE LIMITED</font></para>
+            <para style="P10"><font face="Helvetica-Bold">D-3, MEERUT ROAD INDL. AREA 3, GHAZIABAD 201 003, U.P.</font></para>
+            <para style="P10">
+              <font color="white"> </font>
+            </para>
+            <para style="P10"><font face="Helvetica-Bold">AAACG8772GXM001</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">2.</para>
+          </td>
+          <td>
+            <para style="P10">NO. AND DESCRIPTION OF PACKAGES</para>
+          </td>
+          <td>
+            <para style="P10">[[ amount_words(invoice.no_of_cartons,'') ]] CARD BOARD CARTONS</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">3.</para>
+          </td>
+          <td>
+            <para style="P10">GROSS WEIGHT / NET WEIGHT</para>
+          </td>
+          <td>
+            <para style="P10">NET WT (Kg) [[ invoice.weight ]] <font color="white">DIVISIONDIVISION</font>PKD WT (Kg) [[ invoice.packed ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">4.</para>
+          </td>
+          <td>
+            <para style="P10">MARKS AND NOS. ON PACKAGES</para>
+          </td>
+          <td>
+            <para style="P10">[[ invoice.lot_numbers ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">5.</para>
+          </td>
+          <td>
+            <para style="P10">QUANTITY OF GOODS</para>
+          </td>
+          <td>
+            <para style="P10">METER(S) [[ get_invoice_total(invoice,'quantity') ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">6.</para>
+          </td>
+          <td>
+            <para style="P10">DESCRIPTION OF GOODS</para>
+          </td>
+          <td>
+            <para style="P10"><font face="Helvetica-Bold">1. [[ invoice.excise_chapter ]]</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">7.</para>
+          </td>
+          <td>
+            <para style="P10">VALUE</para>
+          </td>
+          <td>
+            <para style="P10">(Rs.) [[ get_invoice_value(invoice).split('.')[0] ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">8.</para>
+          </td>
+          <td>
+            <para style="P10">RATE OF DUTY</para>
+          </td>
+          <td>
+            <blockTable colWidths="82.0,105.0,125.0" style="Table21">
+              <tr>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">Cenvat @ [[ get_duty_details(invoice,'rate','vat') ]] %</font></para>
+                </td>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">Education Cess @ [[ get_duty_details(invoice,'rate','edu') ]] %</font></para>
+                </td>
+                <td>
+                  <para style="P25"><font face="Helvetica-Bold">S.H. Education Cess @ [[ get_duty_details(invoice,'rate','sedu') ]] %</font></para>
+                </td>
+              </tr>
+            </blockTable>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,192.0,314.0" style="Table6">
+        <tr>
+          <td>
+            <para style="P10">9.</para>
+          </td>
+          <td>
+            <para style="P10">AMOUNT OF DUTY</para>
+          </td>
+          <td>
+            <blockTable colWidths="85.0,105.0,124.0" style="Table24">
+              <tr>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','vat') ]]</para>
+                </td>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','edu') ]]</para>
+                </td>
+                <td>
+                  <para style="P10">(Rs.)[[ get_duty_details(invoice,'amount','sedu') ]]</para>
+                </td>
+              </tr>
+            </blockTable>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,211.0,103.0" style="Table15">
+        <tr>
+          <td>
+            <para style="P10">10.</para>
+          </td>
+          <td>
+            <para style="P10">No. AND DATE OF INVOICE UNDER WHICH DUTY WAS PAID/</para>
+            <para style="P10">No. AND DATE OF BOND/</para>
+            <para style="P10">UNDERTAKING EXECUTED UNDER RULE – 19.</para>
+          </td>
+          <td>
+            <para style="P10">INVOICE NO. <font color="white">ABI</font><font face="Helvetica-Bold">[[ invoice.name ]]</font></para>
+            <para style="P10">UNDERTAKING <font color="white">A</font><font face="Helvetica-Bold">[[ invoice.undertaking_bond ]]</font></para>
+            <para style="P10">B-1 BOND No.</para>
+          </td>
+          <td>
+            <para style="P11">DATE: [[ get_change_date_format(invoice.removal_date) ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,314.0" style="Table16">
+        <tr>
+          <td>
+            <para style="P10">11.</para>
+          </td>
+          <td>
+            <para style="P10">AMOUNT OF REBATE CLAIMED</para>
+          </td>
+          <td>
+            <para style="P10">It is certified that goods have been sealed in my presence, meant for export.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="20.0,186.0,314.0" style="Table17">
+        <tr>
+          <td>
+            <para style="P10">12.</para>
+          </td>
+          <td>
+            <para style="P10">REMARKS</para>
+          </td>
+          <td>
+            <para style="P10">1 [[ invoice.currency_id.name ]] = Rs. [[ invoice.currency_rate ]]</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table18">
+        <tr>
+          <td>
+            <para style="P15">3.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby certify that the above – mentioned goods have been manufactured.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,24.0,482.0" style="Table19">
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(a)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility of CENVAT credit under CENVAT Credit Rules, 2002.</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(b)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility under Notification No. <font face="Helvetica-Bold">21/2004-CE (NT)</font>,</para>
+            <para style="P16">dated 6th Sept. 2004 issued under rule 18 of C.E. Rules, 2002.</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P22">
+            </para>
+          </td>
+          <td>
+            <para style="P16">(c)</para>
+          </td>
+          <td>
+            <para style="P16">availing facility / without availing facility under Notification No. <font face="Helvetica-Bold">43/2001-Central Excise (NT)</font></para>
+            <para style="P16">dated the 26th June, 2001 issued under rule 19 of C.E. (No. 2) Rules, 2001.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table20">
+        <tr>
+          <td>
+            <para style="P15">4.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby declare that the export is in discharge of the export obligation under a Quantity </para>
+            <para style="P16">Based Advance License / Under Claim of Duty Drawback under Customs &amp; Central Excise </para>
+            <para style="P16">Duty Drawback Rules, 1995.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="14.0,506.0" style="Table23">
+        <tr>
+          <td>
+            <para style="P15">5.</para>
+          </td>
+          <td>
+            <para style="P16">I/We hereby declare that the above particulars are true and correctly stated.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="155.0,129.0,236.0" style="Table22">
+        <tr>
+          <td>
+            <para style="P15">Time of Removal ............................</para>
+          </td>
+          <td>
+            <para style="P15"><font face="Helvetica-Bold">Date: [[ get_change_date_format(invoice.removal_date) ]]</font></para>
+          </td>
+          <td>
+            <para style="P15">
+              <font color="white"> </font>
+            </para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P15">
+              <font color="white"> </font>
+            </para>
+          </td>
+          <td>
+            <para style="P15"><font face="Helvetica-Bold">Place: GHAZIABAD</font></para>
+          </td>
+          <td>
+            <para style="P19">Signature of owner or his Authorised agent with date</para>
+            <para style="P19">Name in Block Letters &amp; Designation (Seal)</para>
+          </td>
+        </tr>
+      </blockTable>
+      <para style="P4"><font face="Helvetica-Bold">Code No. 43389</font></para>
+    </section>
+    <pageBreak/>
+    <section>
+      <para style="P9">
+        <font color="white"> </font>
+      </para>
+      <blockTable colWidths="520.0" style="Table25">
+        <tr>
+          <td>
+            <para style="P14"><font face="Helvetica-Bold">PART A</font></para>
+            <para style="P14"><font face="Helvetica-Bold">CERTIFICATION BY CENTRAL EXCISE OFFICE</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="21.0,499.0" style="Table26">
+        <tr>
+          <td>
+            <para style="P12">1.</para>
+          </td>
+          <td>
+            <para style="P26">Certified that duty has been paid by debit entry in the Personal Ledger Account No.................................................... and/or CENVAT Account Entry No...................................or recorded as payable in Daily Stock Account on the goods described overleaf.</para>
+            <para style="P17"><font face="Helvetica-Bold">OR</font></para>
+            <para style="P16">Certified that the owner has entered into Bond No...................................................under Rule 19 of Central Excise Rules, 2002 with the..............................................[F. No......................................................], duly accepted by the Assistant Commissioner/Deputy Commissioner of Central Excise.....................................on...................................(Date).</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P12">2.</para>
+          </td>
+          <td>
+            <para style="P16">Certified that I have opened and examined the packages No..............................................................................................</para>
+            <para style="P15">
+              <font color="white"> </font>
+            </para>
+            <para style="P15">
+              <font color="white"> </font>
+            </para>
+            <para style="P16">and found that the particulars state and the description of goods given overleaf and the packing list (if any) are correct and that all the packages have been stuffed in the container No.................................................................................... with Marks..........................................................and the same has been sealed with Central Excise Seal / One Time Seal (OTS) No..................................................</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P12">3.</para>
+          </td>
+          <td>
+            <para style="P16">I have verified with the records, the exporter is only availing the export inventives, as specified in Box No. 6 and found it to be true</para>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <para style="P12">4.</para>
+          </td>
+          <td>
+            <para style="P16">Certified that I have drawn three representative samples from the consignment (wherever necessary) and have handed over, two sets thereof duly sealed to the exporter / his authorised representative.</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="134.0,208.0,178.0" style="Table27">
+        <tr>
+          <td>
+            <para style="P12"><font face="Helvetica-Bold">Place</font>.....................................</para>
+            <para style="P12"><font face="Helvetica-Bold">Date</font>......................................</para>
+          </td>
+          <td>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">Signature</para>
+            <para style="P14">(Name in Block Letters)</para>
+            <para style="P14">Superintendent of Central Excise</para>
+          </td>
+          <td>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">Signature</para>
+            <para style="P14">(Name in Block Letters)</para>
+            <para style="P14">Inspector of Central Excise</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="520.0" style="Table28">
+        <tr>
+          <td>
+            <para style="P17"><font face="Helvetica-Bold">PART B</font></para>
+            <para style="P17"><font face="Helvetica-Bold">CERTIFICATION BY THE CUSTOMS OFFICER</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="520.0" style="Table29">
+        <tr>
+          <td>
+            <para style="P16">Certified that the consignment was shipped under my supervision under Shipping Bill No ................................................ dated ...................... by S.S. / Flight No.................................. which left on the ...................... day of .............. (Month) .............. (Year).</para>
+            <para style="P17"><font face="Helvetica-Bold">OR</font></para>
+            <para style="P16">Certified that the above mentioned consignment was stuffed in Container No ........................................................... belonging to Shipping Line ............................................................ based in the “Let Export Order” given on ........................ day of ................... (Month) .................... (Year) on the Shipping Bill No .................................... dated ....................... and sealed by seal / one time lock No ............................................. in my supervision and the container was handed over to the Custodian M/s .......................................................................................................................................... for being shipped <font face="Helvetica-oblique">via</font><font face="Helvetica"> ................................................ (Name of the Port).</font></para>
+            <para style="P17"><font face="Helvetica-Bold">OR</font></para>
+            <para style="P16">
+              <font face="Helvetica">Certified that the above mentioned consigment has been duly identified and has passed the land frontier today at .......................... in its original condition under Bill of Exports No .......................................................</font>
+            </para>
+            <para style="P18">
+              <font face="Helvetica"/>
+            </para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="134.0,208.0,178.0" style="Table30">
+        <tr>
+          <td>
+            <para style="P12"><font face="Helvetica-Bold">Place</font>.....................................</para>
+            <para style="P12"><font face="Helvetica-Bold">Date</font>......................................</para>
+          </td>
+          <td>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+          </td>
+          <td>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">Signature</para>
+            <para style="P14">(Name and designation of the CUstoms Officer in Block Letters) / (Seal)</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="520.0" style="Table31">
+        <tr>
+          <td>
+            <para style="P17"><font face="Helvetica-Bold">PART C</font></para>
+            <para style="P17"><font face="Helvetica-Bold">EXPORT BY POST</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="520.0" style="Table32">
+        <tr>
+          <td>
+            <para style="P13">Certified that the consignment described overlead has been despatched by foreign post to .......................................................on ..........................................day of 20 ................</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="134.0,208.0,178.0" style="Table33">
+        <tr>
+          <td>
+            <para style="P12"><font face="Helvetica-Bold">Place</font>.....................................</para>
+            <para style="P12"><font face="Helvetica-Bold">Date</font>......................................</para>
+          </td>
+          <td>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+          </td>
+          <td>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">Signature of Post Master</para>
+            <para style="P14">(Seal)</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="520.0" style="Table34">
+        <tr>
+          <td>
+            <para style="P17"><font face="Helvetica-Bold">PART D</font></para>
+            <para style="P17"><font face="Helvetica-Bold">REBATE SANCTION ORDER</font></para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="520.0" style="Table35">
+        <tr>
+          <td>
+            <para style="P20">(On Original, Duplicate and Triplicate)</para>
+            <para style="P21">Refund Order No...........................date................................Rebate of Rs ........................................................................... (Rupees .......................................................................................................................) Sanctioned <font face="Helvetica">vide </font>Cheque No ..................................... dated.................................</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="134.0,154.0,232.0" style="Table36">
+        <tr>
+          <td>
+            <para style="P12"><font face="Helvetica-Bold">Place</font>.....................................</para>
+            <para style="P12"><font face="Helvetica-Bold">Date</font>......................................</para>
+          </td>
+          <td>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+          </td>
+          <td>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">
+              <font color="white"> </font>
+            </para>
+            <para style="P14">Assistant / Deputy Commissioner / Maritime</para>
+            <para style="P14">Commissioner of Central Excise</para>
+          </td>
+        </tr>
+      </blockTable>
+      <para style="P7">*Strike out inapplicable portions</para>
+    </section>
+  </story>
+</document>
+

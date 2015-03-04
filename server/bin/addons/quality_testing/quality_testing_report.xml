@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <report id="report_quality_report" model="delivery.order.testing" name="stock.quality.testing" string="Test Report" rml="quality_testing/report/quality_report.rml"/>
+    </data>
+</openerp>

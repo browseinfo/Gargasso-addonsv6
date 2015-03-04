@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_calendar
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_calendar/__init__.py
+END
+base_calendar.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_calendar/base_calendar.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_calendar/__openerp__.py
+END
+base_calendar_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_calendar/base_calendar_data.xml
+END
+base_calendar_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_calendar/base_calendar_view.xml
+END

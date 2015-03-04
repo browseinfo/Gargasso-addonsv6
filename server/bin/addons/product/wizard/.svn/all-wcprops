@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/product/wizard
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/product/wizard/__init__.py
+END
+product_price.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/product/wizard/product_price.py
+END
+product_price_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/product/wizard/product_price_view.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/rml2html
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/rml2html/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/rml2html/utils.py
+END
+rml2html.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/rml2html/rml2html.py
+END

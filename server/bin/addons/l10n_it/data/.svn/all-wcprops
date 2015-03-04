@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_it/data
+END
+account.account.type.csv
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_it/data/account.account.type.csv
+END
+account.fiscal.position.template.csv
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_it/data/account.fiscal.position.template.csv
+END
+account.tax.code.template.csv
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_it/data/account.tax.code.template.csv
+END
+account.account.template.csv
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_it/data/account.account.template.csv
+END
+account.tax.template.csv
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_it/data/account.tax.template.csv
+END

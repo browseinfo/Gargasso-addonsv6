@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_planning
+END
+project_planning_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_planning/project_planning_demo.xml
+END
+project_planning.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_planning/project_planning.py
+END
+project_planning_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_planning/project_planning_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_planning/__init__.py
+END
+project_planning_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_planning/project_planning_report.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_planning/__openerp__.py
+END
+board_project_planning_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_planning/board_project_planning_view.xml
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/barcode
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/barcode/common.py
+END
+out.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/barcode/out.pdf
+END
+usps.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/barcode/usps.py
+END
+fourstate.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/barcode/fourstate.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/barcode/__init__.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/barcode/test.py
+END
+code128.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/barcode/code128.py
+END
+code39.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/barcode/code39.py
+END
+code93.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/barcode/code93.py
+END

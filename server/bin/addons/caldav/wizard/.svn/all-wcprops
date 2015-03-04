@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/caldav/wizard
+END
+caldav_browse.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/caldav/wizard/caldav_browse.py
+END
+calendar_event_export.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/caldav/wizard/calendar_event_export.py
+END
+calendar_event_subscribe.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/caldav/wizard/calendar_event_subscribe.py
+END
+caldav_browse_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/caldav/wizard/caldav_browse_view.xml
+END
+calendar_event_export_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/caldav/wizard/calendar_event_export_view.xml
+END
+calendar_event_subscribe_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/caldav/wizard/calendar_event_subscribe_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/caldav/wizard/__init__.py
+END
+calendar_event_import.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/caldav/wizard/calendar_event_import.py
+END
+calendar_event_import_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/caldav/wizard/calendar_event_import_view.xml
+END

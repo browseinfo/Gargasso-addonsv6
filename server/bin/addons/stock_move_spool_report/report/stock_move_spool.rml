@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<document filename="test.pdf">
+  <template pageSize="(21.0cm,30.6cm)" title="Test" author="Martin Simon" allowSplitting="20">
+    <pageTemplate id="first">
+      <frame id="first" x1="5.72cm" y1="-0.19cm" width="10.2cm" height="30.6cm"/>
+    </pageTemplate>
+  </template>
+  <stylesheet>
+    <blockTableStyle id="Standard_Outline">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <blockTableStyle id="TableLogo">
+      <blockTopPadding value="0"/>
+      <blockBottomPadding value="0"/>
+      <blockLeftPadding value="0"/>
+      <blockRightPadding value="0"/>
+      <blockAlignment value="CENTER"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    
+    <blockTableStyle id="Table4">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="CENTER"/>
+      <blockLeftPadding value="0"/>
+      <blockRightPadding value="0"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,0" stop="0,-1"/>
+    </blockTableStyle>
+    
+    <blockTableStyle id="Table5">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="CENTER"/>
+    </blockTableStyle>
+    
+    <initialize>
+      <paraStyle name="all" alignment="justify"/>
+    </initialize>
+    <paraStyle name="P1" fontName="Helvetica" fontSize="8.0" leading="10"/>
+    <paraStyle name="P2" fontName="Helvetica-Bold" fontSize="8.0" leading="10" alignment="CENTER"/>
+    <paraStyle name="P3" fontName="Helvetica" fontSize="6.0" leading="8"/>
+    <paraStyle name="P4" fontName="Helvetica" fontSize="6.0" leading="8" alignment="CENTER"/>
+    <paraStyle name="P5" fontName="Helvetica" fontSize="20.0" leading="8" alignment="CENTER"/>
+    <paraStyle name="PLogo" rightIndent="0.0" leftIndent="0.0" fontName="Helvetica-Oblique" alignment="RIGHT" fontSize="7.0" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="PLogo1" rightIndent="135.0" leftIndent="0.0" fontName="Helvetica-Oblique" alignment="RIGHT" fontSize="7.0" spaceBefore="-12.0" spaceAfter="0.0"/>
+    <paraStyle name="Standard" fontName="Helvetica"/>
+    <paraStyle name="Heading" fontName="Helvetica" fontSize="14.0" leading="17" spaceBefore="12.0" spaceAfter="6.0"/>
+    <paraStyle name="Text body" fontName="Helvetica" spaceBefore="0.0" spaceAfter="6.0"/>
+    <paraStyle name="List" fontName="Helvetica" spaceBefore="0.0" spaceAfter="6.0"/>
+    <paraStyle name="Caption" fontName="Helvetica" fontSize="12.0" leading="15" spaceBefore="6.0" spaceAfter="6.0"/>
+    <paraStyle name="Index" fontName="Helvetica"/>
+    <paraStyle name="Table Contents" fontName="Helvetica"/>
+    <paraStyle name="Table Heading" fontName="Helvetica" alignment="CENTER"/>
+  </stylesheet>
+  <story>
+  	<section>
+  		<para> [[ repeatIn(get_spool_stock_move(objects),'spool') ]] </para>
+  		<blockTable colWidths="9.6cm" style="Table4">
+  			<tr>
+  				<td>
+			  		<blockTable colWidths="9.4cm" rowHeights="18,8,25" style="Table5" >
+				  		<tr>
+				  			<td><image height="18.0" width="9.2cm" >[[ spool['company_logo'] ]]</image></td>
+				  		</tr>
+				  		<tr>
+				  			<td><para style="P1">GAPL PART NO: [[ spool['product_code'] ]] </para></td>
+				  		</tr>
+				  		<tr>
+				  			<td><para style="P1">[[ spool['product'] ]] </para></td>
+				  		</tr>
+				  	</blockTable>
+				  		
+					<blockTable colWidths="120.0,170.0" rowHeights="12" >  		
+				  		<tr>
+				  			<td>
+				  				<para style="P1">COLOUR: [[ spool['color'] ]] </para>
+				  			</td>
+				  			<td>
+				  				<para style="P1">TOTAL: [[ spool['qty']  ]] </para>
+				  			</td>
+				  		</tr>
+				  	</blockTable>
+			  		<blockTable colWidths="120.0,170.0" rowHeights="17" style="Table5">
+				  		<tr>
+				  			<td>
+				  				<para style="P1">[[ spool['index'] ]] PCS </para>
+				  			</td>
+				  			<td>
+				  				<para style="P1">[[ spool['qty_list'] ]] </para>
+				  			</td>
+				  		</tr>
+				  	</blockTable>
+				  	<blockTable colWidths="120.0,170.0" rowHeights="12" >
+				  		<tr>
+				  			<td>
+				  				<para style="P1">SPOOL NO: [[ spool['spool_number'] ]]</para>
+				  			</td>
+				  			<td>
+				  				<para style="P1">MFG.DATE: [[ spool['create_date'] ]]</para>
+				  			</td>
+				  		</tr>
+				  	</blockTable>
+				  	<blockTable colWidths="9.6cm" rowHeights="17" style="Table5">
+				  		<tr>
+				  			<td>
+				  				<para style="P1">[[ spool['partner'] ]] [[ ' ' ]] [[ spool['partner_city'] ]]</para>
+				  			</td>
+				  		</tr>
+				  	</blockTable>
+				  	<blockTable colWidths="120.0,170.0" rowHeights="12" >
+				  		<tr>
+				  			<td>
+				  				<para style="P1">PO NO: [[ spool['crm_po_no'] ]]</para>
+				  			</td>
+				  			<td>
+				  				<para style="P1"> CUST.PART NO: [[ spool['customer_product_code'] ]]</para>
+				  			</td>
+				  		</tr>
+				  	</blockTable>
+			  	
+			  </td>
+			</tr>
+	  </blockTable>
+	  <!--<section>
+		<para>[[ ((spool['counter'])%6==0 or removeParentNode('section')) and '']]</para>
+		<pageBreak/>
+	  </section>-->
+	  <section>
+	  	<para>[[ ((spool['counter'])%6!=0 or removeParentNode('section')) and '']]</para>
+	  		<!--<para style="P5"><font color="white">.</font></para>-->
+	  		<spacer length="0.62cm"/>
+	  </section>
+	  
+  	</section>
+  </story>
+</document>
+

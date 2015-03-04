@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<openerp>
+	<data> 
+		<record id="product_normal_form_view_extended" model="ir.ui.view">
+			<field name="name">product.normal.form.extended</field>
+			<field name="model">product.product</field>
+			<field name="inherit_id" ref="product.product_normal_form_view" />
+			<field name="type">form</field>
+			<field name="arch" type="xml">
+				<xpath expr='//field[@name="purchase_ok"]' position='after'>
+					<field name="x_thickness" />
+					<field name="x_width" />
+					<field name="x_colour" />
+					<field name="x_diameter" />
+					<field name="x_spools" />
+				</xpath>
+			</field>
+		</record>
+
+		<record id="view_picking_out_form_extended" model="ir.ui.view">
+			<field name="name">picking.out.form.extended</field>
+			<field name="model">stock.picking</field>
+			<field name="inherit_id" ref="stock.view_picking_out_form" />
+			<field name="type">form</field>
+			<field name="arch" type="xml">
+				<xpath expr='//field[@name="backorder_id"]' position='after'>
+					<field name="x_weight_net" />
+					<field name="x_weight_gross" />
+					<field name="x_dimension" />
+				</xpath>
+
+				<xpath expr='//field[@name="stock_journal_id"]' position='after'>
+					<field name="x_weight_packed" />
+				</xpath>
+
+				<xpath expr='//tree[@string="Stock Moves"]//button[@name="284"]'
+					position='after'>
+					<field name="x_spool_number" />
+				</xpath>
+
+				<xpath expr='//form[@string="Stock Moves"]//button[@name="276"]'
+					position='after'>
+					<field name="x_spool_number" />
+				</xpath>
+			</field>
+		</record>
+
+
+		<record id="mrp_production_form_view_extended" model="ir.ui.view">
+			<field name="name">mrp.production.form.view.extended</field>
+			<field name="model">mrp.production</field>
+			<field name="inherit_id" ref="mrp.mrp_production_form_view" />
+			<field name="type">form</field>
+			<field name="arch" type="xml">
+				<xpath expr='//field[@name="product_uom"]' position='after'>
+					<field name="x_subspoolnumber" />
+					<field name="x_length" />
+					<field name="x_colour" />
+					<field name="x_job_order_type" />
+				</xpath>
+			</field>
+		</record>
+
+		<record id="mrp_bom_form_view_extended" model="ir.ui.view">
+			<field name="name">mrp.bom.form.view.extended</field>
+			<field name="model">mrp.bom</field>
+			<field name="inherit_id" ref="mrp.mrp_bom_form_view" />
+			<field name="type">form</field>
+			<field name="arch" type="xml">
+				<xpath expr='//page[@string="Components"]//field[@name="product_id"]'
+					position='before'>
+					<field name="x_mo_prod_seq" />
+				</xpath>
+
+				<xpath expr='//page[@string="Components"]//field[@name="product_uom"]'
+					position='after'>
+					<field name="x_work_center_id" />
+				</xpath>
+				<xpath expr='//page[@string="Properties"]' position='after'>
+					<page string="Remarks">
+						<field name="x_remarks" />
+					</page>
+				</xpath>
+			</field>
+		</record>
+	</data>
+</openerp>

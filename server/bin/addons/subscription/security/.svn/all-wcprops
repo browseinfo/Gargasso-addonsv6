@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/subscription/security
+END
+ir.model.access.csv
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/subscription/security/ir.model.access.csv
+END
+subcription_security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/subscription/security/subcription_security.xml
+END

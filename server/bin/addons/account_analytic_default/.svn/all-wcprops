@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_analytic_default
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_analytic_default/__init__.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_analytic_default/__openerp__.py
+END
+account_analytic_default.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_analytic_default/account_analytic_default.py
+END
+account_analytic_default_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_analytic_default/account_analytic_default_view.xml
+END

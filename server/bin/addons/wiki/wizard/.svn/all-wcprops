@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/wiki/wizard
+END
+wiki_make_index_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/wiki/wizard/wiki_make_index_view.xml
+END
+wiki_create_menu.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/wiki/wizard/wiki_create_menu.py
+END
+wiki_show_diff.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/wiki/wizard/wiki_show_diff.py
+END
+wiki_create_menu_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/wiki/wizard/wiki_create_menu_view.xml
+END
+wiki_show_diff_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/wiki/wizard/wiki_show_diff_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/wiki/wizard/__init__.py
+END
+wiki_wiki_page_open.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/wiki/wizard/wiki_wiki_page_open.py
+END
+wiki_wiki_page_open_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/wiki/wizard/wiki_wiki_page_open_view.xml
+END
+wiki_make_index.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/wiki/wizard/wiki_make_index.py
+END

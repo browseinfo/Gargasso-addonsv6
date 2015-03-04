@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report
+END
+report_year_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_year_report.rml
+END
+payroll_register.rml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/payroll_register.rml
+END
+report_payroll_advice.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_payroll_advice.py
+END
+report_payroll_advice.rml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_payroll_advice.rml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/__init__.py
+END
+report_emp_salary_structure.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_emp_salary_structure.sxw
+END
+report_year_salary.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_year_salary.py
+END
+report_emp_salary_structure.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_emp_salary_structure.py
+END
+report_employees_detail.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_employees_detail.sxw
+END
+report_emp_salary_structure.rml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_emp_salary_structure.rml
+END
+payslip.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/payslip.sxw
+END
+report_payslip.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_payslip.py
+END
+report_year_report.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_year_report.sxw
+END
+payroll_register.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/payroll_register.sxw
+END
+report_employees_detail.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_employees_detail.py
+END
+report_payroll_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_payroll_register.py
+END
+report_employees_detail.rml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/report_employees_detail.rml
+END
+payment_advice.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/payment_advice.sxw
+END
+payslip.rml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/report/payslip.rml
+END

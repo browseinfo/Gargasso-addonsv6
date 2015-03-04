@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_payment/wizard
+END
+account_payment_populate_statement_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_payment/wizard/account_payment_populate_statement_view.xml
+END
+account_payment_create_order_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_payment/wizard/account_payment_create_order_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_payment/wizard/__init__.py
+END
+account_payment_pay.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_payment/wizard/account_payment_pay.py
+END
+account_payment_order.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_payment/wizard/account_payment_order.py
+END
+account_payment_pay_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_payment/wizard/account_payment_pay_view.xml
+END
+account_payment_populate_statement.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_payment/wizard/account_payment_populate_statement.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/stock_location/test
+END
+stock_location_push_flow.yml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/stock_location/test/stock_location_push_flow.yml
+END
+stock_location_pull_flow.yml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/stock_location/test/stock_location_pull_flow.yml
+END

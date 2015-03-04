@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_double_validation
+END
+purchase_double_validation_installer.py
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_double_validation/purchase_double_validation_installer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_double_validation/__init__.py
+END
+purchase_double_validation_workflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_double_validation/purchase_double_validation_workflow.xml
+END
+purchase_double_validation_installer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_double_validation/purchase_double_validation_installer.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_double_validation/__openerp__.py
+END

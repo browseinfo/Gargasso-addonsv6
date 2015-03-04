@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_fr/report
+END
+compute_resultant_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_fr/report/compute_resultant_report.py
+END
+bilan_report.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_fr/report/bilan_report.sxw
+END
+compute_resultant_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_fr/report/compute_resultant_report.rml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_fr/report/__init__.py
+END
+bilan_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_fr/report/bilan_report.py
+END
+compute_resultant_report.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_fr/report/compute_resultant_report.sxw
+END
+bilan_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_fr/report/bilan_report.rml
+END
+base_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_fr/report/base_report.py
+END

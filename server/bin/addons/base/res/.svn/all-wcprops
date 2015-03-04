@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res
+END
+res_security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_security.xml
+END
+res_log.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_log.py
+END
+res_lang.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_lang.py
+END
+res_widget.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_widget.py
+END
+res_log_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_log_view.xml
+END
+res_lang_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_lang_view.xml
+END
+res_widget_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_widget_data.xml
+END
+res_widget_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_widget_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/__init__.py
+END
+res_request.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_request.py
+END
+res_request_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_request_view.xml
+END
+country.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/country.py
+END
+res_currency.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_currency.py
+END
+country_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/country_view.xml
+END
+res_currency_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_currency_view.xml
+END
+res_widget_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_widget_demo.xml
+END
+bank.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/bank.py
+END
+bank_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/bank_view.xml
+END
+res_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_config.py
+END
+ir_property.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/ir_property.py
+END
+res_company.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_company.py
+END
+ir_property_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/ir_property_view.xml
+END
+res_company_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_company_view.xml
+END
+res_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_config.xml
+END
+res_user.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/res/res_user.py
+END

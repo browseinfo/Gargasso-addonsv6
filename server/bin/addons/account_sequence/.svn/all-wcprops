@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_sequence
+END
+account_sequence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_sequence/account_sequence.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_sequence/__init__.py
+END
+account_sequence_installer.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_sequence/account_sequence_installer.py
+END
+account_sequence_installer_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_sequence/account_sequence_installer_view.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_sequence/__openerp__.py
+END
+account_sequence.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_sequence/account_sequence.py
+END
+account_sequence_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_sequence/account_sequence_data.xml
+END

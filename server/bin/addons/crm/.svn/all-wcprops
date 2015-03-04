@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm
+END
+crm_opportunity_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_opportunity_demo.xml
+END
+crm_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_demo.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/__init__.py
+END
+crm_phonecall_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_phonecall_menu.xml
+END
+crm_lead_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_lead_menu.xml
+END
+crm_meeting_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_meeting_demo.xml
+END
+crm_phonecall.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_phonecall.py
+END
+crm_lead.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_lead.py
+END
+crm_phonecall_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_phonecall_data.xml
+END
+crm_lead_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_lead_data.xml
+END
+crm_lead_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_lead_view.xml
+END
+crm_phonecall_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_phonecall_view.xml
+END
+crm_opportunity_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_opportunity_menu.xml
+END
+crm_opportunity.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_opportunity.py
+END
+crm_opportunity_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_opportunity_data.xml
+END
+crm_opportunity_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_opportunity_view.xml
+END
+crm.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm.py
+END
+crm_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_data.xml
+END
+crm_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_view.xml
+END
+res_partner.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/res_partner.py
+END
+crm_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_report.xml
+END
+crm_meeting_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_meeting_menu.xml
+END
+res_partner_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/res_partner_view.xml
+END
+crm_meeting.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_meeting.py
+END
+board_crm_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/board_crm_view.xml
+END
+crm_meeting_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_meeting_data.xml
+END
+crm_meeting_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_meeting_view.xml
+END
+crm_segmentation.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_segmentation.py
+END
+crm_installer.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_installer.py
+END
+board_crm_statistical_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/board_crm_statistical_view.xml
+END
+crm_installer_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_installer_view.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/__openerp__.py
+END
+crm_action_rule.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_action_rule.py
+END
+crm_action_rule_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_action_rule_view.xml
+END
+crm_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_report_view.xml
+END
+crm_operators.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_operators.py
+END
+crm_phonecall_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_phonecall_demo.xml
+END
+crm_lead_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_lead_demo.xml
+END
+crm_meeting_shortcut_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm/crm_meeting_shortcut_data.xml
+END

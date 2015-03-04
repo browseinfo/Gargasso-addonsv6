@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<document filename="test.pdf">
+  <template pageSize="(595.0,842.0)" title="Subcontracting Report" author="Martin Simon" allowSplitting="20">
+    <pageTemplate id="first">
+      <frame id="first" x1="31.0" y1="44.0" width="537" height="762"/>
+    </pageTemplate>
+  </template>
+  <stylesheet>
+    <blockTableStyle id="Standard_Outline">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <blockTableStyle id="tb_address">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <blockTableStyle id="tb_cond_title">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="tb_data_header">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="3,-1" stop="3,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="4,-1" stop="4,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="5,-1" stop="5,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="6,-1" stop="6,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="7,-1" stop="7,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table1">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="2,-1" stop="2,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="3,-1" stop="3,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="4,-1" stop="4,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="5,-1" stop="5,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table2">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <initialize>
+      <paraStyle name="all" alignment="justify"/>
+    </initialize>
+    <paraStyle name="P1" fontName="Helvetica" fontSize="5.0" leading="7"/>
+    <paraStyle name="P2" fontName="Helvetica-Bold" fontSize="10.0" leading="13"/>
+    <paraStyle name="P3" fontName="Helvetica-Bold" fontSize="11.0" leading="14"/>
+    <paraStyle name="P4" fontName="Helvetica" fontSize="8.0" leading="10"/>
+    <paraStyle name="P5" fontName="Helvetica" fontSize="8.0" leading="10"/>
+    <paraStyle name="P6" fontName="Helvetica" fontSize="5.0" leading="7"/>
+    <paraStyle name="P7" fontName="Helvetica-Bold" fontSize="8.0" leading="10"/>
+    <paraStyle name="P8" fontName="Helvetica" fontSize="8.0" leading="10"/>
+    <paraStyle name="P9" fontName="Helvetica" fontSize="8.0" leading="10"/>
+    <paraStyle name="P10" fontName="Helvetica-Bold" fontSize="9.0" leading="11"/>
+    <paraStyle name="P11" rightIndent="0.0" leftIndent="3.0" fontName="Helvetica-Bold" fontSize="9.0" leading="11"/>
+    <paraStyle name="P12" rightIndent="0.0" leftIndent="3.0" fontName="Helvetica" fontSize="8.0" leading="10"/>
+    <paraStyle name="P13" rightIndent="0.0" leftIndent="6.0" fontName="Helvetica-Bold" fontSize="9.0" leading="11"/>
+    <paraStyle name="P14" rightIndent="0.0" leftIndent="0.0" fontName="Helvetica" fontSize="8.0" leading="10"/>
+    <paraStyle name="P15" rightIndent="0.0" leftIndent="0.0" fontName="Helvetica-Bold" fontSize="9.0" leading="11"/>
+    <paraStyle name="Standard" fontName="Helvetica"/>
+    <paraStyle name="Heading" fontName="Helvetica" fontSize="14.0" leading="17" spaceBefore="12.0" spaceAfter="6.0"/>
+    <paraStyle name="Text body" fontName="Helvetica" spaceBefore="0.0" spaceAfter="6.0"/>
+    <paraStyle name="List" fontName="Helvetica" spaceBefore="0.0" spaceAfter="6.0"/>
+    <paraStyle name="Caption" fontName="Helvetica" fontSize="12.0" leading="15" spaceBefore="6.0" spaceAfter="6.0"/>
+    <paraStyle name="Index" fontName="Helvetica"/>
+    <paraStyle name="Table Contents" fontName="Helvetica"/>
+    <paraStyle name="Header" fontName="Helvetica"/>
+    <paraStyle name="Table Heading" fontName="Helvetica" alignment="CENTER"/>
+    <images/>
+  </stylesheet>
+  <story>
+    <blockTable colWidths="325.0,213.0" style="tb_address">
+      <tr>
+        <td>
+          <para style="P3">Invoice and Dispatch to: </para>
+        </td>
+        <td>
+          <para style="P3">Supplier Address: </para>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <para style="P4">Garg Associates Private Limited </para>
+          <para style="P4">D-3, Meerut Road Industrial Area-3 </para>
+          <para style="P4">Phone: +91-120-2712128 </para>
+          <para style="P4">FAX: +91-120-2712051 </para>
+          <para style="P4">Web Site: http://www.gargasso.com </para>
+        </td>
+        <td>
+          <para style="P4">Sukriti Vidyut Udyog Pvt. Ltd. </para>
+          <para style="P4">D-39, Meerut Road Industrial Area-3 </para>
+          <para style="P4">Phone: 0120-2712015 </para>
+          <para style="P4">Fax: 0120-2713081 </para>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <para style="P4">TIN NO: 9389000008 </para>
+          <para style="P4">CST NO: GD-5004956/20.07.65 </para>
+          <para style="P4">PAN NO: AAACG8772G </para>
+          <para style="P4">ECC NO: AAACG8772GXM001 </para>
+          <para style="P7">Report No: [[ print_do_no(data['form']) ]]</para>
+        </td>
+        <td>
+          <para style="P4">
+            <font color="white"> </font>
+          </para>
+        </td>
+      </tr>
+    </blockTable>
+    <para style="P1">
+      <font color="white"> </font>
+    </para>
+    <blockTable colWidths="269.0,269.0" style="tb_cond_title">
+      <tr>
+        <td>
+          <para style="P2">Conductor Ordered </para>
+        </td>
+        <td>
+          <para style="P2">Raw Material Supplied </para>
+        </td>
+      </tr>
+    </blockTable>
+    <para style="P1">
+      <font color="white"> </font>
+    </para>
+    <blockTable colWidths="66.0,85.0,50.0,44.0,73.0,105.0,57.0,57.0" style="tb_data_header">
+      <tr>
+        <td>
+          <para style="P10">MO No</para>
+        </td>
+        <td>
+          <para style="P10">Product Name</para>
+        </td>
+        <td>
+          <para style="P10">UOM</para>
+        </td>
+        <td>
+          <para style="P10">Qty</para>
+        </td>
+        <td>
+          <para style="P15">DO No</para>
+        </td>
+        <td>
+          <para style="P11">Product Name</para>
+        </td>
+        <td>
+          <para style="P11">UOM</para>
+        </td>
+        <td>
+          <para style="P13">Qty</para>
+        </td>
+      </tr>
+    </blockTable>
+    <section>
+      <para style="Standard">
+        <font face="Helvetica">[[repeatIn(do_move_line(data['form']),'m') ]]</font>
+      </para>
+      <blockTable colWidths="66.0,85.0,50.0,44.0,73.0,219.0" style="Table1">
+        <tr>
+          <td>
+            <para style="P5">[[ m['mrp_no'] ]]</para>
+          </td>
+          <td>
+            <para style="P5">[[ m['mrp_product'] ]]</para>
+          </td>
+          <td>
+            <para style="P12">[[ m['mrp_uom'] ]]</para>
+          </td>
+          <td>
+            <para style="P14">[[ m['mrp_qty'] ]]</para>
+          </td>
+          <td>
+            <para style="P5">[[ m['do_no'] ]]</para>
+          </td>
+          <td>
+            <section>
+              <para style="P5">[[repeatIn(get_move_lines(m['mrp_id']),'line') ]]</para>
+              <blockTable colWidths="105.0,57.0,57.0" style="Table2">
+                <tr>
+                  <td>
+                    <para style="P5">[[ line['product_name'] ]]</para>
+                  </td>
+                  <td>
+                    <para style="P5">[[ line['product_uom'] ]]</para>
+                  </td>
+                  <td>
+                    <para style="P5">[[ line['product_qty'] ]]</para>
+                  </td>
+                </tr>
+              </blockTable>
+            </section>
+          </td>
+        </tr>
+      </blockTable>
+    </section>
+    <para style="Standard">
+      <font color="white"> </font>
+    </para>
+    <section>
+    <para style="Standard">[[  repeatIn(do_comment(data['form']),'c') ]]</para>
+          <section>
+              <para style="P4">[[ c['comment'] ]] </para>
+          </section>
+     </section>
+  </story>
+</document>
+

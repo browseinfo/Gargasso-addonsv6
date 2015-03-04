@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/test
+END
+account_voucher_report.yml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/test/account_voucher_report.yml
+END
+sales_receipt.yml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/test/sales_receipt.yml
+END
+sales_payment.yml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/test/sales_payment.yml
+END
+account_voucher.yml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/test/account_voucher.yml
+END

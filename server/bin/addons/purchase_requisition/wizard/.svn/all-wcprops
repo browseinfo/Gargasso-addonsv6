@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_requisition/wizard
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_requisition/wizard/__init__.py
+END
+purchase_requisition_partner.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_requisition/wizard/purchase_requisition_partner.py
+END
+purchase_requisition_partner_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_requisition/wizard/purchase_requisition_partner_view.xml
+END

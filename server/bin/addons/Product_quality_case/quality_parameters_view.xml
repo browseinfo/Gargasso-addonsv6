@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+		<record id="quality_parameters_form_view" model="ir.ui.view">
+            <field name="name">quality.parameters.form</field>
+            <field name="model">quality.parameters</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<form string="Quality Testing Parameters">
+                	<field name="parameter_code" colspan="2" select="2"/>
+                	<field name="name" colspan="2" nolabel="1"/>
+                	<field name="parameter_type" colspan="2" nolabel="1"/>
+                	<field name="min_max_check" colspan="2" nolabel="1"/>
+                </form>
+            </field>
+        </record>
+
+		<record id="quality_parameters_tree_view" model="ir.ui.view">
+            <field name="name">quality.parameters.tree</field>
+            <field name="model">quality.parameters</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+            	<tree string="Quality Testing">
+                	<field name="parameter_code"/>
+                	<field name="name"/>
+                </tree>
+            </field>
+        </record>
+    </data>
+</openerp>

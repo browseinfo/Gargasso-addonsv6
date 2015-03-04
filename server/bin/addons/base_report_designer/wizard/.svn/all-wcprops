@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/wizard
+END
+base_report_designer_modify.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/wizard/base_report_designer_modify.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/wizard/__init__.py
+END
+base_report_design_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/wizard/base_report_design_view.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_ics
+END
+document_ics_config_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_ics/document_ics_config_wizard.xml
+END
+document_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_ics/document_demo.xml
+END
+document_ics.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_ics/document_ics.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_ics/__init__.py
+END
+document_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_ics/document_data.xml
+END
+document_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_ics/document_view.xml
+END
+document_ics_config_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_ics/document_ics_config_wizard.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_ics/__openerp__.py
+END

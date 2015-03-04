@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav
+END
+webdav.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/webdav.py
+END
+test_davclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/test_davclient.py
+END
+nodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/nodes.py
+END
+webdav_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/webdav_view.xml
+END
+webdav_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/webdav_server.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/__init__.py
+END
+webdav_setup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/webdav_setup.xml
+END
+redirect.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/redirect.py
+END
+dav_fs.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/dav_fs.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/cache.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/__openerp__.py
+END
+webdav_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/webdav_demo.xml
+END
+document_webdav.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/document_webdav/document_webdav.py
+END

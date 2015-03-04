@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin
+END
+tiny_xmlrpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/tiny_xmlrpc.py
+END
+manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/manager.py
+END
+eml.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/eml.py
+END
+Register-plugin.bat
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/Register-plugin.bat
+END
+addin.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/addin.py
+END
+chilkat.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/chilkat.py
+END
+Unregister-plugin.bat
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/Unregister-plugin.bat
+END
+_chilkat.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/_chilkat.pyd
+END
+setup.iss
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/setup.iss
+END

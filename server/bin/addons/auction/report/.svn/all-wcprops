@@ -1,0 +1,653 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report
+END
+seller_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/seller_list.xml
+END
+lots_bids_phone.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_bids_phone.xsl
+END
+bids.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/bids.xml
+END
+auction_result.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_result.sxw
+END
+auction_catelog.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_catelog.sxw
+END
+catelogwithpictures.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/catelogwithpictures.py
+END
+artists_lots.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/artists_lots.py
+END
+bids_phones_details.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/bids_phones_details.sxw
+END
+catelogwithpictures.rml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/catelogwithpictures.rml
+END
+catalog2.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/catalog2.py
+END
+seller_form_report.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/seller_form_report.sxw
+END
+loan_info.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/loan_info.sxw
+END
+lots_with_vat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_with_vat.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/__init__.py
+END
+total.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/total.xsl
+END
+artists.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/artists.xml
+END
+corporate_defaults.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/corporate_defaults.xsl
+END
+ach_bordereau_photo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/ach_bordereau_photo.xml
+END
+auction_objects.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_objects.sxw
+END
+lots_list_landscape.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list_landscape.xsl
+END
+lots_list.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list.sxw
+END
+report_lot_bar_code.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/report_lot_bar_code.py
+END
+buyer_list.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/buyer_list.sxw
+END
+auction_objects.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_objects.py
+END
+deposit_seller.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/deposit_seller.py
+END
+deposit_seller.rml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/deposit_seller.rml
+END
+results_buyer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/results_buyer.xml
+END
+auction_total_rml.rml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_total_rml.rml
+END
+bids_lots.rml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/bids_lots.rml
+END
+lots_list_landscape.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list_landscape.py
+END
+vnd_bordereau.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/vnd_bordereau.xml
+END
+catalog.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/catalog.xsl
+END
+lots_list_inventory.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list_inventory.py
+END
+lots_list.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list.xsl
+END
+seller_address.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/seller_address.py
+END
+lots_list_inventory.rml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list_inventory.rml
+END
+report_auction.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/report_auction.py
+END
+photo_shadow.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/photo_shadow.py
+END
+report_auction_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/report_auction_view.xml
+END
+auction_buyer_result.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_buyer_result.sxw
+END
+buyer_list.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/buyer_list.xsl
+END
+lots_list_inv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list_inv.xml
+END
+ach_bordereau.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/ach_bordereau.xsl
+END
+bids_phones_details.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/bids_phones_details.py
+END
+auction_artists.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_artists.sxw
+END
+auction_bids.rml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_bids.rml
+END
+buyer_form_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/buyer_form_report.rml
+END
+auction_total.rml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_total.rml
+END
+catalog2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/catalog2.xsl
+END
+lots_bids_phone2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_bids_phone2.xsl
+END
+auction_artists.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_artists.py
+END
+results.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/results.xsl
+END
+catelogwithpictures.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/catelogwithpictures.sxw
+END
+lots_bids_phone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_bids_phone.xml
+END
+deposit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/deposit.xsl
+END
+lots_deposit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_deposit.xsl
+END
+lots_list_landscape.rml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list_landscape.rml
+END
+lots_list_landscape.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list_landscape.xml
+END
+seller_list.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/seller_list.xsl
+END
+bids.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/bids.xsl
+END
+auction_result.rml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_result.rml
+END
+auction_catelog.rml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_catelog.rml
+END
+rml_template.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/rml_template.xsl
+END
+buyer_form_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/buyer_form_report.py
+END
+bids_phones_details.rml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/bids_phones_details.rml
+END
+lots_with_vat.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_with_vat.xsl
+END
+deposit_seller.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/deposit_seller.sxw
+END
+auction_buyer_result.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_buyer_result.py
+END
+seller_form_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/seller_form_report.rml
+END
+artists.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/artists.xsl
+END
+report_lot_bar_code.rml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/report_lot_bar_code.rml
+END
+ach_bordereau_photo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/ach_bordereau_photo.xsl
+END
+bids_lots.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/bids_lots.sxw
+END
+auction_objects.rml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_objects.rml
+END
+auction_invoice.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_invoice.py
+END
+lots_list.rml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list.rml
+END
+auction_total_rml.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_total_rml.py
+END
+buyer_list.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/buyer_list.py
+END
+catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/catalog.xml
+END
+lots_list_inventory.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list_inventory.sxw
+END
+buyer_list.rml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/buyer_list.rml
+END
+lots_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list.xml
+END
+results_buyer.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/results_buyer.xsl
+END
+buyer_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/buyer_list.xml
+END
+huissier.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/huissier.py
+END
+ach_bordereau.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/ach_bordereau.xml
+END
+auction_bids.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_bids.sxw
+END
+buyer_form_report.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/buyer_form_report.sxw
+END
+vnd_bordereau.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/vnd_bordereau.xsl
+END
+auction_total.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_total.sxw
+END
+auction_catelog.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_catelog.py
+END
+auction_result.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_result.py
+END
+auction_bids.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_bids.py
+END
+test_report.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/test_report.sxw
+END
+seller_form_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/seller_form_report.py
+END
+lots_bids_phone2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_bids_phone2.xml
+END
+lots_list_inv.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list_inv.xsl
+END
+auction_buyer_result.rml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_buyer_result.rml
+END
+huissier.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/huissier.xsl
+END
+results.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/results.xml
+END
+lots_list.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list.py
+END
+auction_artists.rml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/auction_artists.rml
+END
+deposit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/deposit.xml
+END
+lots_list_landscape.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_list_landscape.sxw
+END
+lots_deposit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/lots_deposit.xml
+END
+content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/content.xml
+END
+bids_lots.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/bids_lots.py
+END
+total.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/report/total.py
+END

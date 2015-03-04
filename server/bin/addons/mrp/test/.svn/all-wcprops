@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/test
+END
+mrp_packs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/test/mrp_packs.yml
+END
+mrp_production_order.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/test/mrp_production_order.yml
+END
+mrp_phantom_bom.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/test/mrp_phantom_bom.yml
+END
+mrp_procurement.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/test/mrp_procurement.yml
+END
+mrp_report.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/test/mrp_report.yml
+END

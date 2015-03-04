@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_analytic_plans
+END
+purchase_analytic_plans.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_analytic_plans/purchase_analytic_plans.py
+END
+purchase_analytic_plans_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_analytic_plans/purchase_analytic_plans_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_analytic_plans/__init__.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/purchase_analytic_plans/__openerp__.py
+END

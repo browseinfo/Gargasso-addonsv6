@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll_account
+END
+hr_payroll_account_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll_account/hr_payroll_account_view.xml
+END
+hr_payroll_account_workflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll_account/hr_payroll_account_workflow.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll_account/__init__.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll_account/__openerp__.py
+END
+hr_payroll_account.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll_account/hr_payroll_account.py
+END
+hr_payroll_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll_account/hr_payroll_demo.xml
+END

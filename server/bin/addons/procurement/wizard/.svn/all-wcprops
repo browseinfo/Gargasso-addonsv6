@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/procurement/wizard
+END
+orderpoint_procurement.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/procurement/wizard/orderpoint_procurement.py
+END
+schedulers_all.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/procurement/wizard/schedulers_all.py
+END
+orderpoint_procurement_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/procurement/wizard/orderpoint_procurement_view.xml
+END
+schedulers_all_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/procurement/wizard/schedulers_all_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/procurement/wizard/__init__.py
+END
+make_procurement_product.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/procurement/wizard/make_procurement_product.py
+END
+mrp_procurement.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/procurement/wizard/mrp_procurement.py
+END
+make_procurement_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/procurement/wizard/make_procurement_view.xml
+END
+mrp_procurement_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/procurement/wizard/mrp_procurement_view.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_expense/report
+END
+expense.rml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_expense/report/expense.rml
+END
+hr_expense_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_expense/report/hr_expense_report.py
+END
+hr_expense_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_expense/report/hr_expense_report_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_expense/report/__init__.py
+END
+expense.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_expense/report/expense.sxw
+END
+expense.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_expense/report/expense.py
+END

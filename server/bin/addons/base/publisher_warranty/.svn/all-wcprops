@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/publisher_warranty
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/publisher_warranty/__init__.py
+END
+publisher_warranty.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/publisher_warranty/publisher_warranty.py
+END
+publisher_warranty_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/publisher_warranty/publisher_warranty_data.xml
+END
+publisher_warranty_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/publisher_warranty/publisher_warranty_view.xml
+END

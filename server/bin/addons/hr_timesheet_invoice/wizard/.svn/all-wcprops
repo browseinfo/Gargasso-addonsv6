@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet_invoice/wizard
+END
+hr_timesheet_final_invoice_create.py
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet_invoice/wizard/hr_timesheet_final_invoice_create.py
+END
+hr_timesheet_analytic_cost_ledger_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet_invoice/wizard/hr_timesheet_analytic_cost_ledger_report.py
+END
+hr_timesheet_analytic_profit_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet_invoice/wizard/hr_timesheet_analytic_profit_view.xml
+END
+hr_timesheet_invoice_create_final_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet_invoice/wizard/hr_timesheet_invoice_create_final_view.xml
+END
+hr_timesheet_invoice_analytic_cost_ledger_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet_invoice/wizard/hr_timesheet_invoice_analytic_cost_ledger_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet_invoice/wizard/__init__.py
+END
+hr_timesheet_invoice_create.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet_invoice/wizard/hr_timesheet_invoice_create.py
+END
+hr_timesheet_invoice_create_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet_invoice/wizard/hr_timesheet_invoice_create_view.xml
+END
+hr_timesheet_analytic_profit.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet_invoice/wizard/hr_timesheet_analytic_profit.py
+END

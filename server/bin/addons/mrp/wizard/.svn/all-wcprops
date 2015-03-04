@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard
+END
+change_production_qty.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/change_production_qty.py
+END
+mrp_track_prod_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/mrp_track_prod_view.xml
+END
+change_production_qty_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/change_production_qty_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/__init__.py
+END
+mrp_product_produce.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/mrp_product_produce.py
+END
+mrp_price.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/mrp_price.py
+END
+mrp_workcenter_load.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/mrp_workcenter_load.py
+END
+mrp_product_produce_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/mrp_product_produce_view.xml
+END
+mrp_price_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/mrp_price_view.xml
+END
+mrp_workcenter_load_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/mrp_workcenter_load_view.xml
+END
+mrp_change_standard_price.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/mrp_change_standard_price.py
+END
+mrp_track_prod.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/mrp_track_prod.py
+END
+mrp_change_standard_price_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp/wizard/mrp_change_standard_price_view.xml
+END

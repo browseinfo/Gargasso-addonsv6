@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet/test
+END
+test_hr_timesheet.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet/test/test_hr_timesheet.yml
+END
+hr_timesheet_report.yml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet/test/hr_timesheet_report.yml
+END

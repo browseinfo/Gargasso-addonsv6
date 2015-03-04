@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/marketing_campaign/security
+END
+ir.model.access.csv
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/marketing_campaign/security/ir.model.access.csv
+END
+marketing_campaign_security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/marketing_campaign/security/marketing_campaign_security.xml
+END

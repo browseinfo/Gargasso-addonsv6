@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+     	<report auto="False" 
+            id="account_invoice_custo" 
+            model="account.invoice" 
+            name="account.customer.invoice" 
+            rml="account_customer_invoice_report/report/account_customer_invoice.rml" 
+            string="Customer Invoice"
+            header="False"/>
+            
+     	
+    </data>
+</openerp>

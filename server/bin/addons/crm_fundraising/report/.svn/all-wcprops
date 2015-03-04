@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm_fundraising/report
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm_fundraising/report/__init__.py
+END
+crm_fundraising_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm_fundraising/report/crm_fundraising_report.py
+END
+crm_fundraising_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/crm_fundraising/report/crm_fundraising_report_view.xml
+END

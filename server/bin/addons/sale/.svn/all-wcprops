@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale
+END
+sale_unit_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/sale_unit_test.xml
+END
+board_sale_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/board_sale_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/__init__.py
+END
+sale_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/sale_demo.xml
+END
+sale_installer.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/sale_installer.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/__openerp__.py
+END
+company.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/company.py
+END
+company_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/company_view.xml
+END
+sale_installer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/sale_installer.xml
+END
+stock.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/stock.py
+END
+sale.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/sale.py
+END
+sale_sequence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/sale_sequence.xml
+END
+stock_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/stock_view.xml
+END
+sale_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/sale_data.xml
+END
+sale_workflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/sale_workflow.xml
+END
+sale_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/sale_view.xml
+END
+sale_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/sale/sale_report.xml
+END

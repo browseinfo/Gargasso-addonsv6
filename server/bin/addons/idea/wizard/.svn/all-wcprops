@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/idea/wizard
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/idea/wizard/__init__.py
+END
+idea_post_vote.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/idea/wizard/idea_post_vote.py
+END
+idea_post_vote_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/idea/wizard/idea_post_vote_view.xml
+END

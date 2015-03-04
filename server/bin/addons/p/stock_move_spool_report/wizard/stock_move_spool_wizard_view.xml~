@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<openerp>
+    <data>
+
+        <record model="ir.ui.view" id="stock_move_spool_wizard_form">
+            <field name="name">stock.move.spool.wizard.form</field>
+            <field name="model">stock.move.spool.wizard</field>
+            <field name="arch" type="xml">
+                <form string="Stock Move">
+                    <field name="stock_move_ids" nolabel="1">
+                        <tree>
+                            <field name="name"/>
+                            <field name="picking_id" string="Reference"/>
+                            <field name="origin"/>
+                            <field name="partner_id"/>
+                            <field name="product_id"/>
+                            <field name="product_qty"/>
+                            <field name="product_uom" string="UoM"/> 
+                            <field name="product_uos"/>
+                            <field name="x_spool_number" /> 
+                            <field name="prodlot_id"/>
+                        </tree>
+                    </field>
+                    <group col="4" colspan="4">
+                        <button string="_Cancel" icon="gtk-cancel" special="cancel" />
+                        <button name="print_report" type="object"
+                                string="_Print" icon="gtk-ok" />
+                    </group>
+                </form>
+            </field>
+        </record>
+
+        <!--  Merge leads/opportunities action -->
+        <record model="ir.actions.act_window" id="stock_move_spool_wizard_act">
+            <field name="name">Stock Move</field>
+            <field name="res_model">stock.move.spool.wizard</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">form</field>
+            <field name="view_id" ref="stock_move_spool_wizard_form"/>
+            <field name="target">new</field>
+        </record>
+
+        <act_window id="action_stock_move_wizard"
+            multi="True"
+            key2="client_action_multi" name="Stock Move Wizard"
+            res_model="stock.move.spool.wizard" src_model="stock.move"
+            view_mode="form" target="new" view_type="form"/>
+
+    </data>
+</openerp>

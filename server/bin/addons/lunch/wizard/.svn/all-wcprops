@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/lunch/wizard
+END
+lunch_order_cancel.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/lunch/wizard/lunch_order_cancel.py
+END
+lunch_order_cancel_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/lunch/wizard/lunch_order_cancel_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/lunch/wizard/__init__.py
+END
+lunch_order_confirm.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/lunch/wizard/lunch_order_confirm.py
+END
+lunch_cashbox_clean.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/lunch/wizard/lunch_cashbox_clean.py
+END
+lunch_order_confirm_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/lunch/wizard/lunch_order_confirm_view.xml
+END
+lunch_cashbox_clean_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/lunch/wizard/lunch_cashbox_clean_view.xml
+END

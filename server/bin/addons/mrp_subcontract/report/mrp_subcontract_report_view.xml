@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+    <!-- FORM SEARCH-->
+        <record id="view_subcontracting_report_form" model="ir.ui.view">
+            <field name="name">subcontract.wizard.form</field>
+            <field name="model">subcontract.wizard</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="Search Production Orders">
+                    <group col="4" colspan="4">
+                        <separator colspan="4" string="Production Orders"/>
+                        <field name="production_ids" nolabel="1"/>
+                        <newline/>
+                        <separator colspan="4" string="Comments"/>
+                        <field name="comments" nolabel="1"/>
+                    </group>
+                    <separator colspan="4"/>
+                    <group col="4" colspan="4">
+                        <button special="cancel"  string="_Cancel" icon='gtk-cancel'/>
+                        <button name="print_report" string="Print Report" colspan="1" type="object" icon="gtk-execute"/>
+                        <button name="print_send_report" string="Print and Send Report" colspan="1" type="object" icon="gtk-execute"/>
+                    </group>
+                </form>
+            </field>
+        </record>
+
+        <!-- ACCION -->
+        <record id="action_subcontracting_report" model="ir.actions.act_window">
+            <field name="name">Subcontracting Report</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">subcontract.wizard</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">form</field>
+            <field name="view_id" ref="view_subcontracting_report_form"/>
+            <field name="target">new</field>
+        </record>
+
+   
+    <record id="mrp_production_tree_view_inherit" model="ir.ui.view">
+        <field name="name">mrp.production.tree.inherit</field>
+        <field name="model">mrp.production</field>
+        <field name="inherit_id" ref="mrp.mrp_production_tree_view"/>
+        <field name="type">tree</field>
+        <field name="arch" type="xml">
+            <xpath expr="/tree/field[@name='date_planned']" position="after">
+                <field name="create_date" string="Create Date"/>
+                <field name="send_report" string="MO Ordered"/>
+            </xpath>
+        </field>
+    </record>
+    
+    </data>
+</openerp>

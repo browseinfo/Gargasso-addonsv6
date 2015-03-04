@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/delivery
+END
+partner.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/delivery/partner.py
+END
+partner_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/delivery/partner_view.xml
+END
+delivery_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/delivery/delivery_demo.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/delivery/__init__.py
+END
+stock.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/delivery/stock.py
+END
+delivery.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/delivery/delivery.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/delivery/__openerp__.py
+END
+sale.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/delivery/sale.py
+END
+delivery_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/delivery/delivery_data.xml
+END
+delivery_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/delivery/delivery_view.xml
+END
+delivery_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/delivery/delivery_report.xml
+END

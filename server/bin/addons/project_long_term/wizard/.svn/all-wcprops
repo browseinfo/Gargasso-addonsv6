@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/wizard
+END
+project_compute_tasks_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/wizard/project_compute_tasks_view.xml
+END
+project_schedule_tasks_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/wizard/project_schedule_tasks_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/wizard/__init__.py
+END
+project_compute_phases.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/wizard/project_compute_phases.py
+END
+project_compute_phases_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/wizard/project_compute_phases_view.xml
+END
+project_compute_tasks.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/wizard/project_compute_tasks.py
+END
+project_schedule_tasks.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/wizard/project_schedule_tasks.py
+END

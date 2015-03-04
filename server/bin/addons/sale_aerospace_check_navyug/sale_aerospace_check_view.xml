@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+    	<record id="view_sale_order_aerospace_check_inherit" model="ir.ui.view">
+    		<field name="name">view.sale.order.aerospace.check.inherit</field>
+            <field name="model">sale.order</field>
+            <field name="inherit_id" ref="sale.view_order_form"/>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<xpath expr="//field[@name='shipped']" position="after">
+                	<field name="aerospace" attrs="{'readonly':[('state','!=','draft')]}" />
+                </xpath>
+                <xpath expr="//field[@name='origin']" position="after">
+                	<field name="crm_po_no"/>
+                </xpath>
+            </field>
+    	</record>
+    	
+    	<record id="view_stock_move_po_number_inherit" model="ir.ui.view">
+    		<field name="name">view.stock.move.po.number.inherit</field>
+            <field name="model">stock.move</field>
+            <field name="inherit_id" ref="stock.view_move_tree"/>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<xpath expr="//field[@name='date_expected']" position="after">
+                	<field name="crm_po_no" />
+                </xpath>
+            </field>
+    	</record>
+    	
+    	<record id="view_stock_move_do_po_number_inherit" model="ir.ui.view">
+    		<field name="name">view.stock.move.do.po.number.inherit</field>
+            <field name="model">stock.picking</field>
+            <field name="inherit_id" ref="stock.view_picking_out_form"/>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<xpath expr="//field[@name='move_lines']/tree/field[@name='date']" position="after">
+                	<field name="crm_po_no" string="CRM PO No"/>
+                </xpath>
+                <xpath expr="/form/notebook/page/field[@name='move_lines']/form/group/field[@name='date_expected']" position="after">
+                	<field name="crm_po_no" string="CRM PO No"/>
+                </xpath>
+            </field>
+    	</record>
+    </data>
+</openerp>

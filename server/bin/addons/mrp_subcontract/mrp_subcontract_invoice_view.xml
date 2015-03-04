@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <record id="view_mrp_bom_form_inherit" model="ir.ui.view">
+            <field name="name">mrp.bom.form.inherit</field>
+            <field name="model">mrp.bom</field>
+            <field name="inherit_id" ref="mrp.mrp_bom_form_view"/>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            <data>
+                <xpath expr="/form/group/field[@name='company_id']" position="after">
+                    <field name="subcontract"/>
+                </xpath>
+                <xpath expr="/form/notebook/page[@string='Properties']" position="after">
+					<page string="Add Services for Subcontracting" attrs="{'invisible': [('subcontract','=',False)]}">
+                		<field colspan="4" name="product_ids" nolabel="1"/>
+					</page>
+                </xpath>
+               </data>
+            </field>
+        </record>
+
+        <record id="view_mrp_production_form_inherit" model="ir.ui.view">
+            <field name="name">mrp.production.form.inherit</field>
+            <field name="model">mrp.production</field>
+            <field name="inherit_id" ref="mrp.mrp_production_form_view"/>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            <data>
+                <xpath expr="/form/group/field[@name='product_uos']" position="after">
+                    <field name="subcontract" invisible="1"/>
+                    <field name="invoice" invisible="1"/>
+					<group attrs="{'invisible': ['|', ('subcontract','=',False), ('invoice','=',True)]}" colspan="4">
+					<label colspan="2"/>
+                    <button type="object"
+                            icon="gtk-execute"
+                            name="create_invoice_subcontract"
+                            string="Create Invoice" states="done" colspan="2"/>
+					</group>
+                </xpath>
+                <xpath expr="/form/group/button[@string='Change Qty']" position="replace">
+                        <button type="action"
+                            icon="terp-accessories-archiver+"
+                            name="%(mrp.action_change_production_qty)d"
+                            string="Change Qty" states="ready,confirmed" />
+                        <button type="action"
+                            icon="terp-accessories-archiver+"
+                            name="%(mrp_subcontract.action_add_production_qty)d"
+                            string="Add Qty" states="in_production" />
+                </xpath>
+                <xpath expr="/form/notebook/page[@string='Extra Information']" position="after">
+					<page string="Invoice" attrs="{'invisible': [('subcontract','=',False)]}">
+                		<field name="partner_id" on_change="onchange_partner_id(partner_id,address_id)"/>
+                		<field name="address_id"/>
+                		<field name="pricelist_id" invisible="1"/>
+                		<field name="invoice_id" invisible="1"/>
+					</page>
+                </xpath>
+               </data>
+            </field>
+        </record>
+	</data>
+</openerp>

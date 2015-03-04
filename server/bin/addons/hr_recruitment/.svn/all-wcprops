@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment
+END
+hr_recruitment.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/hr_recruitment.py
+END
+hr_recruitment_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/hr_recruitment_data.xml
+END
+hr_recruitment_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/hr_recruitment_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/__init__.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/__openerp__.py
+END
+hr_recruitment_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/hr_recruitment_demo.xml
+END
+hr_recruitment_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/hr_recruitment_menu.xml
+END
+board_hr_recruitment_statistical_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/board_hr_recruitment_statistical_view.xml
+END

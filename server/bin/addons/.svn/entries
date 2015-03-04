@@ -1,0 +1,594 @@
+10
+
+dir
+33
+https://192.168.3.25/svn/garg-openerp/trunk/06project/src/openerp-server/addons
+https://192.168.3.25/svn/garg-openerp
+
+
+
+2012-02-14T05:45:48.462369Z
+33
+manmohan.sharma@navyuginfo.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7afa7d7f-3c37-4cab-8c6d-df0ed330c92e
+
+project_scrum
+dir
+
+marketing
+dir
+
+__init__.py
+file
+
+
+
+
+2012-02-27T09:31:00.846207Z
+44adfb03d98e520aa6f67d432004dd7b
+2011-08-23T19:08:25.407627Z
+18
+manmohan.sharma@navyuginfo.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37448
+
+resource
+dir
+
+base_tools
+dir
+
+membership
+dir
+
+crm_caldav
+dir
+
+mrp_operations
+dir
+
+account_cancel
+dir
+
+web_uservoice
+dir
+
+share
+dir
+
+project_gtd
+dir
+
+product_visible_discount
+dir
+
+l10n_pl
+dir
+
+warning
+dir
+
+project
+dir
+
+decimal_precision
+dir
+
+product_margin
+dir
+
+email_template
+dir
+
+account_followup
+dir
+
+subscription
+dir
+
+account_analytic_default
+dir
+
+base_contact
+dir
+
+document_ftp
+dir
+
+board
+dir
+
+account_payment
+dir
+
+base_setup
+dir
+
+fetchmail
+dir
+
+product_manufacturer
+dir
+
+html_view
+dir
+
+hr_attendance
+dir
+
+mrp_repair
+dir
+
+l10n_in
+dir
+
+audittrail
+dir
+
+mrp_jit
+dir
+
+l10n_it
+dir
+
+project_retro_planning
+dir
+
+crm_fundraising
+dir
+
+thunderbird
+dir
+
+claim_from_delivery
+dir
+
+stock_location
+dir
+
+account_chart
+dir
+
+project_issue
+dir
+
+project_caldav
+dir
+
+profile_tools
+dir
+
+l10n_be
+dir
+
+crm
+dir
+
+report_webkit_sample
+dir
+
+sale_margin
+dir
+
+stock
+dir
+
+account_sequence
+dir
+
+base_report_creator
+dir
+
+sale_crm
+dir
+
+account_voucher
+dir
+
+l10n_br
+dir
+
+anonymization
+dir
+
+base_iban
+dir
+
+pad
+dir
+
+document_webdav
+dir
+
+google_map
+dir
+
+stock_planning
+dir
+
+l10n_ro
+dir
+
+project_long_term
+dir
+
+association
+dir
+
+stock_no_autopicking
+dir
+
+l10n_ca
+dir
+
+document
+dir
+
+knowledge
+dir
+
+delivery
+dir
+
+project_mrp
+dir
+
+base_vat
+dir
+
+l10n_ch
+dir
+
+base_report_designer
+dir
+
+caldav
+dir
+
+l10n_cn
+dir
+
+base_module_doc_rst
+dir
+
+l10n_cr
+dir
+
+sale_analytic_plans
+dir
+
+event_project
+dir
+
+hr_timesheet_sheet
+dir
+
+analytic_journal_billing_rate
+dir
+
+purchase
+dir
+
+account_accountant
+dir
+
+hr_payroll
+dir
+
+process
+dir
+
+report_webkit
+dir
+
+hr_timesheet
+dir
+
+point_of_sale
+dir
+
+l10n_de
+dir
+
+sale
+dir
+
+crm_profiling
+dir
+
+project_planning
+dir
+
+outlook
+dir
+
+base_action_rule
+dir
+
+crm_helpdesk
+dir
+
+idea
+dir
+
+l10n_th
+dir
+
+l10n_lu
+dir
+
+account_analytic_plans
+dir
+
+base_module_record
+dir
+
+multi_company
+dir
+
+product_expiry
+dir
+
+l10n_ec
+dir
+
+account_coda
+dir
+
+account_analytic_analysis
+dir
+
+account_anglo_saxon
+dir
+
+hr_payroll_account
+dir
+
+l10n_ma
+dir
+
+hr_recruitment
+dir
+
+purchase_analytic_plans
+dir
+
+base_crypt
+dir
+
+account
+dir
+
+hr_timesheet_invoice
+dir
+
+wiki_sale_faq
+dir
+
+hr_evaluation
+dir
+
+users_ldap
+dir
+
+l10n_es
+dir
+
+base_calendar
+dir
+
+report_intrastat
+dir
+
+account_invoice_layout
+dir
+
+project_issue_sheet
+dir
+
+l10n_uk
+dir
+
+project_mailgate
+dir
+
+document_ics
+dir
+
+base_quality_interrogation.py
+file
+
+
+
+
+2012-02-27T09:31:00.858207Z
+212e6643d5b023e123fba3ce3ca3bd9f
+2011-08-23T19:08:25.407627Z
+18
+manmohan.sharma@navyuginfo.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14754
+
+sale_journal
+dir
+
+l10n_mx
+dir
+
+base_synchro
+dir
+
+marketing_campaign_crm_demo
+dir
+
+account_budget
+dir
+
+base_module_quality
+dir
+
+wiki_faq
+dir
+
+web_livechat
+dir
+
+mrp
+dir
+
+stock_invoice_directly
+dir
+
+sale_order_dates
+dir
+
+hr_expense
+dir
+
+l10n_fr
+dir
+
+sale_mrp
+dir
+
+l10n_nl
+dir
+
+l10n_ve
+dir
+
+analytic
+dir
+
+hr_contract
+dir
+
+analytic_user_function
+dir
+
+mrp_subproduct
+dir
+
+lunch
+dir
+
+hr
+dir
+
+purchase_double_validation
+dir
+
+product
+dir
+
+marketing_campaign
+dir
+
+crm_partner_assign
+dir
+
+event
+dir
+
+sale_layout
+dir
+
+crm_claim
+dir
+
+report_designer
+dir
+
+project_messages
+dir
+
+survey
+dir
+
+l10n_gr
+dir
+
+auction
+dir
+
+procurement
+dir
+
+mail_gateway
+dir
+
+wiki
+dir
+
+l10n_gt
+dir
+
+hr_holidays
+dir
+
+purchase_requisition
+dir
+
+wiki_quality_manual
+dir
+
+base
+dir
+
+project_timesheet
+dir
+

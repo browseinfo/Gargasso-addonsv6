@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_budget/wizard
+END
+account_budget_analytic.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_budget/wizard/account_budget_analytic.py
+END
+account_budget_analytic_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_budget/wizard/account_budget_analytic_view.xml
+END
+account_budget_crossovered_summary_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_budget/wizard/account_budget_crossovered_summary_report.py
+END
+account_budget_crossovered_summary_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_budget/wizard/account_budget_crossovered_summary_report_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_budget/wizard/__init__.py
+END
+account_budget_crossovered_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_budget/wizard/account_budget_crossovered_report.py
+END
+account_budget_crossovered_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_budget/wizard/account_budget_crossovered_report_view.xml
+END
+account_budget_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_budget/wizard/account_budget_report.py
+END
+account_budget_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_budget/wizard/account_budget_report_view.xml
+END

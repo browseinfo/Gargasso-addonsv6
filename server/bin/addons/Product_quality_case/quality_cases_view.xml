@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+            	
+    	<record id="quality_cases_form_view" model="ir.ui.view">
+            <field name="name">quality.cases.form</field>
+            <field name="model">quality.cases</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<form string="Product Quality Case">
+            		<field name="case_code" colspan="2"/>
+            		<field name="name" colspan="2"/>
+                	<field name="product_type" colspan="2"/>
+                	<field name="conductor_name" colspan="2"/>
+                	<group col="6" colspan="4">
+                		<separator colspan="2" string="Pull Testing Parameters"/>
+                		<newline/>
+                		<button confirm="Do u want to pull parameters" name="pullparameters" string="Pull Parameters" target="new" type="object" context="{'product_type':product_type,'conductor_name':conductor_name}"/>
+                   </group>
+                	<notebook colspan="5">
+                    	<page string="Parameters">
+                    		<field name="parameter_ids" nolabel="1"/>
+                    	</page>
+                    </notebook>
+                </form>
+            </field>
+        </record>
+		<record id="quality_cases_tree_view" model="ir.ui.view">
+            <field name="name">quality.cases.tree</field>
+            <field name="model">quality.cases</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+            	<tree string="Quality Testing">
+                	<field name="case_code"/>
+                	<field name="name"/>
+                </tree>
+            </field>
+        </record>
+    	
+    	<record id="quality_caselines_form_view" model="ir.ui.view">
+            <field name="name">quality.caselines.form.view</field>
+            <field name="model">quality.caselines</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="Parameter Information">
+                    <field name="param_id" groups="base.group_extended" on_change="onchange_param_id(param_id)" widget="selection"/>
+                    <field name="requirement"/>
+                    <field name="max_value" attrs="{'readonly':[('min_max_check','=',True)]}" groups="base.group_extended"/>
+                    <field name="min_value"/>
+                    <field name="standard"/>
+                    <field name="method"/>
+                    <field name="condition"/>
+                    <field name="unit"/>
+                </form>
+            </field>
+        </record>
+        <record id="quality_caselines_tree_view" model="ir.ui.view">
+            <field name="name">quality.caselines.tree.view</field>
+            <field name="model">quality.caselines</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+                <tree string="Parameter Information">
+                    <field name="param_id"/>
+                    <field name="standard"/>
+                    <field name="max_value"/>
+                    <field name="min_value"/>
+                    <field name="unit"/>
+                </tree>
+            </field>
+        </record>
+        
+        <record id="conductor_parameters_form_view" model="ir.ui.view">
+            <field name="name">conductor.parameters.form</field>
+            <field name="model">conductor.parameters</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<form string="Conductor Parameters">
+                	<field name="conductor_id" colspan="2" on_change="onchange_product_id(conductor_id)"/>
+                	<field name="name" colspan="2"/>
+                	<notebook colspan="5">
+                    	<page string="Parameters">
+                    		<field name="conductor_ids" nolabel="1"/>
+                    	</page>
+                 </notebook>
+                </form>
+            </field>
+        </record>
+
+		<record id="conductor_parameters_tree_view" model="ir.ui.view">
+            <field name="name">conductor.parameters.tree</field>
+            <field name="model">conductor.parameters</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+            	<tree string="Quality Testing">
+                	<field name="name"/>
+                	<!--<field name="name"/>-->
+                </tree>
+            </field>
+        </record>
+        
+        <record id="conductor_parameters_caselines_form_view" model="ir.ui.view">
+            <field name="name">conductor.parameters.caselines.form.view</field>
+            <field name="model">conductor.parameters.caselines</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="Parameter Information">
+                    <field name="param_id" groups="base.group_extended" widget="selection"/>
+                    <field name="requirement"/>
+                    <field name="max_value" attrs="{'readonly':[('min_max_check','=',True)]}" groups="base.group_extended"/>
+                    <field name="min_value"/>
+                    <field name="standard"/>
+                    <field name="method"/>
+                    <field name="condition"/>
+                    <field name="unit"/>
+                </form>
+            </field>
+        </record>
+        <record id="conductor_parameters_caselines_tree_view" model="ir.ui.view">
+            <field name="name">conductor.parameters.caselines.tree.view</field>
+            <field name="model">conductor.parameters.caselines</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+                <tree string="Parameter Information">
+                    <field name="param_id"/>
+                    <field name="standard"/>
+                    <field name="max_value"/>
+                    <field name="min_value"/>
+                    <field name="unit"/>
+                </tree>
+            </field>
+        </record>
+        
+        <record id="quality_parameters_form_view" model="ir.ui.view">
+            <field name="name">quality.parameters.form</field>
+            <field name="model">quality.parameters</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<form string="Quality Testing Parameters">
+                	<field name="parameter_code" colspan="2"/>
+                	<field name="name" colspan="2"/>
+                	<field name="parameter_type" colspan="2"/>                	
+                	<field name="min_max_check" colspan="2"/>
+                </form>
+            </field>
+        </record>
+
+		<record id="quality_parameters_tree_view" model="ir.ui.view">
+            <field name="name">quality.parameters.tree</field>
+            <field name="model">quality.parameters</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+            	<tree string="Quality Testing">
+                	<field name="parameter_code"/>
+                	<field name="name"/>
+                </tree>
+            </field>
+        </record>
+        
+        <record id="type_parameters_form_view" model="ir.ui.view">
+            <field name="name">type.parameters.form</field>
+            <field name="model">type.parameters</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<form string="Product Type">
+                	<field name="name" colspan="4" select="2"/>
+                	<notebook colspan="5">
+                    	<page string="Parameters">
+                    		<field name="typecase_ids" nolabel="1"/>
+                    	</page>
+                    </notebook>
+                </form>
+            </field>
+        </record>
+
+		<record id="type_parameters_tree_view" model="ir.ui.view">
+            <field name="name">type.parameters.tree</field>
+            <field name="model">type.parameters</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+            	<tree string="Product Type">
+                	<field name="name"/>
+                </tree>
+            </field>
+        </record>
+        
+        <record id="type_parameters_caselines_form_view" model="ir.ui.view">
+            <field name="name">type.parameters.caselines.form.view</field>
+            <field name="model">type.parameters.caselines</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="Parameter Information">
+                    <field name="param_id" groups="base.group_extended" widget="selection"/>
+                    <field name="requirement"/>
+                    <field name="max_value" attrs="{'readonly':[('min_max_check','=',True)]}" groups="base.group_extended"/>
+                    <field name="min_value"/>
+                    <field name="standard"/>
+                    <field name="method"/>
+                    <field name="condition"/>
+                    <field name="unit"/>
+                </form>
+            </field>
+        </record>
+        <record id="type_parameters_caselines_tree_view" model="ir.ui.view">
+            <field name="name">type.parameters.caselines.tree.view</field>
+            <field name="model">type.parameters.caselines</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+                <tree string="Parameter Information">
+                    <field name="param_id"/>
+                    <field name="standard"/>
+                    <field name="max_value"/>
+                    <field name="min_value"/>
+                    <field name="unit"/>
+                </tree>
+            </field>
+        </record>
+        
+        
+        <record model="ir.actions.act_window" id="action_testing_parameters">
+        	<field name="name">Product Testing</field>
+        	<field name="res_model">quality.cases</field>
+        	<field name="view_type">form</field>
+        	<field name="view_mode">tree,form</field>
+        </record>
+        <menuitem name="Product Testing" id="menu_product_testing" action="action_testing_parameters" parent="stock.menu_stock_product"/>
+
+        <menuitem id="menu_product_testing_config" name="Product Testing" parent="stock.menu_stock_configuration" sequence="1"/>
+        
+        <record model="ir.actions.act_window" id="action_conductor_parameters">
+        	<field name="name">Conductor Parameters</field>
+        	<field name="res_model">conductor.parameters</field>
+        	<field name="view_type">form</field>
+        	<field name="view_mode">tree,form</field>
+     	</record>
+     	
+     	<record model="ir.actions.act_window" id="action_quality_parameters">
+        	<field name="name">Testing Parameters</field>
+        	<field name="res_model">quality.parameters</field>
+        	<field name="view_type">form</field>
+        	<field name="view_mode">tree,form</field>
+        </record>                
+
+        <!--<record model="ir.actions.act_window" id="action_quality_parameters">
+        	<field name="name">Testing Parameters</field>
+        	<field name="res_model">quality.parameters</field>
+        	<field name="view_type">form</field>
+        	<field name="view_mode">tree,form</field>
+    </record>-->
+
+		<record model="ir.actions.act_window" id="action_type_parameters">
+        	<field name="name">Product Type Parameters</field>
+        	<field name="res_model">type.parameters</field>
+        	<field name="view_type">form</field>
+        	<field name="view_mode">tree,form</field>
+     	</record>
+     	
+		<menuitem name="Conductor Parameters" id="menu_conductor_parameters" action="action_conductor_parameters" parent="menu_product_testing_config"/>
+		<menuitem name="Quality Parameters" id="menu_quality_parameters" action="action_quality_parameters" parent="menu_product_testing_config"/>
+		<menuitem name="Product Type Parameters" id="menu_type_parameters" action="action_type_parameters" parent="menu_product_testing_config"/>
+		
+		<record id="quality_product_normal_form_view_inherit" model="ir.ui.view">
+            <field name="name">product.testing.form</field>
+            <field name="model">product.product</field>
+            <field name="type">form</field>
+            <field name="inherit_id" ref="product.product_normal_form_view"/>
+            <field name="arch" type="xml">
+            <field name="ean13" position="after">
+                <field name="test_code"/>
+            </field>
+            </field>
+        </record>
+        
+        <record id="delivery_order_testing_form_view_inherit" model="ir.ui.view">
+            <field name="name">delivery.order.testing.form</field>
+            <field name="model">stock.picking</field>
+            <field name="type">form</field>
+            <field name="inherit_id" ref="stock.view_picking_out_form"/>
+            <field name="arch" type="xml">
+                <notebook colspan="4" position = "inside">
+                    <page string="Quality Testing">
+                    	<field name="test_ids" nolabel="1"/>
+                    	
+                    	<!-- <field name="raw_m_test" colspan="4"/>
+                    	<field name="production_test" colspan="4"/>
+                    	<field name="finished_test" colspan="4"/> -->
+                    </page>
+                </notebook>
+            </field>
+        </record>
+        
+     <!-- Delivery Order section view -->
+     
+     <record id="delivery_order_testing_form_view" model="ir.ui.view">
+            <field name="name">delivery.order.testing.form</field>
+            <field name="model">delivery.order.testing</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<form string="Product Quality Testing">
+            		<field name="product_id" colspan="4"/>
+                	<notebook colspan="5">
+                    	<page string="Parameters">
+                    		<field name="testinglines_ids" nolabel="1" widget="one2many_list"/>
+                    	</page>
+                    </notebook>
+                </form>
+            </field>
+        </record>
+		<record id="delivery_order_testing_tree_view" model="ir.ui.view">
+            <field name="name">delivery.order.testing.tree</field>
+            <field name="model">delivery.order.testing</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+            	<tree string="Quality Testing">
+                	<field name="product_id" on_change="onchange_product_id(product_id)" select="1"/>
+                </tree>
+            </field>
+    </record>
+    	
+    	<record id="delivery_order_testing_lines_form_view" model="ir.ui.view">
+            <field name="name">delivery.order.testing.lines.form.view</field>
+            <field name="model">delivery.order.testing.lines</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="Parameter Information">
+                    <field name="param_id" groups="base.group_extended"/>
+                    <field name="method"/>
+                    <field name="requirement"/>
+                    <field name="condition"/>
+                    <field name="min_value"/>
+                    <field name="max_value"/>
+                    <field name="standard"/>
+                    <field name="unit"/>                    
+                    <field name="param_value"/>
+                </form>
+            </field>
+        </record>
+        <record id="delivery_order_testing_lines_tree_view" model="ir.ui.view">
+            <field name="name">delivery.order.testing.lines.tree.view</field>
+            <field name="model">delivery.order.testing.lines</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+                <tree string="Parameter Information" editable="top">
+                    <field name="param_id" context="None"/>
+                    <field name="method"/>
+                    <field name="requirement"/>
+                    <field name="condition"/>
+                    <field name="min_value"/>
+                    <field name="max_value"/>
+                    <field name="standard"/>
+                    <field name="unit" readonly="1"/>
+                    <field name="param_value" context="None"/>
+                </tree>
+            </field>
+        </record>
+   </data>
+</openerp>

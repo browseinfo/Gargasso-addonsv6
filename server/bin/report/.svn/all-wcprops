@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/garg-openerp/!svn/ver/33/trunk/06project/src/openerp-server/report
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/common.py
+END
+custom.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/custom.py
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/misc.py
+END
+print_xml.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/print_xml.py
+END
+report_sxw.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/garg-openerp/!svn/ver/33/trunk/06project/src/openerp-server/report/report_sxw.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/__init__.py
+END
+int_to_text.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/int_to_text.py
+END
+interface.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/interface.py
+END
+print_fnc.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/print_fnc.py
+END
+preprocess.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/preprocess.py
+END

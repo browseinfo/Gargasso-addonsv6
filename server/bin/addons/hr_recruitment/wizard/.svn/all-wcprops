@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/wizard
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/wizard/__init__.py
+END
+hr_recruitment_phonecall.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/wizard/hr_recruitment_phonecall.py
+END
+hr_recruitment_phonecall_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/wizard/hr_recruitment_phonecall_view.xml
+END
+hr_recruitment_create_partner_job.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/wizard/hr_recruitment_create_partner_job.py
+END
+hr_recruitment_create_partner_job_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_recruitment/wizard/hr_recruitment_create_partner_job_view.xml
+END

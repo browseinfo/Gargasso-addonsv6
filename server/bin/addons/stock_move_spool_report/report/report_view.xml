@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+        <report auto="False" id="spool_report" model="stock.picking" 
+        	name="stock.move.spool.report" rml="stock_move_spool_report/report/stock_move_spool.rml" string="Spool Report"/>
+
+    </data>
+</openerp>

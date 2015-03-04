@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_analytic_plans/wizard
+END
+account_crossovered_analytic.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_analytic_plans/wizard/account_crossovered_analytic.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_analytic_plans/wizard/__init__.py
+END
+account_crossovered_analytic_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_analytic_plans/wizard/account_crossovered_analytic_view.xml
+END
+analytic_plan_create_model.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_analytic_plans/wizard/analytic_plan_create_model.py
+END
+analytic_plan_create_model_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_analytic_plans/wizard/analytic_plan_create_model_view.xml
+END

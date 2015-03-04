@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/odt2odt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/odt2odt/__init__.py
+END
+odt2odt.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/render/odt2odt/odt2odt.py
+END

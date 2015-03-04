@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<openerp>
+    <data>
+    
+        <record id="view_stock_merge_delivery" model="ir.ui.view">
+                <field name="name">mrp.production.merge.form</field>
+                <field name="model">mrp.production.merge</field>
+                <field name="type">form</field>
+                <field name="arch" type="xml">
+                    <form string="Merge Manufacturing Order">
+                    <separator string="Select lines" colspan="4"/>
+                     <label string="
+                        Please note that: &#10; &#10;
+                        Manufacturing Orders will only be merged if: &#10;
+                        * Manufacturing Orders are in Draft State&#10;
+                        * And Products name are same &#10; &#10;
+                        " colspan="4"/>
+                    <field name="delivery_ids" nolabel="1" colspan="4" width="550" height="300" >
+                        <tree>
+                            <field name="name"/>
+                            <field name="origin"/>
+                            <field name="state"/>
+                        </tree>
+                    </field>                    
+                 <separator colspan="4"/>
+                    <group colspan="4" col="6">
+                    <button special="cancel" string="_Cancel" icon='gtk-cancel'/>
+                    <button name="do_merge" string="Merge" type="object" icon="gtk-apply"/>
+                    </group>            
+                </form>
+            </field>
+        </record>
+         <act_window name="Merge Manufacturing Order"            
+            res_model="mrp.production.merge"
+            src_model="mrp.production"
+            view_mode="form"
+            multi="True"
+            target="new"        
+            key2="client_action_multi"    
+            id="action_view_stock_merge_delivery"/> 
+        
+    </data>
+</openerp>

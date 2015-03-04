@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script
+END
+ConvertFieldsToBraces.py
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/ConvertFieldsToBraces.py
+END
+ModifyExistingReport.py
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/ModifyExistingReport.py
+END
+Translation.py
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/Translation.py
+END
+ExportToRML.py
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/ExportToRML.py
+END
+Expression.py
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/Expression.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/__init__.py
+END
+AddAttachment.py
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/AddAttachment.py
+END
+Fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/Fields.py
+END
+ConvertBracesToField.py
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/ConvertBracesToField.py
+END
+ServerParameter.py
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/ServerParameter.py
+END
+LoginTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/LoginTest.py
+END
+About.py
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/About.py
+END
+Repeatln.py
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/Repeatln.py
+END
+compile_all.py
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/compile_all.py
+END
+import
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/import
+END
+SendToServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/SendToServer.py
+END
+NewReport.py
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/NewReport.py
+END
+Change.py
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/Change.py
+END
+modify.py
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/plugin/openerp_report_designer/bin/script/modify.py
+END

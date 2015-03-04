@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<openerp>
+    <data>
+    
+        <record id="view_stock_merge_delivery" model="ir.ui.view">
+                <field name="name">stock.delivery.merge.form</field>
+                <field name="model">stock.delivery.merge</field>
+                <field name="type">form</field>
+                <field name="arch" type="xml">
+                    <form string="Merge Delivery Order">
+                    <separator string="Select Deliveries" colspan="4"/>
+                     <label string="
+                        Please note that: &#10; &#10;
+                        Delivery Orders will only be merged if: &#10;
+                        * Delivery Orders are in Draft Confirmed and Available&#10;
+                        * Delivery Orders belong to the same Partner &#10;
+                        * Delivery Orders are have same Invoice state &#10; &#10;
+                        Lines will only be merged if: &#10;
+                        * Order lines are exactly the same except for the product,quantity and unit &#10;
+                        " colspan="4"/>
+                    <field name="delivery_ids" nolabel="1" colspan="4" width="550" height="300" >
+                        <tree>
+                            <field name="name"/>
+                            <field name="partner_id"/>
+                            <field name="origin"/>
+                            <field name="date"/>
+                            <field name="state"/>
+                        </tree>
+                    </field>                    
+                 <separator colspan="4"/>
+                    <group colspan="4" col="6">
+                    <button special="cancel" string="_Cancel" icon='gtk-cancel'/>
+					<button name="do_merge_one" string="Single Merge" type="object" icon="gtk-apply"/>
+                    <button name="do_merge" string="Merge" type="object" icon="gtk-apply"/>
+                    </group>            
+                </form>
+            </field>
+        </record>
+         <act_window name="Merge Delivery Order"            
+            res_model="stock.delivery.merge"
+            src_model="stock.picking"
+            view_mode="form"
+            multi="True"
+            target="new"        
+            key2="client_action_multi"    
+            id="action_view_stock_merge_delivery"/> 
+        
+    </data>
+</openerp>

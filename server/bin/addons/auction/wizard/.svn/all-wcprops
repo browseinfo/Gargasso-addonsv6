@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard
+END
+auction_lots_able_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_able_view.xml
+END
+auction_aie_send_result_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_aie_send_result_view.xml
+END
+auction_pay_buy.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_pay_buy.py
+END
+auction_pay_buy_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_pay_buy_view.xml
+END
+auction_lots_sms_send.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_sms_send.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/__init__.py
+END
+auction_lots_sms_send_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_sms_send_view.xml
+END
+auction_payer_sel.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_payer_sel.py
+END
+auction_payer_sel_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_payer_sel_view.xml
+END
+auction_lots_enable.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_enable.py
+END
+auction_lots_enable_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_enable_view.xml
+END
+auction_lots_make_invoice.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_make_invoice.py
+END
+auction_lots_make_invoice_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_make_invoice_view.xml
+END
+auction_catalog_flagey_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_catalog_flagey_report.py
+END
+auction_aie_send.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_aie_send.py
+END
+auction_aie_send_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_aie_send_view.xml
+END
+auction_lots_buyer_map.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_buyer_map.py
+END
+auction_lots_numerotate.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_numerotate.py
+END
+auction_lots_cancel.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_cancel.py
+END
+auction_lots_buyer_map_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_buyer_map_view.xml
+END
+auction_lots_numerotate_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_numerotate_view.xml
+END
+auction_lots_cancel_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_cancel_view.xml
+END
+auction_lots_auction_move.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_auction_move.py
+END
+auction_lots_auction_move_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_auction_move_view.xml
+END
+auction_pay_sel.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_pay_sel.py
+END
+auction_lots_invoice.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_invoice.py
+END
+auction_transfer_unsold_object.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_transfer_unsold_object.py
+END
+auction_pay_sel_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_pay_sel_view.xml
+END
+auction_lots_invoice_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_invoice_view.xml
+END
+auction_transfer_unsold_object_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_transfer_unsold_object_view.xml
+END
+auction_lots_make_invoice_buyer.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_make_invoice_buyer.py
+END
+auction_lots_make_invoice_buyer_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_make_invoice_buyer_view.xml
+END
+auction_taken.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_taken.py
+END
+auction_catalog_flagey_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_catalog_flagey_view.xml
+END
+auction_lots_able.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_lots_able.py
+END
+auction_taken_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_taken_view.xml
+END
+auction_aie_send_result.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/auction/wizard/auction_aie_send_result.py
+END

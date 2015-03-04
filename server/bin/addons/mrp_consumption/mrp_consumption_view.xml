@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<openerp>
+    <data>
+
+        <!--  =========== VIEWS =========== -->
+
+        <record model="ir.ui.view" id="consumption_view_wizard1">
+            <field name="name">Consumption Report</field>
+            <field name="model">mrp.consumption.report</field>
+            <field name="type">form</field>
+            <field name="priority">16</field>
+            <field name="arch" type="xml">
+                <form string="Generate Consumption Excel Report">
+	                    <label string="Select MO type and click create to generate consumption excel report. This report may take few minutes to generate excel report."/>
+	                    <group colspan="4" col="4" states="choose">
+	                    	<field name="mo_type" width="200"/>
+	                    	<field name="partner_id"/>
+	                    	<field name="from_date"/>
+	                    	<field name="to_date"/>
+	                    </group>
+	                    <group colspan="4" col="4" states="choose">
+		                    <button special="cancel" string="_Cancel" icon='gtk-cancel'/>
+		                    <button name="create_report" icon="gtk-print" string="Create" type="object"/>
+	                    </group>
+	                    <field invisible="1" name="state"/>
+	                    <group col="3" fill="0" states="get">
+	                        <separator colspan="3" string="Export done"/>
+	                        <field name="name" invisible="1" width="100"/>
+	                        <field name="data" nolabel="1" readonly="1" width="100" fieldname="name"/>
+	                    </group>
+	                </form>
+            </field>
+        </record>
+
+        <!--  =========== ACTIONS =========== -->
+
+        <record model="ir.actions.act_window" id="mrp_consumption_report_action1">
+            <field name="name">MRP Consumption Report</field>
+            <field name="res_model">mrp.consumption.report</field>
+            <field name="src_model">mrp.production</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">form</field>
+            <field name="target">new</field>
+        </record>
+
+        <!--  =========== MENU ITEMS =========== -->
+        <menuitem id="mrp_consumption_report_menu1" name="Consumption Report New"
+                    action="mrp_consumption_report_action1"
+                    parent="mrp.menu_mrp_manufacturing"
+                    sequence="40" />
+
+
+    </data>
+</openerp>

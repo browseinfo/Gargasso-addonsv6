@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp> 
+    <data>
+        
+        <!--  Change Product Quantity -->
+        
+		<record id="view_stock_delivery_createlines" model="ir.ui.view">
+            <field name="name">Create Delivery Order Wizard</field>
+            <field name="model">stock.delivery.createlines</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="Create delivery">
+                	<group col="2" colspan="4">
+                		 <field name="sale_order" />
+                		 <field name="sale_all_order" readonly="1"/>
+                	</group>
+                	<button name="create_lines" string="Generate Delivery Order lines"
+                			colspan="1" type="object" icon="gtk-ok" />
+                    <separator string="Move lines" colspan="4" />
+				        <field name="delivery_ids" nolabel="1" widget="one2many_list">
+				        <tree string="Move Lines" editable="top">
+				        	<field name="stock_move_id" invisible="1"/>
+				            <field name="product_id" on_change="onchange_product_id(product_id)"/>
+				            <field name="product_qty"/>
+                            <field name="product_uom"  string="UOM"/>
+                            <field name="prodlot_id" string="Production Lot" on_change="onchange_production_lot(prodlot_id)" domain="[('product_id','=',product_id)]"/>
+                            <field name="x_spool_number" string="Spool Number"/>
+                            <field name="tracking_id" string="Box"/>
+                            <field name="crm_po_no"/>
+                        </tree>
+				    </field>
+				    <newline/>
+				    <separator colspan="4"/>
+				    <group col="2" colspan="4">
+                		<button icon='gtk-stop' special="cancel"
+                			string="Cancel" />
+                		<button name="create_do_lines" string="Create"
+                			colspan="1" type="object" icon="gtk-ok" />
+                	</group>
+                </form>
+            </field>
+        </record>
+
+        <record id="action_stock_delivery_createlines" model="ir.actions.act_window">
+            <field name="name">Create Delivery Order</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">stock.delivery.createlines</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">form</field>
+            <field name="target">new</field>
+        </record>
+        
+       
+        <menuitem action="action_stock_delivery_createlines" id="menu_change_production_qty"
+            parent="mrp.menu_mrp_manufacturing" sequence="10" name="Create Delivery" />
+	</data>
+</openerp>	

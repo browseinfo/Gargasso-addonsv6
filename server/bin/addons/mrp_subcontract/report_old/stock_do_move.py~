@@ -1,0 +1,67 @@
+# -*- coding: utf-8 -*-
+##############################################################################
+#
+#    Manufacturing Subcontracting Process
+#    Copyright (C) 2004-2010 Browse Info Pvt Ltd (<http://www.browseinfo.com>).
+#    $autor:
+#   
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU Affero General Public License as
+#    published by the Free Software Foundation, either version 3 of the
+#    License, or (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU Affero General Public License for more details.
+#
+#    You should have received a copy of the GNU Affero General Public License
+#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+##############################################################################
+
+import time
+import datetime
+from report import report_sxw
+
+class stock_do_move(report_sxw.rml_parse):
+    def __init__(self, cr, uid, name, context):
+        super(stock_do_move, self).__init__(cr, uid, name, context=context)
+        self.localcontext.update({
+             'time': time,
+             'do_move_line':self._do_move_line,
+        })
+        
+    def _do_move_line(self,form):
+        
+        date_form = form.get('date')
+        pick_obj = self.pool.get('stock.picking')
+        move_obj = self.pool.get('stock.move')
+        moves = []
+        res = []
+        pick_ids = pick_obj.search(self.cr,self.uid, [('type','=', 'out')])
+        move_ids = move_obj.search(self.cr,self.uid, [('picking_id', 'in',pick_ids ), ('origin', 'ilike', '%MO%')])
+        for move in move_obj.browse(self.cr,self.uid, move_ids,):
+            date = move.create_date.split()[0]
+            if date == str(date_form):
+                moves.append(move.id)
+        for move in move_obj.browse(self.cr,self.uid, moves):
+            res.append({
+                    'product_name': move.product_id.name ,
+                    'product_qty': move.product_qty,
+                    'product_uom': move.product_uom.name,
+                    'product_lot': move.prodlot_id.name or '',
+                    'state': move.state,
+            
+                })
+
+        return res
+
+report_sxw.report_sxw(
+    'report.stock.do.move',
+    'stock.move',
+    'addons/mrp_subcontract/report/stock_move.rml',
+    parser=stock_do_move,
+    header='internal'
+)
+# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

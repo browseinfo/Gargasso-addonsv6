@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data noupdate="1">
+        <!--
+	Resource: quality.param.type
+	-->
+        <record id="braid" model="quality.param.type">
+            <field name="name">BRAID</field>
+        </record>
+        <record id="coax" model="quality.param.type">
+            <field name="name">COAX</field>
+        </record>
+        <record id="cond" model="quality.param.type">
+            <field name="name">COND</field>
+        </record>
+        <record id="core" model="quality.param.type">
+            <field name="name">CORE</field>
+        </record>
+        <record id="elec_coax" model="quality.param.type">
+            <field name="name">ELEC-COAX</field>
+        </record>
+        <record id="elec_core" model="quality.param.type">
+            <field name="name">ELEC-CORE</field>
+        </record>
+        <record id="elec_hvdc" model="quality.param.type">
+            <field name="name">ELEC-HVDC</field>
+        </record>
+        <record id="elec_multi" model="quality.param.type">
+            <field name="name">ELEC-MULT</field>
+        </record>
+        <record id="flat" model="quality.param.type">
+            <field name="name">FLAT</field>
+        </record>
+        <record id="mult" model="quality.param.type">
+            <field name="name">MULT</field>
+        </record>
+        <record id="twist" model="quality.param.type">
+            <field name="name">TWIST</field>
+        </record>
+    </data>
+</openerp>

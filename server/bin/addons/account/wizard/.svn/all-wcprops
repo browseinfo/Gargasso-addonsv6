@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard
+END
+account_move_line_select.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_move_line_select.py
+END
+account_tax_chart.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_tax_chart.py
+END
+account_report_central_journal.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_central_journal.py
+END
+account_report_partner_balance_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_partner_balance_view.xml
+END
+account_report_common_partner.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_common_partner.py
+END
+account_tax_chart_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_tax_chart_view.xml
+END
+account_fiscalyear_close_state.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_fiscalyear_close_state.xml
+END
+account_report_central_journal_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_central_journal_view.xml
+END
+account_validate_move_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_validate_move_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/__init__.py
+END
+account_report_partner_ledger_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_partner_ledger_view.xml
+END
+account_vat_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_vat_view.xml
+END
+account_report_general_ledger_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_general_ledger_view.xml
+END
+account_report_account_balance_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_account_balance_view.xml
+END
+account_move_line_reconcile_select.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_move_line_reconcile_select.py
+END
+account_report_profit_loss_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_profit_loss_view.xml
+END
+account_chart.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_chart.py
+END
+account_move_line_reconcile_select_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_move_line_reconcile_select_view.xml
+END
+account_chart_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_chart_view.xml
+END
+account_fiscalyear_close.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_fiscalyear_close.py
+END
+account_report_balance_sheet.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_balance_sheet.py
+END
+account_unreconcile_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_unreconcile_view.xml
+END
+account_fiscalyear_close_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_fiscalyear_close_view.xml
+END
+account_automatic_reconcile.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_automatic_reconcile.py
+END
+account_automatic_reconcile_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_automatic_reconcile_view.xml
+END
+account_report_common_journal.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_common_journal.py
+END
+account_use_model_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_use_model_view.xml
+END
+account_report_common.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_common.py
+END
+account_move_bank_reconcile.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_move_bank_reconcile.py
+END
+account_report_common_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_common_view.xml
+END
+account_report_aged_partner_balance.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_aged_partner_balance.py
+END
+account_validate_account_move.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_validate_account_move.py
+END
+account_open_closed_fiscalyear.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_open_closed_fiscalyear.py
+END
+account_invoice_state.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_invoice_state.py
+END
+account_report_aged_partner_balance_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_aged_partner_balance_view.xml
+END
+account_reconcile_partner_process_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_reconcile_partner_process_view.xml
+END
+account_change_currency.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_change_currency.py
+END
+account_subscription_generate_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_subscription_generate_view.xml
+END
+account_change_currency_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_change_currency_view.xml
+END
+account_move_journal_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_move_journal_view.xml
+END
+account_report_general_journal.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_general_journal.py
+END
+account_move_line_unreconcile_select_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_move_line_unreconcile_select_view.xml
+END
+account_fiscalyear_close_state.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_fiscalyear_close_state.py
+END
+account_move_line_select_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_move_line_select_view.xml
+END
+account_report_print_journal.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_print_journal.py
+END
+account_report_print_journal_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_print_journal_view.xml
+END
+account_report_partner_ledger.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_partner_ledger.py
+END
+account_vat.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_vat.py
+END
+account_report_general_ledger.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_general_ledger.py
+END
+account_report_account_balance.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_account_balance.py
+END
+account_report_profit_loss.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_profit_loss.py
+END
+account_report_common_account.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_common_account.py
+END
+account_state_open.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_state_open.py
+END
+account_reconcile.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_reconcile.py
+END
+account_state_open_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_state_open_view.xml
+END
+account_reconcile_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_reconcile_view.xml
+END
+account_unreconcile.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_unreconcile.py
+END
+account_period_close.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_period_close.py
+END
+account_period_close_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_period_close_view.xml
+END
+account_report_balance_sheet_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_balance_sheet_view.xml
+END
+account_use_model.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_use_model.py
+END
+account_move_bank_reconcile_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_move_bank_reconcile_view.xml
+END
+account_reconcile_partner_process.py
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_reconcile_partner_process.py
+END
+account_subscription_generate.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_subscription_generate.py
+END
+account_invoice_state_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_invoice_state_view.xml
+END
+account_open_closed_fiscalyear_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_open_closed_fiscalyear_view.xml
+END
+account_invoice_refund.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_invoice_refund.py
+END
+account_move_journal.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_move_journal.py
+END
+account_invoice_refund_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_invoice_refund_view.xml
+END
+account_move_line_unreconcile_select.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_move_line_unreconcile_select.py
+END
+account_report_general_journal_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_general_journal_view.xml
+END
+account_journal_select.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_journal_select.py
+END
+account_report_partner_balance.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_report_partner_balance.py
+END
+account_journal_select_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/wizard/account_journal_select_view.xml
+END

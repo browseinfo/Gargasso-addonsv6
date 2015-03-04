@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/printscreen
+END
+ps_list.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/printscreen/ps_list.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/printscreen/__init__.py
+END
+ps_form.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/19/trunk/06project/src/openerp-server/report/printscreen/ps_form.py
+END

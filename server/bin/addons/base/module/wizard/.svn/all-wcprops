@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard
+END
+base_module_upgrade_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_module_upgrade_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/__init__.py
+END
+base_language_install.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_language_install.py
+END
+base_language_install_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_language_install_view.xml
+END
+base_module_configuration.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_module_configuration.py
+END
+base_import_language.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_import_language.py
+END
+base_module_configuration_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_module_configuration_view.xml
+END
+base_import_language_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_import_language_view.xml
+END
+base_module_import.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_module_import.py
+END
+base_module_import_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_module_import_view.xml
+END
+base_module_shortcut_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_module_shortcut_data.xml
+END
+base_update_translations.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_update_translations.py
+END
+base_export_language.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_export_language.py
+END
+base_update_translations_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_update_translations_view.xml
+END
+base_export_language_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_export_language_view.xml
+END
+base_module_update.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_module_update.py
+END
+base_module_update_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_module_update_view.xml
+END
+base_module_scan.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_module_scan.py
+END
+base_module_scan_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_module_scan_view.xml
+END
+base_module_upgrade.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base/module/wizard/base_module_upgrade.py
+END

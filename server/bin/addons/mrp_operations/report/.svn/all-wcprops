@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_operations/report
+END
+mrp_wc_barcode.rml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_operations/report/mrp_wc_barcode.rml
+END
+mrp_code_barcode.rml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_operations/report/mrp_code_barcode.rml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_operations/report/__init__.py
+END
+mrp_workorder_analysis.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_operations/report/mrp_workorder_analysis.py
+END
+mrp_workorder_analysis_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_operations/report/mrp_workorder_analysis_view.xml
+END
+mrp_wc_barcode.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_operations/report/mrp_wc_barcode.py
+END
+mrp_code_barcode.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_operations/report/mrp_code_barcode.py
+END

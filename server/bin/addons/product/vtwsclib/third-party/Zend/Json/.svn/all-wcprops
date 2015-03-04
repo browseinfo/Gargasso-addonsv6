@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/34/trunk/06project/src/openerp-server/addons/product/vtwsclib/third-party/Zend/Json
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/34/trunk/06project/src/openerp-server/addons/product/vtwsclib/third-party/Zend/Json/TODO.txt
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/garg-openerp/!svn/ver/34/trunk/06project/src/openerp-server/addons/product/vtwsclib/third-party/Zend/Json/Exception.php
+END
+Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/34/trunk/06project/src/openerp-server/addons/product/vtwsclib/third-party/Zend/Json/Encoder.php
+END
+Decoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/34/trunk/06project/src/openerp-server/addons/product/vtwsclib/third-party/Zend/Json/Decoder.php
+END

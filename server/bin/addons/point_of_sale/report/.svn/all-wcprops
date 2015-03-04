@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report
+END
+pos_sales_user_today.rml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_sales_user_today.rml
+END
+pos_payment_report_user.rml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_payment_report_user.rml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/__init__.py
+END
+pos_details.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_details.py
+END
+pos_receipt.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_receipt.py
+END
+report_cash_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/report_cash_register.py
+END
+pos_payment_report_date.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_payment_report_date.sxw
+END
+pos_sales_user.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_sales_user.sxw
+END
+pos_sales_user_today_current_user.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_sales_user_today_current_user.sxw
+END
+report_cash_register_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/report_cash_register_view.xml
+END
+account_statement.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/account_statement.py
+END
+all_closed_cashbox_of_the_day.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/all_closed_cashbox_of_the_day.sxw
+END
+pos_users_product.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_users_product.py
+END
+pos_lines.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_lines.sxw
+END
+pos_sales_user_today.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_sales_user_today.py
+END
+pos_order_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_order_report.py
+END
+pos_sales_user_today_current_user.rml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_sales_user_today_current_user.rml
+END
+pos_sales_user.rml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_sales_user.rml
+END
+pos_payment_report_date.rml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_payment_report_date.rml
+END
+all_closed_cashbox_of_the_day.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/all_closed_cashbox_of_the_day.py
+END
+pos_order_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_order_report_view.xml
+END
+pos_payment_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_payment_report.py
+END
+pos_lines.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_lines.py
+END
+all_closed_cashbox_of_the_day.rml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/all_closed_cashbox_of_the_day.rml
+END
+pos_payment_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_payment_report.rml
+END
+pos_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_report.py
+END
+pos_lines.rml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_lines.rml
+END
+pos_details.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_details.sxw
+END
+pos_receipt_without_remboursment.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_receipt_without_remboursment.py
+END
+pos_users_product.py.WORK
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_users_product.py.WORK
+END
+pos_receipt_without_remboursment.rml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_receipt_without_remboursment.rml
+END
+pos_receipt.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_receipt.sxw
+END
+pos_details.rml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_details.rml
+END
+pos_receipt_with_remboursment.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_receipt_with_remboursment.py
+END
+account_statement.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/account_statement.sxw
+END
+pos_receipt_with_remboursment.rml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_receipt_with_remboursment.rml
+END
+pos_users_product.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_users_product.sxw
+END
+pos_details_summary.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_details_summary.sxw
+END
+pos_invoice.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_invoice.py
+END
+pos_receipt.rml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_receipt.rml
+END
+pos_sales_user_today.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_sales_user_today.sxw
+END
+pos_payment_report_user.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_payment_report_user.sxw
+END
+account_statement.rml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/account_statement.rml
+END
+pos_details_summary.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_details_summary.py
+END
+pos_users_product.rml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_users_product.rml
+END
+pos_details_summary.rml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_details_summary.rml
+END
+pos_payment_report_date.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_payment_report_date.py
+END
+pos_sales_user.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_sales_user.py
+END
+pos_sales_user_today_current_user.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_sales_user_today_current_user.py
+END
+pos_payment_report_user.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/point_of_sale/report/pos_payment_report_user.py
+END

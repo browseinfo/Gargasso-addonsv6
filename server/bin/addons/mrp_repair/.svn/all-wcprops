@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_repair
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_repair/__init__.py
+END
+mrp_repair.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_repair/mrp_repair.py
+END
+mrp_repair_sequence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_repair/mrp_repair_sequence.xml
+END
+mrp_repair_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_repair/mrp_repair_view.xml
+END
+mrp_repair_workflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_repair/mrp_repair_workflow.xml
+END
+mrp_repair_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_repair/mrp_repair_report.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/mrp_repair/__openerp__.py
+END

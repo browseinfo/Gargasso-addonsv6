@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_invoice_layout/report
+END
+report_account_invoice_layout.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_invoice_layout/report/report_account_invoice_layout.sxw
+END
+special_message_invoice.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_invoice_layout/report/special_message_invoice.sxw
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_invoice_layout/report/__init__.py
+END
+report_account_invoice_layout.py
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_invoice_layout/report/report_account_invoice_layout.py
+END
+special_message_invoice.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_invoice_layout/report/special_message_invoice.py
+END
+report_account_invoice_layout.rml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_invoice_layout/report/report_account_invoice_layout.rml
+END
+special_message_invoice.rml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_invoice_layout/report/special_message_invoice.rml
+END

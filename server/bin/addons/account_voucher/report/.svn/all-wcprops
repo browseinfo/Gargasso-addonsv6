@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/report
+END
+account_voucher.rml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/report/account_voucher.rml
+END
+account_voucher_sales_receipt.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/report/account_voucher_sales_receipt.py
+END
+account_voucher_sales_receipt_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/report/account_voucher_sales_receipt_view.xml
+END
+account_voucher_print.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/report/account_voucher_print.sxw
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/report/__init__.py
+END
+account_voucher.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/report/account_voucher.sxw
+END
+account_voucher_print.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/report/account_voucher_print.py
+END
+account_voucher_print.rml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/report/account_voucher_print.rml
+END
+account_voucher.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account_voucher/report/account_voucher.py
+END

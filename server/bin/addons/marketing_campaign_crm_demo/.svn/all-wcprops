@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/marketing_campaign_crm_demo
+END
+marketing_campaign_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/marketing_campaign_crm_demo/marketing_campaign_demo.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/marketing_campaign_crm_demo/__init__.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/marketing_campaign_crm_demo/__openerp__.py
+END
+crm_lead_mc_demo_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/marketing_campaign_crm_demo/crm_lead_mc_demo_report.rml
+END

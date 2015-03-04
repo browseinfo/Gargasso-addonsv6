@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard
+END
+account_analytic_inverted_balance_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/account_analytic_inverted_balance_report.xml
+END
+account_analytic_cost_ledger_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/account_analytic_cost_ledger_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/__init__.py
+END
+account_analytic_chart.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/account_analytic_chart.py
+END
+account_analytic_chart_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/account_analytic_chart_view.xml
+END
+account_analytic_journal_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/account_analytic_journal_report.py
+END
+account_analytic_journal_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/account_analytic_journal_report_view.xml
+END
+project_account_analytic_line.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/project_account_analytic_line.py
+END
+project_account_analytic_line_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/project_account_analytic_line_view.xml
+END
+account_analytic_inverted_balance_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/account_analytic_inverted_balance_report.py
+END
+account_analytic_balance_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/account_analytic_balance_report.py
+END
+account_analytic_balance_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/account_analytic_balance_report_view.xml
+END
+account_analytic_cost_ledger_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/account_analytic_cost_ledger_report.py
+END
+account_analytic_cost_ledger_for_journal_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/account_analytic_cost_ledger_for_journal_report.py
+END
+account_analytic_cost_ledger_for_journal_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/account/project/wizard/account_analytic_cost_ledger_for_journal_report_view.xml
+END

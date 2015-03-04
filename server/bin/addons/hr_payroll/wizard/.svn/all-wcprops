@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/wizard
+END
+hr_payroll_year_salary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/wizard/hr_payroll_year_salary.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/wizard/__init__.py
+END
+hr_payroll_employees_detail.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/wizard/hr_payroll_employees_detail.py
+END
+hr_payroll_year_salary.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/wizard/hr_payroll_year_salary.py
+END
+hr_payroll_employees_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_payroll/wizard/hr_payroll_employees_detail.xml
+END

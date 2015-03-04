@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+    	<record id="product_customerinfo_form_view" model="ir.ui.view">
+            <field name="name">product.customerinfo.form.view</field>
+            <field name="model">product.customerinfo</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="Customer Information">
+                    <field name="name"/>
+                    <field name="product_name" groups="base.group_extended"/>
+                    <field name="product_code" groups="base.group_extended"/>
+                    <field name="product_uom"/>
+                    
+                </form>
+            </field>
+        </record>
+        <record id="product_customerinfo_tree_view" model="ir.ui.view">
+            <field name="name">product.customerinfo.tree.view</field>
+            <field name="model">product.customerinfo</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+                <tree string="Customer Information">
+                    <field name="name"/>
+                    <field name="product_name" />
+                </tree>
+            </field>
+        </record>
+        <record id="product_customerinfo_form_view_inherit" model="ir.ui.view">
+            <field name="name">product.customerinfo.form.view.inherit</field>
+            <field name="model">product.product</field>
+            <field name="type">form</field>
+            <field name="inherit_id" ref="product.product_normal_form_view"/>
+            <field name="arch" type="xml">
+            	<xpath expr="/form/notebook/page[@string='Descriptions']" position="before">
+            		<page string="Customers">
+            			<field name="customer_ids" nolabel="1"/>
+            		</page>
+            	</xpath>
+<!--                <notebook colspan="4" position="inside"> -->
+                <!--</notebook>-->
+            </field>
+        </record>
+        
+   </data>
+</openerp>

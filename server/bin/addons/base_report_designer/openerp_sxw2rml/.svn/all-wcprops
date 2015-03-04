@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/openerp_sxw2rml
+END
+normalized_oo2rml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/openerp_sxw2rml/normalized_oo2rml.xsl
+END
+office.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/openerp_sxw2rml/office.dtd
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/openerp_sxw2rml/__init__.py
+END
+normalized_odt2rml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/openerp_sxw2rml/normalized_odt2rml.xsl
+END
+openerp_sxw2rml.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_report_designer/openerp_sxw2rml/openerp_sxw2rml.py
+END

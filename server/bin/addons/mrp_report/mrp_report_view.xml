@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<openerp>
+    <data>
+   
+        <!--  =========== VIEWS =========== -->   
+   
+        <record model="ir.ui.view" id="view_wizard">
+            <field name="name">Custom Report</field>
+            <field name="model">mrp.report</field>
+            <field name="type">form</field>
+            <field name="priority">16</field>
+            <field name="arch" type="xml">
+                <form string="Generate Manufacturing Order Excel Report">
+	                    <label string="Select manufacturing order type and state to generate manufacturing order excel report."/>
+	                    <group colspan="4" col="6" states="choose">
+	                    	<field name="mo_type" width="200"/>
+	                    	<field name="mo_state" width="200"/>
+		                    <button special="cancel" string="_Cancel" icon='gtk-cancel'/>
+		                    <button name="create_report" icon="gtk-print" string="Print" type="object"/>
+	                    </group>
+	                    <field invisible="1" name="state"/>
+	                    <group col="3" fill="0" states="get">
+	                        <separator colspan="3" string="Export done"/>
+	                        <field name="name" invisible="1" width="100"/>
+	                        <field name="data" nolabel="1" readonly="1" width="100" fieldname="name"/>
+	                    </group>         
+	                </form>
+            </field>
+        </record>
+       
+        <!--  =========== ACTIONS =========== -->   
+       
+        <record model="ir.actions.act_window" id="mrp_report_action">
+            <field name="name">MRP Custom Report</field>
+            <field name="res_model">mrp.report</field>
+            <field name="src_model">mrp.production</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">form</field>
+            <field name="target">new</field>
+        </record>
+       
+        <!--  =========== MENU ITEMS =========== -->
+        <menuitem id="mrp_report_menu" name="MO Report"
+                    action="mrp_report_action"
+                    parent="mrp.menu_mrp_manufacturing"
+                    sequence="40" />
+       
+       
+    </data>
+</openerp>

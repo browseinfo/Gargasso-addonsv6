@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+	<data>
+	
+		<record id="view_customer_invoice_export_details_inherit" model="ir.ui.view">
+	    		<field name="name">view.customer.invoice.export.details.inherit</field>
+	            <field name="model">account.invoice</field>
+	            <field name="inherit_id" ref="account.invoice_form"/>
+	            <field name="type">form</field>
+	            <field name="arch" type="xml">
+	            	<xpath expr='//page[@string="Payments"]' position='before'>
+	            		<page string="Export Details">
+	            			<group colspan="4" col="4">
+	            				<separator colspan="4" string="Invoice Details"/>
+	            				<group colspan="4">
+	            					<field name="buyers_order_no"/>
+	            	 				<field name="buyers_address"/>
+		            	 			<field name="carriage"/>
+	        	    	 			<field name="vessel"/>
+	    	    	   	 			<field name="loading_port"/>
+	            		 			<field name="discharge_port"/>
+	            		 			<field name="final_destination_country"/>
+	            		 			<field name="final_destination"/>
+	            	 				<field name="excise_chapter"/>
+	            	 				<field name="community_type"/>
+	            	 			</group>
+	            	 			<group colspan="4">
+	            	 				<field name="receipt_place"/>
+	            	 				<field name="lot_numbers"/>
+	            	 				<field name="weight"/>
+	            	 				<field name="packed"/>
+	        	    	 			<field name="incoterm1"/>
+	            		 			<field name="incoterm2"/>
+	            		 			<field name="delivery_term"/>
+	            		 			<field name="no_of_cartons"/>
+	            		 		</group>
+	            		 	</group>
+	            		 	<separator colspan="4" string="Application Removal Information"/>
+	            		 	<group colspan="4" col="4">
+	            		 		<field name="vat_flag"/>
+	            		 		<field name="vat" attrs="{'invisible': [('vat_flag','=',False)]}"/>
+	            		 		<field name="edu_flag"/>
+	            		 		<field name="edu_cess" attrs="{'invisible': [('edu_flag','=',False)]}"/>
+	            		 		<field name="sedu_flag"/>
+	            		 		<field name="sedu_cess" attrs="{'invisible': [('sedu_flag','=',false)]}"/>
+	            		 		<field name="are_form_number"/>
+	            		 		<field name="undertaking_bond"/>
+	            		 		<field name="removal_date"/>
+	            	 			<field name="currency_rate"/>
+	            		 	</group>
+	            		</page>
+	            	 </xpath>
+	            </field>
+	    </record>
+        <report id="report_account_export" model="account.invoice" name="account.export.report" string="Invoice - Export" rml="account_custom_report/report/account_export_report.rml"/>
+        <report id="report_account_export_annexure" model="account.invoice" name="account.export.annexure.report" string="Invoice - Annexure" rml="account_custom_report/report/account_export_annexure_report.rml"/>
+        <report id="report_account_removal_application" model="account.invoice" name="account.removal.application.report" string="Removal Application" rml="account_custom_report/report/account_removal_application_report.rml"/>
+    </data>
+</openerp>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_doc_rst/report
+END
+ir_module_reference_print_graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_doc_rst/report/ir_module_reference_print_graph.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_doc_rst/report/__init__.py
+END
+ir_module_reference_graph.rml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_doc_rst/report/ir_module_reference_graph.rml
+END
+report_proximity_graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_doc_rst/report/report_proximity_graph.py
+END
+ir_module_reference_graph.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/base_module_doc_rst/report/ir_module_reference_graph.sxw
+END

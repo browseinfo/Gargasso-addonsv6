@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+<data noupdate="0">
+	
+	<record model="ir.module.category" id="module_category_quality_testing_management">
+		<field name="name">Quality Testing</field>
+		<field name="description">Quality Testing Management.</field>
+    </record>
+
+    <record id="group_quality_user" model="res.groups">
+        <field name="name">Quality / User</field>
+        <field name="category_id" ref="module_category_quality_testing_management"/>
+        <field name="comment">Quality Testing User</field>
+    </record>
+
+    <record id="group_quality_manager" model="res.groups">
+        <field name="name">Quality / Manager</field>
+        <field name="comment">Quality Testing Manager.</field>
+        <field name="category_id" ref="module_category_quality_testing_management"/>
+        <!-- <field name="implied_ids" eval="[(4, ref('group_quality_user'))]"/> -->
+    </record>
+    
+</data>
+    
+<!-- <data noupdate="1">
+	<record id="quality_testing_user" model="ir.rule">
+       <field name="name">Quality Testing User</field>
+       <field ref="model_quality_testing" name="model_id"/>
+       <field name="groups" eval="[(4, ref('group_quality_user'))]"/>
+   </record>
+   
+   <record id="quality_testing_manager" model="ir.rule">
+       <field name="name">Quality Testing Manager</field>
+       <field ref="model_quality_testing" name="model_id"/>
+       <field name="groups" eval="[(4, ref('group_quality_manager'))]"/>
+   </record>
+	
+</data> -->
+    
+</openerp>

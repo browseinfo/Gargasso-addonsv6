@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/thunderbird/plugin/openerp_plugin/chrome/openerp_plugin/locale/en-US
+END
+address.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/thunderbird/plugin/openerp_plugin/chrome/openerp_plugin/locale/en-US/address.dtd
+END
+config.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/thunderbird/plugin/openerp_plugin/chrome/openerp_plugin/locale/en-US/config.dtd
+END
+config_change_web.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/thunderbird/plugin/openerp_plugin/chrome/openerp_plugin/locale/en-US/config_change_web.dtd
+END
+config_change.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/thunderbird/plugin/openerp_plugin/chrome/openerp_plugin/locale/en-US/config_change.dtd
+END
+selectpartner.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/thunderbird/plugin/openerp_plugin/chrome/openerp_plugin/locale/en-US/selectpartner.dtd
+END
+plugin.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/thunderbird/plugin/openerp_plugin/chrome/openerp_plugin/locale/en-US/plugin.dtd
+END
+createpartner.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/thunderbird/plugin/openerp_plugin/chrome/openerp_plugin/locale/en-US/createpartner.dtd
+END
+mboximport.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/thunderbird/plugin/openerp_plugin/chrome/openerp_plugin/locale/en-US/mboximport.properties
+END
+overlay.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/thunderbird/plugin/openerp_plugin/chrome/openerp_plugin/locale/en-US/overlay.dtd
+END
+create.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/thunderbird/plugin/openerp_plugin/chrome/openerp_plugin/locale/en-US/create.dtd
+END

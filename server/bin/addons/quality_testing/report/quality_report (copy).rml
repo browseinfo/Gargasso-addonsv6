@@ -1,0 +1,496 @@
+<?xml version="1.0"?>
+<document filename="test.pdf">
+  <template pageSize="(612.0,792.0)" title="Test" author="Martin Simon" allowSplitting="20">
+    <pageTemplate id="first">
+      <frame id="first" x1="57.0" y1="28.0" width="498" height="739"/>
+    </pageTemplate>
+  </template>
+  <stylesheet>
+    <blockTableStyle id="Standard_Outline">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table9">
+      <blockTopPadding value="0"/>
+      <blockBottomPadding value="0"/>
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table1">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table2">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table3">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,1" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,1" stop="2,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,2" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,2" stop="2,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,3" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,3" stop="2,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,4" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,4" stop="2,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,5" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,5" stop="2,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table4">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,1" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,1" stop="2,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,2" stop="0,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,2" stop="2,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,3" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="2,3" stop="2,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table5">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="1,0" stop="1,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="3,0" stop="3,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="3,0" stop="3,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="3,-1" stop="3,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="4,0" stop="4,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="4,0" stop="4,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="4,-1" stop="4,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="5,0" stop="5,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="5,0" stop="5,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="5,0" stop="5,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="5,-1" stop="5,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table6">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="0,0" stop="0,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="0,0" stop="0,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="1,0" stop="1,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="1,0" stop="1,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="2,0" stop="2,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="2,0" stop="2,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="3,0" stop="3,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="3,0" stop="3,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="3,-1" stop="3,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="4,0" stop="4,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="4,0" stop="4,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="4,-1" stop="4,-1"/>
+      <lineStyle kind="LINEBEFORE" colorName="#000000" start="5,0" stop="5,-1"/>
+      <lineStyle kind="LINEAFTER" colorName="#000000" start="5,0" stop="5,-1"/>
+      <lineStyle kind="LINEABOVE" colorName="#000000" start="5,0" stop="5,0"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="5,-1" stop="5,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table7">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table8">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <initialize>
+      <paraStyle name="all" alignment="justify"/>
+    </initialize>
+    <paraStyle name="P1" fontName="Helvetica" fontSize="10.0" leading="13" alignment="LEFT"/>
+    <paraStyle name="P2" fontName="Helvetica-Bold" fontSize="8.0" leading="10" alignment="CENTER"/>
+    <paraStyle name="P3" fontName="Helvetica-Bold" fontSize="7.0" leading="9" alignment="CENTER"/>
+    <paraStyle name="P4" fontName="Helvetica" fontSize="7.0" leading="9" alignment="LEFT"/>
+    <paraStyle name="P5" fontName="Helvetica" fontSize="7.0" leading="9" alignment="LEFT"/>
+    <paraStyle name="P6" fontName="Helvetica" fontSize="9.0" leading="11" alignment="LEFT"/>
+    <paraStyle name="P7" fontName="Helvetica" fontSize="2.0" leading="3"/>
+    <paraStyle name="P8" fontName="Helvetica-Bold" fontSize="9.0" leading="11" alignment="CENTER"/>
+    <paraStyle name="P9" fontName="Helvetica-Bold" fontSize="5.0" leading="7" alignment="LEFT"/>
+    <paraStyle name="P10" fontName="Helvetica" fontSize="5.0" leading="7"/>
+    <paraStyle name="P11" fontName="Helvetica" fontSize="10.0" leading="13"/>
+    <paraStyle name="P12" fontName="Helvetica" fontSize="10.0" leading="13" alignment="LEFT"/>
+    <paraStyle name="P13" fontName="Helvetica" fontSize="8.0" leading="10" alignment="RIGHT"/>
+    <paraStyle name="P14" fontName="Helvetica-Bold" fontSize="8.0" leading="10" alignment="CENTER"/>
+    <paraStyle name="P15" fontName="Helvetica" fontSize="5.0" leading="7"/>
+    <paraStyle name="P16" fontName="Helvetica" fontSize="10.0" leading="13"/>
+    <paraStyle name="P17" fontName="Helvetica" fontSize="2.0" leading="3"/>
+    <paraStyle name="P18" fontName="Helvetica" fontSize="10.0" leading="13"/>
+    <paraStyle name="P19" fontName="Helvetica" fontSize="8.0" leading="10" alignment="LEFT" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="P20" rightIndent="0.0" leftIndent="19.0" fontName="Helvetica-Bold" fontSize="7.0" leading="9" alignment="LEFT"/>
+    <paraStyle name="P21" rightIndent="0.0" leftIndent="19.0" fontName="Helvetica" fontSize="7.0" leading="9" alignment="LEFT"/>
+    <paraStyle name="P22" rightIndent="0.0" leftIndent="19.0" fontName="Helvetica-Bold" fontSize="7.0" leading="9" alignment="LEFT"/>
+    <paraStyle name="P23" fontName="Helvetica" fontSize="7.0" leading="9" alignment="LEFT" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="P24" fontName="Helvetica" fontSize="7.0" leading="9" alignment="LEFT"/>
+    <paraStyle name="P25" fontName="Helvetica" alignment="LEFT"/>
+    <paraStyle name="Standard" fontName="Helvetica"/>
+    <paraStyle name="Heading" fontName="Helvetica" fontSize="14.0" leading="17" spaceBefore="12.0" spaceAfter="6.0"/>
+    <paraStyle name="Text body" fontName="Helvetica" spaceBefore="0.0" spaceAfter="6.0"/>
+    <paraStyle name="List" fontName="Helvetica" spaceBefore="0.0" spaceAfter="6.0"/>
+    <paraStyle name="Caption" fontName="Helvetica" fontSize="12.0" leading="15" spaceBefore="6.0" spaceAfter="6.0"/>
+    <paraStyle name="Index" fontName="Helvetica"/>
+    <paraStyle name="Table Contents" fontName="Helvetica"/>
+    <paraStyle name="terp_header" fontName="Helvetica-Bold" fontSize="12.0" leading="15" alignment="LEFT" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="terp_default_8" fontName="Helvetica" fontSize="8.0" leading="10" alignment="LEFT" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="terp_default_Centre_8" fontName="Helvetica" fontSize="8.0" leading="10" alignment="CENTER" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="Table Heading" fontName="Helvetica" alignment="CENTER"/>
+    <images>
+      <image name="10000000000001720000003BBFFD0FFA.jpg">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
+</image>
+    </images>
+  </stylesheet>
+  <story>
+    <para style="P18">[[ repeatIn(objects,'picking') ]]</para>
+    <section>
+      <para style="P16">[[ repeatIn(picking.test_ids,'test_ids') ]]</para>
+      <section>
+        <blockTable colWidths="499.0" style="Table9">
+          <tr>
+            <td>
+              <illustration height="27.0" width="450.0">
+                <image x="0" y="0" file="10000000000001720000003BBFFD0FFA.jpg" height="27.0" width="450.0"/>
+              </illustration>
+            </td>
+          </tr>
+        </blockTable>
+        <para style="P14">D-3 MEERUT ROAD INDL. AREA, GHAZIABAD 201 003, Tel: 91-120-2712128, 2712039</para>
+        <para style="P8">
+          <font color="white"> </font>
+        </para>
+        <blockTable colWidths="499.0" style="Table1">
+          <tr>
+            <td>
+              <para style="P2"><font face="Helvetica">[[ (test_ids.product_id.product_tmpl_id.categ_id.parent_id.name=='Cables' or test_ids.product_id.product_tmpl_id.categ_id.name=='Cables' or removeParentNode('blockTable')) and '' ]]</font>TEST REPORT For Multicore Cable/Date: [[ formatLang(picking.date,date_time = True)[0:10] ]]</para>
+            </td>
+          </tr>
+        </blockTable>
+        <blockTable colWidths="499.0" style="Table2">
+          <tr>
+            <td>
+              <para style="P2">
+                <font face="Helvetica">[[ (test_ids.product_id.product_tmpl_id.categ_id.parent_id.name=='Wires' or test_ids.product_id.product_tmpl_id.categ_id.name=='Wires' or removeParentNode('blockTable')) and '' ]]</font>
+                <font face="Helvetica" size="7.0">TEST REPORT For Single Core Wire/Date: [[ formatLang(picking.date,date_time = True)[0:10] ]]</font>
+              </para>
+            </td>
+          </tr>
+        </blockTable>
+        <para style="P15">
+          <font color="white"> </font>
+        </para>
+        <blockTable colWidths="146.0,8.0,342.0" style="Table3">
+          <tr>
+            <td>
+              <para style="P20">PTFE Insulated Wire</para>
+            </td>
+            <td>
+              <para style="P5">
+              </para>
+            </td>
+            <td>
+              <para style="P5">
+                <font color="white"> </font>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para style="P21">CUSTOMER</para>
+            </td>
+            <td>
+              <para style="P5">:</para>
+            </td>
+            <td>
+              <para style="P5">[[ picking.partner_id.name ]]</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para style="P21">PO NO./DATE</para>
+            </td>
+            <td>
+              <para style="P5">:</para>
+            </td>
+            <td>
+              <para style="P5">[[ test_ids.purchase_order_info ]]</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para style="P21">SALES ORDER NO.</para>
+            </td>
+            <td>
+              <para style="P5">:</para>
+            </td>
+            <td>
+              <para style="P5">[[ test_ids.invoice_info ]]</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para style="P21">WORK ORDER NO.</para>
+            </td>
+            <td>
+              <para style="P5">:</para>
+            </td>
+            <td>
+              <para style="P5">[[ test_ids.work_order_info ]]</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para style="P21">ITEM</para>
+            </td>
+            <td>
+              <para style="P5">:</para>
+            </td>
+            <td>
+              <para style="P5"> [['['+test_ids.product_id.default_code+']']]  [[ test_ids.product_id.name ]]</para>
+            </td>
+          </tr>
+        </blockTable>
+        <para style="P9">
+          <font color="white"> </font>
+        </para>
+        <blockTable colWidths="146.0,8.0,342.0" style="Table4">
+          <tr>
+            <td>
+              <para style="P22">SPECIFICATIONS</para>
+            </td>
+            <td>
+              <para style="P5">
+              </para>
+            </td>
+            <td>
+              <para style="P5">
+                <font color="white"> </font>
+              </para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para style="P21">Qty. (m)/Pcs/Min/Max/Av</para>
+            </td>
+            <td>
+              <para style="P5">:</para>
+            </td>
+            <td>
+              <para style="P5">[[ get_qty_details(picking.id, test_ids.product_id.id) ]]</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para style="P21">Spool No./Size mm</para>
+            </td>
+            <td>
+              <para style="P5">:</para>
+            </td>
+            <td>
+              <para style="P23">[[ test_ids.spool_info ]]</para>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <para style="P21">Net Weight (kg)</para>
+            </td>
+            <td>
+              <para style="P5">:</para>
+            </td>
+            <td>
+              <!--<para style="P23">[[ get_prod_total(picking.move_lines,test_ids.product_id.id) ]]</para>-->
+              <para style="P23">[[ test_ids.net_weight ]]</para>
+            </td>
+          </tr>
+        </blockTable>
+        <para style="P10">
+          <font color="white"> </font>
+        </para>
+        <blockTable colWidths="152.0,90.0,95.0,66.0,60.0,35.0" style="Table5">
+          <tr>
+            <td>
+              <para style="P3">Test Parameters</para>
+            </td>
+            <td>
+              <para style="P3">Standards</para>
+            </td>
+            <td>
+              <para style="P3">Requirements</para>
+            </td>
+            <td>
+              <para style="P3">Unit of Measurement</para>
+            </td>
+            <td>
+              <para style="P3">Measured</para>
+              <para style="P3">Value/Remark</para>
+            </td>
+            <td>
+              <para style="P3">Result</para>
+            </td>
+          </tr>
+        </blockTable>
+        <section>
+          <para style="P12">[[ repeatIn(test_ids.testinglines_ids,'testline') ]]</para>
+          <blockTable colWidths="152.0,90.0,95.0,66.0,60.0,35.0" style="Table6">
+            <tr>
+              <td>
+                <para style="P4">[[ testline.param_id.name ]]</para>
+              </td>
+              <td>
+                <para style="P4">[[ testline.standards.name ]]</para>
+              </td>
+              <td>
+                <para style="P4">[[ testline.requirement ]]</para>
+              </td>
+              <td>
+                <para style="P4">[[ testline.unit ]]</para>
+              </td>
+              <td>
+                <para style="P4">[[ testline.param_value ]]</para>
+              </td>
+              <td>
+                <para style="P4">[[ get_testing_result(testline) ]]</para>
+              </td>
+            </tr>
+          </blockTable>
+        </section>
+      </section>
+      <para style="P25">
+        <font face="Helvetica" size="10.0"/>
+      </para>
+      <para style="P1">
+        <font color="white"> </font>
+      </para>
+      <blockTable colWidths="249.0,249.0" style="Table7">
+        <tr>
+          <td>
+            <para style="P19">[[ (test_ids.product_id.product_tmpl_id.categ_id.parent_id.name=='Cables' or test_ids.product_id.product_tmpl_id.categ_id.name=='Cables' or removeParentNode('blockTable')) and '' ]] GAPL/TST/F/GTSTMC/01</para>
+          </td>
+          <td>
+            <para style="P13">QC Incharge</para>
+          </td>
+        </tr>
+      </blockTable>
+      <blockTable colWidths="249.0,249.0" style="Table8">
+        <tr>
+          <td>
+            <para style="P19">[[ (test_ids.product_id.product_tmpl_id.categ_id.parent_id.name=='Wires' or test_ids.product_id.product_tmpl_id.categ_id.name=='Wires' or removeParentNode('blockTable')) and '' ]] GAPL/TST/F/GTSTSC/01</para>
+          </td>
+          <td>
+            <para style="P13">QC Incharge</para>
+          </td>
+        </tr>
+      </blockTable>
+      <para style="P11">
+        <font color="white"> </font>
+      </para>
+      <para style="P7">
+        <font color="white"> </font>
+      </para>
+      <section>
+      	<para style="P13">[[ (get_pagebreak(picking.test_ids,test_ids.product_id.id)=='True' or removeParentNode('section')) and '' ]]</para>
+      	<pageBreak/>
+      </section>
+      <para style="P17">
+        <font color="white"> </font>
+      </para>
+    </section>
+  </story>
+</document>
+

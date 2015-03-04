@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet/wizard
+END
+hr_timesheet_print_employee.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet/wizard/hr_timesheet_print_employee.py
+END
+hr_timesheet_print_employee_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet/wizard/hr_timesheet_print_employee_view.xml
+END
+hr_timesheet_print_users.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet/wizard/hr_timesheet_print_users.py
+END
+hr_timesheet_sign_in_out.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet/wizard/hr_timesheet_sign_in_out.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet/wizard/__init__.py
+END
+hr_timesheet_print_users_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet/wizard/hr_timesheet_print_users_view.xml
+END
+hr_timesheet_sign_in_out_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/hr_timesheet/wizard/hr_timesheet_sign_in_out_view.xml
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/test
+END
+schedule_phase_tasks.yml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/test/schedule_phase_tasks.yml
+END
+project_schedule_without_wroking_hour.yml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/test/project_schedule_without_wroking_hour.yml
+END
+phase_constraint.yml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/test/phase_constraint.yml
+END
+schedule_project_phases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/test/schedule_project_phases.yml
+END
+project_schedule_consecutive_day.yml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/test/project_schedule_consecutive_day.yml
+END
+schedule_project_tasks.yml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/test/schedule_project_tasks.yml
+END
+test_schedule_phases_case1.yml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/test/test_schedule_phases_case1.yml
+END
+test_schedule_phases_case2.yml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/test/test_schedule_phases_case2.yml
+END
+test_schedule_tasks_case1.yml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/project_long_term/test/test_schedule_tasks_case1.yml
+END

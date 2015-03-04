@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+	 <record id="view_stock_rm_picking" model="ir.ui.view">
+		       <field name="name">stock.rm.picking.form</field>
+		       <field name="model">stock.rm.picking</field>
+		       <field name="arch" type="xml">
+		           <form string="Delete Picking">
+		               <separator string="Delete all Delivery Order which have no stock Move line"/>
+		               <group colspan="4" col="6">
+		                   <button icon="gtk-cancel" special="cancel" string="Cancel"/>
+		                   <button name="delete_picking"  string="Delete Picking" type="object" icon="gtk-apply"/>
+		               </group>
+		          </form>
+		       </field>
+		   </record>
+
+        <record id="action_view_stock_rm_picking" model="ir.actions.act_window">
+            <field name="name">Remove Delivery Order</field>
+            <field name="res_model">stock.rm.picking</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">form</field>
+            <field name="view_id" ref="view_stock_rm_picking"/>
+            <field name="target">new</field>
+            <field name="context">{}</field>
+        </record>
+
+        <menuitem
+            name="Remove Delivery Order"
+            parent="procurement.menu_stock_sched"
+            action="action_view_stock_rm_picking"
+            sequence="250" 
+            id="menu_action_view_stock_rm_picking"
+           />
+    </data>
+</openerp>

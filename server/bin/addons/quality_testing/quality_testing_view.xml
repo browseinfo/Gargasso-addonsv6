@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+    	
+    	
+    	<record id="quality_param_type_form_view" model="ir.ui.view">
+            <field name="name">quality.param.type.form</field>
+            <field name="model">quality.param.type</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<form string="Quality Parameter Type">
+            		<field name="name" colspan="2"/>
+                </form>
+            </field>
+        </record>
+		<record id="quality_param_type_tree_view" model="ir.ui.view">
+            <field name="name">quality.param.type.tree</field>
+            <field name="model">quality.param.type</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+            	<tree string="Quality Parameter Type">
+                	<field name="name"/>
+                </tree>
+            </field>
+        </record>
+        <record id="quality_param_type_search_form_view" model="ir.ui.view">
+            <field name="name">quality.param.type.search.form</field>
+            <field name="model">quality.param.type</field>
+            <field name="type">search</field>
+            <field name="arch" type="xml">
+                <search string="Parameter Type">
+                   <field name="name"/>
+                </search>
+            </field>
+        </record>
+        
+        <record id="quality_standards_form_view" model="ir.ui.view">
+            <field name="name">quality.standards.form</field>
+            <field name="model">quality.standards</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<form string="Quality Standards">
+            		<field name="name" colspan="2"/>
+                </form>
+            </field>
+        </record>
+		<record id="quality_standards_tree_view" model="ir.ui.view">
+            <field name="name">quality.standards.tree</field>
+            <field name="model">quality.standards</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+            	<tree string="Quality Standards">
+                	<field name="name"/>
+                </tree>
+            </field>
+        </record>
+        <record id="quality_standards_search_form_view" model="ir.ui.view">
+            <field name="name">quality.standards.search.form</field>
+            <field name="model">quality.standards</field>
+            <field name="type">search</field>
+            <field name="arch" type="xml">
+                <search string="Quality Standards">
+                   <field name="name"/>
+                </search>
+            </field>
+        </record>
+        
+        <record id="quality_product_type_form_view" model="ir.ui.view">
+            <field name="name">quality.product.type.form</field>
+            <field name="model">quality.product.type</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<form string="Quality Product Type">
+            		<field name="name" colspan="2"/>
+                </form>
+            </field>
+        </record>
+		<record id="quality_product_type_tree_view" model="ir.ui.view">
+            <field name="name">quality.product.type.tree</field>
+            <field name="model">quality.product.type</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+            	<tree string="Quality Product Type">
+                	<field name="name"/>
+                </tree>
+            </field>
+        </record>
+        <record id="quality_product_type_search_form_view" model="ir.ui.view">
+            <field name="name">quality.product.type.search.form</field>
+            <field name="model">quality.product.type</field>
+            <field name="type">search</field>
+            <field name="arch" type="xml">
+                <search string="Product Type">
+                   <field name="name"/>
+                </search>
+            </field>
+        </record>
+        
+        <record id="quality_parameters_form_view" model="ir.ui.view">
+            <field name="name">quality.parameters.form</field>
+            <field name="model">quality.parameters</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<form string="Quality Parameters">
+            		<field name="param_sequence" colspan="2"/>
+            		<field name="name" colspan="2"/>
+            		<field name="param_type" colspan="2" widget="selection"/>
+            		<field name="standards" colspan="2" widget="selection"/>
+            		<field name="method" colspan="2"/>
+            		<field name="unit" colspan="2"/>
+            		<field name="prod_type_depend" colspan="2"/>
+            		<field name="cr_depend" colspan="2"/>
+            		<field name="rti_depend" colspan="2"/>
+            		<field name="manual_depend" colspan="2"/>
+                </form>
+            </field>
+        </record>
+		<record id="quality_parameters_tree_view" model="ir.ui.view">
+            <field name="name">quality.parameters.tree</field>
+            <field name="model">quality.parameters</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+            	<tree string="Quality Parameters" editable="top">
+                	<field name="param_sequence" colspan="2"/>
+            		<field name="name" colspan="2"/>
+            		<field name="param_type" colspan="2" widget="selection"/>
+            		<field name="standards" colspan="2" widget="selection"/>
+            		<field name="method" colspan="2"/>
+            		<field name="unit" colspan="2"/>
+            		<field name="prod_type_depend" colspan="2"/>
+            		<field name="cr_depend" colspan="2"/>
+            		<field name="rti_depend" colspan="2"/>
+            		<field name="manual_depend" colspan="2"/>
+                </tree>
+            </field>
+        </record>
+        <record id="quality_parameters_search_form_view" model="ir.ui.view">
+            <field name="name">quality.parameters.search.form</field>
+            <field name="model">quality.parameters</field>
+            <field name="type">search</field>
+            <field name="arch" type="xml">
+                <search string="Quality Parameters">
+                   <field name="name"/>
+                   <field name="param_type"/>
+                   <field name="standards"/>
+                </search>
+            </field>
+        </record>
+        
+        <record id="quality_testing_form_view" model="ir.ui.view">
+            <field name="name">quality.testing.form</field>
+            <field name="model">quality.testing</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<form string="Product Testing Groups">
+            		<field name="case_code" colspan="2"/>
+            		<field name="name" colspan="2"/>
+                	<field name="product_type" colspan="2" widget="selection"/>
+                	<field name="product_id" colspan="2"/>
+                	<group col="6" colspan="2">
+                		<separator colspan="4" string="Wire Type"/>
+                		<newline/>
+                		<group col="6" colspan="4">
+                			<field name="multi_check" colspan="2"/>
+                			<field name="coaxial_check" colspan="2"/>
+                			<field name="hvdc_check" colspan="2"/>
+                		</group>
+                	</group>
+                	<group col="2" colspan="2">
+                		<separator colspan="2" string="Twisting"/>
+                		<newline/>
+                		<field name="twist_check" colspan="2" attrs="{'readonly':[('multi_check','=',0)]}"/>
+                	</group>
+                	<group col="6" colspan="4">
+                		<separator colspan="2" string="Pull Testing Parameters"/>
+                		<newline/>
+                		<button confirm="Do u want to pull parameters" name="pullparameters" string="Pull Parameters" target="new" type="object" context="{'product_type':product_type,'product_id':product_id,'multi_check':multi_check,'coaxial_check':coaxial_check,'hvdc_check':hvdc_check,'twist_check':twist_check}"/>
+                   </group>
+                	<notebook colspan="5">
+                    	<page string="Parameters">
+                    		<field name="quality_testing_line_ids" nolabel="1"/>
+                    	</page>
+                    </notebook>
+                </form>
+            </field>
+        </record>
+		<record id="quality_testing_tree_view" model="ir.ui.view">
+            <field name="name">quality.testing.tree</field>
+            <field name="model">quality.testing</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+            	<tree string="Quality Testing Groups">
+                	<field name="case_code"/>
+            		<field name="name"/>
+                	<field name="product_type"/>
+                	<field name="product_id"/>
+                	<field name="multi_check"/>
+                	<field name="coaxial_check"/>
+                	<field name="hvdc_check"/>
+                	<field name="twist_check"/>
+                </tree>
+            </field>
+        </record>
+        
+        <record id="quality_testing_search_form_view" model="ir.ui.view">
+            <field name="name">quality.testing.search.form</field>
+            <field name="model">quality.testing</field>
+            <field name="type">search</field>
+            <field name="arch" type="xml">
+                <search string="Quality Testing Groups">
+                   <field name="case_code"/>
+                   <field name="name"/>
+                   <field name="product_type"/>
+                   <field name="product_id"/>
+                </search>
+            </field>
+        </record>
+        
+    	<record id="quality_testing_line_form_view" model="ir.ui.view">
+            <field name="name">quality.testing.line.form.view</field>
+            <field name="model">quality.testing.line</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="Parameter Information">
+                    <field name="name" groups="base.group_extended" widget="selection"/>
+                    <field name="method"/>
+                    <field name="standards" widget="selection"/>
+                    <field name="min_value"/>
+                    <field name="max_value"/>
+                    <field name="unit"/>
+                </form>
+            </field>
+        </record>
+        <record id="quality_testing_line_tree_view" model="ir.ui.view">
+            <field name="name">quality.testing.line.tree.view</field>
+            <field name="model">quality.testing.line</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+                <tree string="Parameter Information" editable="top">
+                    <field name="name" groups="base.group_extended" widget="selection"/>
+                    <field name="method"/>
+                    <field name="standards" widget="selection"/>
+                    <field name="min_value"/>
+                    <field name="max_value"/>
+                    <field name="unit"/>
+                </tree>
+            </field>
+        </record>
+    	
+    	<record model="ir.actions.act_window" id="action_quality_testing">
+        	<field name="name">Quality Testing</field>
+        	<field name="res_model">quality.testing</field>
+        	<field name="view_type">form</field>
+        	<field name="view_mode">tree,form</field>
+        </record>
+        <menuitem name="Quality Testing" id="menu_quality_testing" action="action_quality_testing" groups="group_quality_manager" parent="stock.menu_stock_product"/>
+
+        <menuitem id="menu_quality_testing_config" name="Quality Testing" groups="group_quality_manager" parent="stock.menu_stock_configuration" sequence="1"/>
+    	
+    	<record model="ir.actions.act_window" id="action_quality_param_type">
+        	<field name="name">Quality Parameter Type</field>
+        	<field name="res_model">quality.param.type</field>
+        	<field name="view_type">form</field>
+        	<field name="view_mode">tree,form</field>
+     	</record>
+     	
+     	<record model="ir.actions.act_window" id="action_quality_standards">
+        	<field name="name">Quality Standards</field>
+        	<field name="res_model">quality.standards</field>
+        	<field name="view_type">form</field>
+        	<field name="view_mode">tree,form</field>
+        </record>                
+
+		<record model="ir.actions.act_window" id="action_quality_product_type">
+        	<field name="name">Quality Product Type</field>
+        	<field name="res_model">quality.product.type</field>
+        	<field name="view_type">form</field>
+        	<field name="view_mode">tree,form</field>
+     	</record>
+     	
+     	<record model="ir.actions.act_window" id="action_quality_parameters">
+        	<field name="name">Quality Parameters</field>
+        	<field name="res_model">quality.parameters</field>
+        	<field name="view_type">form</field>
+        	<field name="view_mode">tree,form</field>
+     	</record>
+     	
+		<menuitem name="Quality Parameter Type" id="menu_quality_param_type" action="action_quality_param_type" parent="menu_quality_testing_config"/>
+		<menuitem name="Quality Standards" id="menu_quality_standards" action="action_quality_standards" parent="menu_quality_testing_config"/>
+		<menuitem name="Quality Product Type" id="menu_product_type" action="action_quality_product_type" parent="menu_quality_testing_config"/>
+		<menuitem name="Quality Parameters" id="menu_quality_parameters" action="action_quality_parameters" parent="menu_quality_testing_config"/>
+    	
+    	
+    	<record id="quality_product_normal_form_view_inherit" model="ir.ui.view">
+            <field name="name">product.testing.form</field>
+            <field name="model">product.product</field>
+            <field name="type">form</field>
+            <field name="inherit_id" ref="product.product_normal_form_view"/>
+            <field name="arch" type="xml">
+            <field name="ean13" position="after">
+                <field name="primary_test_code"/>
+                <field name="addon_code1"/>
+                <field name="addon_code2"/>
+            </field>
+            </field>
+        </record>
+        
+     <!-- Delivery Order section view -->
+     
+     
+     <record id="delivery_order_testing_form_view" model="ir.ui.view">
+            <field name="name">delivery.order.testing.form</field>
+            <field name="model">delivery.order.testing</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            	<form string="Product Quality Testing">
+            		<group col="6" colspan="4">
+	            		<field name="product_id" colspan="2"/>
+	            		<field name="partner_id" colspan="2"/>
+	            		<field name="create_date" colspan="2"/>
+	            		<field name="purchase_order_info" colspan="2"/>
+	            		<field name="invoice_info" colspan="2"/>
+	            		<field name="work_order_info" colspan="2"/>
+	            		<field name="spool_info" colspan="2"/>
+	            		<field name="net_weight" colspan="2"/>
+	            		<field name="quantity" colspan="2"/>
+            		</group>
+            		<button confirm="Do u want to pull parameters" name="pull_testing_parameters" string="Pull Parameters" target="new" type="object"/>
+                	<notebook colspan="5">
+                    	<page string="Parameters">
+                    		<field name="testinglines_ids" nolabel="1" widget="one2many_list"/>
+                    	</page>
+                    </notebook>
+                </form>
+            </field>
+        </record>
+		<record id="delivery_order_testing_tree_view" model="ir.ui.view">
+            <field name="name">delivery.order.testing.tree</field>
+            <field name="model">delivery.order.testing</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+            	<tree string="Quality Testing">
+            		<field name="invoice_info"/>
+            		<field name="purchase_order_info"/>
+                	<field name="product_id" select="1"/>
+                </tree>
+            </field>
+    	</record>
+    	
+    	<record id="delivery_order_search_view" model="ir.ui.view">
+            <field name="name">delivery.order.search.view</field>
+            <field name="model">delivery.order.testing</field>
+            <field name="type">search</field>
+            <field name="arch" type="xml">
+                <search string="Search">
+                	<field name="invoice_info"/>
+                	<field name="purchase_order_info"/>
+                	<field name="product_id"/>
+                </search>
+            </field>
+        </record>
+    	
+    	<record model="ir.actions.act_window" id="action_delivery_order_testing">
+        	<field name="name">Final Quality Testing</field>
+        	<field name="res_model">delivery.order.testing</field>
+        	<field name="view_type">form</field>
+        	<field name="view_mode">tree,form</field>
+        </record>
+        <menuitem name="Final Quality Testing" id="menu_delivery_order_testing" groups="group_quality_user,group_quality_manager" action="action_delivery_order_testing" parent="stock.menu_stock_warehouse_mgmt"/>
+    	
+    	<record id="delivery_order_testing_lines_form_view" model="ir.ui.view">
+            <field name="name">delivery.order.testing.lines.form.view</field>
+            <field name="model">delivery.order.testing.lines</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="Parameter Information">
+                	<field name="permissions" invisible="1"/>
+                	<field name="param_sequence"/>
+                    <field name="param_id" groups="base.group_extended"/>
+                    <field name="method"/>
+                    <field name="standards"/>
+                    <field name="requirement"/>
+                    <!--<field name="max_value"/>-->
+                    <field name="unit"/>
+                    <field name="param_value"/>
+                </form>
+            </field>
+        </record>
+        <record id="delivery_order_testing_lines_tree_view" model="ir.ui.view">
+            <field name="name">delivery.order.testing.lines.tree.view</field>
+            <field name="model">delivery.order.testing.lines</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+                <tree string="Parameter Information" editable="top">
+                	<field name="permissions" invisible="1"/>
+                	<field name="param_sequence"/>
+                    <field name="param_id" context="None"/>
+                    <field name="method"/>
+                    <field name="standards"/>
+                    <field name="requirement"/>
+                    <!--<field name="max_value"/>-->
+                    <field name="unit"/>
+                    <field name="param_value" context="None"/>
+                    <field name="result" attrs="{'readonly': [('permissions','=','User')]}"/>
+                </tree>
+            </field>
+        </record>
+   </data>
+</openerp>

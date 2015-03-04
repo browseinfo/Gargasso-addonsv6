@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/dialogs
+END
+dialog_map.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/dialogs/dialog_map.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/dialogs/__init__.py
+END
+dlgcore.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/dialogs/dlgcore.py
+END
+processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/dialogs/processors.py
+END
+opt_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/dialogs/opt_processors.py
+END
+dlgutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/outlook/plugin/openerp-outlook-plugin/dialogs/dlgutils.py
+END

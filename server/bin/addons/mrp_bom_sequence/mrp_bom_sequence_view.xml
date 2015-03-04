@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<openerp>
+    <data>
+    	<record id="mrp_bom_product_sequence_inherit" model="ir.ui.view">
+            <field name="name">mrp.bom.product.sequence.inherit</field>
+            <field name="model">mrp.bom</field>
+            <field name="inherit_id" ref="mrp.mrp_bom_form_view"/>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            <data>
+                <xpath expr="//field[@name='x_mo_prod_seq']" position="replace">
+                	<field name="tape_sequence" string="Sl No"/>
+                </xpath>
+               </data>
+            </field>
+        </record>
+    	
+    </data>
+</openerp>

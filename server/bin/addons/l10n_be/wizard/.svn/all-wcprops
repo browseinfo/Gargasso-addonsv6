@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/wizard
+END
+l10n_be_vat_intra_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/wizard/l10n_be_vat_intra_view.xml
+END
+l10n_be_account_vat_declaration.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/wizard/l10n_be_account_vat_declaration.py
+END
+l10n_be_account_vat_declaration_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/wizard/l10n_be_account_vat_declaration_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/wizard/__init__.py
+END
+l10_be_partner_vat_listing.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/wizard/l10_be_partner_vat_listing.py
+END
+l10n_be_partner_vat_listing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/wizard/l10n_be_partner_vat_listing.xml
+END
+l10n_be_vat_intra.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/garg-openerp/!svn/ver/18/trunk/06project/src/openerp-server/addons/l10n_be/wizard/l10n_be_vat_intra.py
+END

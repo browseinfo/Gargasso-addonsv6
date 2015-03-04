@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <report id="report_mrp_fep_extruder" model="mrp.production" name="mrp.fep.extruder.report" string="FEP Extruder" rml="mrp_extruder_report/report/fep_extruder.rml"/>
+        <report id="report_mrp_ptfe_extruder" model="mrp.production" name="mrp.ptfe.extruder.report" string="PTFE Extruder" rml="mrp_extruder_report/report/ptfe_extruder.rml"/>
+    </data>
+</openerp>

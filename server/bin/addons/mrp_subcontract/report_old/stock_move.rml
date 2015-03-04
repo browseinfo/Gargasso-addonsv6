@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<document filename="test.pdf">
+  <template pageSize="(595.0,842.0)" title="Subcontracting Report" author="Martin Simon" allowSplitting="20">
+    <pageTemplate id="first">
+      <frame id="first" x1="57.0" y1="57.0" width="481" height="728"/>
+    </pageTemplate>
+  </template>
+  <stylesheet>
+    <blockTableStyle id="Standard_Outline">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table3">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table1">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="2,-1" stop="2,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="3,-1" stop="3,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="4,-1" stop="4,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="5,-1" stop="5,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="6,-1" stop="6,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#000000" start="7,-1" stop="7,-1"/>
+    </blockTableStyle>
+    <blockTableStyle id="Table2">
+      <blockAlignment value="LEFT"/>
+      <blockValign value="TOP"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="0,-1" stop="0,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="1,-1" stop="1,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="2,-1" stop="2,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="3,-1" stop="3,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="4,-1" stop="4,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="5,-1" stop="5,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="6,-1" stop="6,-1"/>
+      <lineStyle kind="LINEBELOW" colorName="#c0c0c0" start="7,-1" stop="7,-1"/>
+    </blockTableStyle>
+    <initialize>
+      <paraStyle name="all" alignment="justify"/>
+    </initialize>
+    <paraStyle name="P1" fontName="Helvetica-Bold" fontSize="9.0" leading="14"/>
+    <paraStyle name="P2" fontName="Helvetica-Bold" fontSize="11.0" leading="14"/>
+    <paraStyle name="P3" fontName="Helvetica" fontSize="11.0" leading="14"/>
+    <paraStyle name="P4" rightIndent="0.0" leftIndent="0.0" fontName="Helvetica" fontSize="8.0" leading="13" alignment="LEFT"/>
+    <paraStyle name="P5" rightIndent="0.0" leftIndent="0.0" fontName="Helvetica" alignment="LEFT"/>
+    <paraStyle name="P6" fontName="Helvetica-Bold" fontSize="11.0" leading="14"/>
+    <paraStyle name="P7" rightIndent="0.0" leftIndent="0.0" fontName="Helvetica" fontSize="10.0" leading="13" alignment="LEFT"/>
+    <paraStyle name="P8" fontName="Helvetica" fontSize="9.0" leading="11" alignment="LEFT" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="P9" fontName="Helvetica" fontSize="9.0" leading="11" alignment="LEFT" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="P10" fontName="Helvetica-Bold" fontSize="9.0" leading="11" alignment="LEFT" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="P11" fontName="Helvetica-Bold" fontSize="9.0" leading="11" alignment="LEFT" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="P12" fontName="Helvetica" fontSize="9.0" leading="11" alignment="LEFT" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="Standard" fontName="Helvetica"/>
+    <paraStyle name="Heading" fontName="Helvetica" fontSize="14.0" leading="17" spaceBefore="12.0" spaceAfter="6.0"/>
+    <paraStyle name="Text body" fontName="Helvetica" spaceBefore="0.0" spaceAfter="6.0"/>
+    <paraStyle name="List" fontName="Helvetica" spaceBefore="0.0" spaceAfter="6.0"/>
+    <paraStyle name="Caption" fontName="Helvetica" fontSize="12.0" leading="15" spaceBefore="6.0" spaceAfter="6.0"/>
+    <paraStyle name="Index" fontName="Helvetica"/>
+    <paraStyle name="Table Contents" fontName="Helvetica"/>
+    <paraStyle name="Heading 2" fontName="Helvetica-Bold" fontSize="18.0" leading="22" spaceBefore="12.0" spaceAfter="6.0"/>
+    <paraStyle name="Table Heading" fontName="Helvetica" alignment="CENTER"/>
+    <paraStyle name="terp_header" fontName="Helvetica-Bold" fontSize="15.0" leading="19" alignment="LEFT" spaceBefore="12.0" spaceAfter="6.0"/>
+    <paraStyle name="terp_default_8" fontName="Helvetica" fontSize="8.0" leading="10" alignment="LEFT" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="terp_default_Bold_8" fontName="Helvetica-Bold" fontSize="8.0" leading="10" alignment="LEFT" spaceBefore="0.0" spaceAfter="0.0"/>
+    <paraStyle name="terp_default_Bold_9" fontName="Helvetica-Bold" fontSize="9.0" leading="11" alignment="LEFT" spaceBefore="0.0" spaceAfter="0.0"/>
+    <images/>
+  </stylesheet>
+  <story>
+    <para style="Standard">
+      <font color="white"> </font>
+    </para>
+    <blockTable colWidths="182.0,106.0,193.0" style="Table3">
+      <tr>
+        <td>
+          <para style="terp_default_Bold_9">
+            Invoice and Dispatch to:
+          </para>
+          <para style="terp_default_Bold_9">
+            <font color="white"> </font>
+          </para>
+          <para style="P12">Garg Associates Priveat Limited </para>
+          <para style="P12">D-3, Meerut Road Industrial Area-3 </para>
+          <para style="P12">Phone: +91-120-2712128 </para>
+          <para style="P12">FAX: +91-120-2712051 </para>
+          <para style="P8">Web Site: http://www.gargasso.com </para>
+          <para style="terp_default_Bold_9">
+            <font color="white"> </font>
+          </para>
+          <para style="terp_default_8"><font face="Helvetica">TIN NO</font>: <font face="Helvetica">9389000008</font></para>
+          <para style="terp_default_8">
+            <font face="Helvetica">CST NO</font>
+            <font face="Helvetica">: GD-5004956/20.07.65</font>
+          </para>
+          <para style="terp_default_8">
+            <font face="Helvetica">PAN NO:</font>
+            <font face="Helvetica">AAACG8772G</font>
+          </para>
+          <para style="terp_default_8"><font face="Helvetica">ECC NO</font>: <font face="Helvetica">AAACG8772GXM001</font></para>
+          <para style="terp_default_Bold_9">
+            <font face="Helvetica"/>
+          </para>
+		<para style="terp_default_Bold_9">Report NO: [[ print_date(data['form']) ]]/SUB</para>
+        </td>
+        <td>
+          <para style="Table Contents">
+            <font color="white"> </font>
+          </para>
+        </td>
+        <td>
+          <para style="terp_default_Bold_9">Supplier Address:</para>
+          <para style="terp_default_Bold_9">
+            <font color="white"> </font>
+          </para>
+          <para style="P8">Sukriti Vidyut Udyod Pvt. Ltd. </para>
+          <para style="P9">D-39, Meerut Road Industrial Area-3 </para>
+          <para style="P8">Phone: 0120-2712015 </para>
+          <para style="P8">Fax: 0120-2713081</para>
+          <para style="P8">
+            <font color="white"> </font>
+          </para>
+        </td>
+      </tr>
+    </blockTable>
+    <para style="Standard">
+      <font color="white"> </font>
+    </para>
+    <para style="Standard">
+      <font color="white"> </font>
+    </para>
+    <blockTable colWidths="250.0,225.0" style="Table1">
+      <tr>
+        <td>
+          <para style="P1">Conductor Ordered</para>
+        </td>
+        <td>
+          <para style="P1">Raw Material Supplied</para>
+        </td>
+       </tr>
+    </blockTable>
+
+    <para style="Standard">
+      <font color="white"> </font>
+    </para>
+    <para style="Standard">
+      <font color="white"> </font>
+    </para>
+    <blockTable colWidths="56.0,95.0,50.0,46.0,52.0,100.0,45.0,30.0" style="Table1">
+      <tr>
+        <td>
+          <para style="P1">MO No</para>
+        </td>
+        <td>
+          <para style="P1">Product Name</para>
+        </td>
+        <td>
+          <para style="P1">UOM</para>
+        </td>
+        <td>
+          <para style="P1">Qty</para>
+        </td>
+        <td>
+          <para style="P1">DO NO</para>
+        </td>
+        <td>
+          <para style="P1">Product Name</para>
+        </td>
+        <td>
+          <para style="P1">UOM</para>
+        </td>
+        <td>
+          <para style="P1">Qty</para>
+        </td>
+      </tr>
+    </blockTable>
+    <section>
+      <para style="Standard">[[ repeatIn(do_move_line(data['form']),'m') ]]</para>
+    <blockTable colWidths="56.0,100.0,44.0,45.0,53.0,110.0,32.0,30.0" style="Table2">
+      <tr>
+        <td>
+          <para style="P4">[[ m['mrp_no'] ]]</para>
+        </td>
+        <td>
+          <para style="P4">[[ m['mrp_product'] ]]</para>
+        </td>
+        <td>
+          <para style="P4">[[ m['mrp_uom'] ]] </para>
+        </td>
+        <td>
+          <para style="P4">[[ m['mrp_qty'] ]]</para>
+        </td>
+        <td>
+          <para style="P4">[[ m['do_no'] ]]</para>
+        </td>
+        <td>
+          <para style="P4">[[ m['product_name'] ]]</para>
+        </td>
+        <td>
+          <para style="P4">[[ m['product_uom'] ]] </para>
+        </td>
+        <td>
+          <para style="P4">[[ m['product_qty'] ]]</para>
+        </td>
+      </tr>
+    </blockTable>
+    </section>
+    <para style="Standard">
+      <font color="white"> </font>
+    </para>
+  </story>
+</document>

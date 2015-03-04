@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <record id="view_stock_moves_print" model="ir.ui.view">
+            <field name="name">moves report</field>
+            <field name="model">stock.move.print</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+            <form string="moves">
+                <label string="This wizard will print report"/>
+                <group colspan="4">
+                    <field name="date"/>
+                </group>
+                <group colspan="4" col="6">
+                    <button icon="gtk-cancel" special="cancel" string="Cancel"/>
+                    <button name="print_report" icon="gtk-print" string="Print" type="object"/>
+                </group>
+            </form>
+            </field>
+        </record>
+
+        <record id="action_view_stock_moves_print" model="ir.actions.act_window">
+            <field name="name">moves report</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">stock.move.print</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">form</field>
+            <field name="target">new</field>
+        </record>
+    <menuitem
+        id="stock_move_print"
+        name="Daily Delivery for Manufature to Subcontract"
+        parent="stock.next_id_61"/>
+
+        <menuitem
+            name="Daily Delivery for Manufature to Subcontract"
+            parent="stock_move_print"
+            action="action_view_stock_moves_print"
+            sequence="6" icon="STOCK_PRINT"
+            id="menu_action_view_stock_moves_print"
+           />
+
+</data>
+</openerp>
